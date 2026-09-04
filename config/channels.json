@@ -1,1 +1,58 @@
-
+{
+    "channels": [
+        {
+            "id": "TVAssembleiaPI.br",
+            "name": "TV Assembleia PI",
+            "aliases": [
+                "TV Assembleia",
+                "TV Alepi",
+                "Assembleia Legislativa do Piauí"
+            ]
+        },
+        {
+            "id": "Globo.br",
+            "name": "Globo",
+            "aliases": [
+                "Rede Globo",
+                "TV Globo"
+            ]
+        },
+        {
+            "id": "SBT.br",
+            "name": "SBT",
+            "aliases": [
+                "Sistema Brasileiro de Televisão"
+            ]
+        },
+        {
+            "id": "RecordTV.br",
+            "name": "Record",
+            "aliases": [
+                "Record TV"
+            ]
+        },
+        {
+            "id": "Band.br",
+            "name": "Band",
+            "aliases": [
+                "Rede Bandeirantes",
+                "TV Bandeirantes"
+            ]
+        },
+        {
+            "id": "TVBrasil.br",
+            "name": "TV Brasil",
+            "aliases": [
+                "EBC TV Brasil"
+            ]
+        },
+        {
+            "id": "TVCamara.br",
+            "name": "TV Câmara"
+        },
+        {
+            "id": "TVSenado.br",
+            "name": "TV Senado"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "timezone": "America/Fortaleza",
+    "days_ahead": 2,
+    "request_timeout": 30,
+    "sources": {
+        "guiadetv": {
+            "enabled": true,
+            "priority": 1,
+            "url": "https://www.guiadetv.com/programacao"
+        },
+        "mitv": {
+            "enabled": true,
+            "priority": 2,
+            "url": "https://mi.tv/br/programacao"
+        },
+        "tvmap": {
+            "enabled": true,
+            "priority": 3,
+            "url": "https://tvmap.com.br/Programacao"
+        },
+        "alepi": {
+            "enabled": true,
+            "priority": 0,
+            "url": "https://www.al.pi.leg.br/comunicacao/tv-assembleia/programacao"
+        },
+        "iptv_org": {
+            "enabled": true,
+            "channels_url": "https://iptv-org.github.io/api/channels.json",
+            "guides_url": "https://iptv-org.github.io/api/guides.json"
+        }
+    }
+}
