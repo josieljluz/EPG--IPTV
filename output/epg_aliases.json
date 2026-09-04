@@ -1,0 +1,42 @@
+{
+    "TVAssembleiaPI.br": {
+        "iptv_org_id": "TVAssembleiaPiaui.br",
+        "name": "TV Assembleia Piaui",
+        "country": "BR"
+    },
+    "Globo.br": {
+        "iptv_org_id": "GloboNews.br",
+        "name": "GloboNews",
+        "country": "BR"
+    },
+    "SBT.br": {
+        "iptv_org_id": "PlusSBTNovelas.br",
+        "name": "+SBT Novelas",
+        "country": "BR"
+    },
+    "RecordTV.br": {
+        "iptv_org_id": "Record.br",
+        "name": "Record",
+        "country": "BR"
+    },
+    "Band.br": {
+        "iptv_org_id": "Band.br",
+        "name": "Band",
+        "country": "BR"
+    },
+    "TVBrasil.br": {
+        "iptv_org_id": "TVBrasil.br",
+        "name": "TV Brasil",
+        "country": "BR"
+    },
+    "TVCamara.br": {
+        "iptv_org_id": "TVCamara.br",
+        "name": "TV Camara",
+        "country": "BR"
+    },
+    "TVSenado.br": {
+        "iptv_org_id": "TVSenado.br",
+        "name": "TV Senado",
+        "country": "BR"
+    }
+}
