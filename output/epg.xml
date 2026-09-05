@@ -24,1710 +24,6 @@
   <channel id="TVSenado.br">
     <display-name lang="pt">TV Senado</display-name>
   </channel>
-  <programme start="20260904060000 -0300" stop="20260904070000 -0300" channel="TVAssembleiaPI.br">
-    <title lang="pt">TERÇO MISTÉRIOS GOZOSOS DAS MULHERES</title>
-  </programme>
-  <programme start="20260904060000 -0300" stop="20260904070000 -0300" channel="TVAssembleiaPI.br">
-    <title lang="pt">TV SENADO</title>
-  </programme>
-  <programme start="20260904060000 -0300" stop="20260904070000 -0300" channel="TVAssembleiaPI.br">
-    <title lang="pt">NOVENA NOSSA SENHORA DO PERPÉTUO SOCORRO</title>
-  </programme>
-  <programme start="20260904060000 -0300" stop="20260904070000 -0300" channel="TVAssembleiaPI.br">
-    <title lang="pt">TERÇO MISTÉRIOS GLORIOSOS</title>
-  </programme>
-  <programme start="20260904060000 -0300" stop="20260904070000 -0300" channel="TVAssembleiaPI.br">
-    <title lang="pt">TERÇO MISTÉRIOS LUMINOSOS</title>
-  </programme>
-  <programme start="20260904060000 -0300" stop="20260904070000 -0300" channel="TVAssembleiaPI.br">
-    <title lang="pt">TERÇO MÃOS ENSAGUENTADAS DE JESUS</title>
-  </programme>
-  <programme start="20260904060000 -0300" stop="20260904070000 -0300" channel="TVAssembleiaPI.br">
-    <title lang="pt">TERÇO MISTÉRIO GOZOSOS DOS HOMENS</title>
-  </programme>
-  <programme start="20260904060000 -0300" stop="20260904070000 -0300" channel="TVAssembleiaPI.br">
-    <title lang="pt">PROGRAMAÇÃO LIVRE</title>
-  </programme>
-  <programme start="20260904060000 -0300" stop="20260904070000 -0300" channel="TVAssembleiaPI.br">
-    <title lang="pt">SANTA MISSA</title>
-  </programme>
-  <programme start="20260904060000 -0300" stop="20260904070000 -0300" channel="Globo.br">
-    <title lang="pt">TERÇO MISTÉRIOS GOZOSOS DAS MULHERES</title>
-  </programme>
-  <programme start="20260904060000 -0300" stop="20260904070000 -0300" channel="Globo.br">
-    <title lang="pt">TV SENADO</title>
-  </programme>
-  <programme start="20260904060000 -0300" stop="20260904070000 -0300" channel="Globo.br">
-    <title lang="pt">NOVENA NOSSA SENHORA DO PERPÉTUO SOCORRO</title>
-  </programme>
-  <programme start="20260904060000 -0300" stop="20260904070000 -0300" channel="Globo.br">
-    <title lang="pt">TERÇO MISTÉRIOS GLORIOSOS</title>
-  </programme>
-  <programme start="20260904060000 -0300" stop="20260904070000 -0300" channel="Globo.br">
-    <title lang="pt">TERÇO MISTÉRIOS LUMINOSOS</title>
-  </programme>
-  <programme start="20260904060000 -0300" stop="20260904070000 -0300" channel="Globo.br">
-    <title lang="pt">TERÇO MÃOS ENSAGUENTADAS DE JESUS</title>
-  </programme>
-  <programme start="20260904060000 -0300" stop="20260904070000 -0300" channel="Globo.br">
-    <title lang="pt">TERÇO MISTÉRIO GOZOSOS DOS HOMENS</title>
-  </programme>
-  <programme start="20260904060000 -0300" stop="20260904070000 -0300" channel="Globo.br">
-    <title lang="pt">PROGRAMAÇÃO LIVRE</title>
-  </programme>
-  <programme start="20260904060000 -0300" stop="20260904070000 -0300" channel="Globo.br">
-    <title lang="pt">SANTA MISSA</title>
-  </programme>
-  <programme start="20260904060000 -0300" stop="20260904070000 -0300" channel="SBT.br">
-    <title lang="pt">TERÇO MISTÉRIOS GOZOSOS DAS MULHERES</title>
-  </programme>
-  <programme start="20260904060000 -0300" stop="20260904070000 -0300" channel="SBT.br">
-    <title lang="pt">TV SENADO</title>
-  </programme>
-  <programme start="20260904060000 -0300" stop="20260904070000 -0300" channel="SBT.br">
-    <title lang="pt">NOVENA NOSSA SENHORA DO PERPÉTUO SOCORRO</title>
-  </programme>
-  <programme start="20260904060000 -0300" stop="20260904070000 -0300" channel="SBT.br">
-    <title lang="pt">TERÇO MISTÉRIOS GLORIOSOS</title>
-  </programme>
-  <programme start="20260904060000 -0300" stop="20260904070000 -0300" channel="SBT.br">
-    <title lang="pt">TERÇO MISTÉRIOS LUMINOSOS</title>
-  </programme>
-  <programme start="20260904060000 -0300" stop="20260904070000 -0300" channel="SBT.br">
-    <title lang="pt">TERÇO MÃOS ENSAGUENTADAS DE JESUS</title>
-  </programme>
-  <programme start="20260904060000 -0300" stop="20260904070000 -0300" channel="SBT.br">
-    <title lang="pt">TERÇO MISTÉRIO GOZOSOS DOS HOMENS</title>
-  </programme>
-  <programme start="20260904060000 -0300" stop="20260904070000 -0300" channel="SBT.br">
-    <title lang="pt">PROGRAMAÇÃO LIVRE</title>
-  </programme>
-  <programme start="20260904060000 -0300" stop="20260904070000 -0300" channel="SBT.br">
-    <title lang="pt">SANTA MISSA</title>
-  </programme>
-  <programme start="20260904060000 -0300" stop="20260904070000 -0300" channel="RecordTV.br">
-    <title lang="pt">TERÇO MISTÉRIOS GOZOSOS DAS MULHERES</title>
-  </programme>
-  <programme start="20260904060000 -0300" stop="20260904070000 -0300" channel="RecordTV.br">
-    <title lang="pt">TV SENADO</title>
-  </programme>
-  <programme start="20260904060000 -0300" stop="20260904070000 -0300" channel="RecordTV.br">
-    <title lang="pt">NOVENA NOSSA SENHORA DO PERPÉTUO SOCORRO</title>
-  </programme>
-  <programme start="20260904060000 -0300" stop="20260904070000 -0300" channel="RecordTV.br">
-    <title lang="pt">TERÇO MISTÉRIOS GLORIOSOS</title>
-  </programme>
-  <programme start="20260904060000 -0300" stop="20260904070000 -0300" channel="RecordTV.br">
-    <title lang="pt">TERÇO MISTÉRIOS LUMINOSOS</title>
-  </programme>
-  <programme start="20260904060000 -0300" stop="20260904070000 -0300" channel="RecordTV.br">
-    <title lang="pt">TERÇO MÃOS ENSAGUENTADAS DE JESUS</title>
-  </programme>
-  <programme start="20260904060000 -0300" stop="20260904070000 -0300" channel="RecordTV.br">
-    <title lang="pt">TERÇO MISTÉRIO GOZOSOS DOS HOMENS</title>
-  </programme>
-  <programme start="20260904060000 -0300" stop="20260904070000 -0300" channel="RecordTV.br">
-    <title lang="pt">PROGRAMAÇÃO LIVRE</title>
-  </programme>
-  <programme start="20260904060000 -0300" stop="20260904070000 -0300" channel="RecordTV.br">
-    <title lang="pt">SANTA MISSA</title>
-  </programme>
-  <programme start="20260904060000 -0300" stop="20260904070000 -0300" channel="Band.br">
-    <title lang="pt">TERÇO MISTÉRIOS GOZOSOS DAS MULHERES</title>
-  </programme>
-  <programme start="20260904060000 -0300" stop="20260904070000 -0300" channel="Band.br">
-    <title lang="pt">TV SENADO</title>
-  </programme>
-  <programme start="20260904060000 -0300" stop="20260904070000 -0300" channel="Band.br">
-    <title lang="pt">NOVENA NOSSA SENHORA DO PERPÉTUO SOCORRO</title>
-  </programme>
-  <programme start="20260904060000 -0300" stop="20260904070000 -0300" channel="Band.br">
-    <title lang="pt">TERÇO MISTÉRIOS GLORIOSOS</title>
-  </programme>
-  <programme start="20260904060000 -0300" stop="20260904070000 -0300" channel="Band.br">
-    <title lang="pt">TERÇO MISTÉRIOS LUMINOSOS</title>
-  </programme>
-  <programme start="20260904060000 -0300" stop="20260904070000 -0300" channel="Band.br">
-    <title lang="pt">TERÇO MÃOS ENSAGUENTADAS DE JESUS</title>
-  </programme>
-  <programme start="20260904060000 -0300" stop="20260904070000 -0300" channel="Band.br">
-    <title lang="pt">TERÇO MISTÉRIO GOZOSOS DOS HOMENS</title>
-  </programme>
-  <programme start="20260904060000 -0300" stop="20260904070000 -0300" channel="Band.br">
-    <title lang="pt">PROGRAMAÇÃO LIVRE</title>
-  </programme>
-  <programme start="20260904060000 -0300" stop="20260904070000 -0300" channel="Band.br">
-    <title lang="pt">SANTA MISSA</title>
-  </programme>
-  <programme start="20260904060000 -0300" stop="20260904070000 -0300" channel="TVBrasil.br">
-    <title lang="pt">TERÇO MISTÉRIOS GOZOSOS DAS MULHERES</title>
-  </programme>
-  <programme start="20260904060000 -0300" stop="20260904070000 -0300" channel="TVBrasil.br">
-    <title lang="pt">TV SENADO</title>
-  </programme>
-  <programme start="20260904060000 -0300" stop="20260904070000 -0300" channel="TVBrasil.br">
-    <title lang="pt">NOVENA NOSSA SENHORA DO PERPÉTUO SOCORRO</title>
-  </programme>
-  <programme start="20260904060000 -0300" stop="20260904070000 -0300" channel="TVBrasil.br">
-    <title lang="pt">TERÇO MISTÉRIOS GLORIOSOS</title>
-  </programme>
-  <programme start="20260904060000 -0300" stop="20260904070000 -0300" channel="TVBrasil.br">
-    <title lang="pt">TERÇO MISTÉRIOS LUMINOSOS</title>
-  </programme>
-  <programme start="20260904060000 -0300" stop="20260904070000 -0300" channel="TVBrasil.br">
-    <title lang="pt">TERÇO MÃOS ENSAGUENTADAS DE JESUS</title>
-  </programme>
-  <programme start="20260904060000 -0300" stop="20260904070000 -0300" channel="TVBrasil.br">
-    <title lang="pt">TERÇO MISTÉRIO GOZOSOS DOS HOMENS</title>
-  </programme>
-  <programme start="20260904060000 -0300" stop="20260904070000 -0300" channel="TVBrasil.br">
-    <title lang="pt">PROGRAMAÇÃO LIVRE</title>
-  </programme>
-  <programme start="20260904060000 -0300" stop="20260904070000 -0300" channel="TVBrasil.br">
-    <title lang="pt">SANTA MISSA</title>
-  </programme>
-  <programme start="20260904060000 -0300" stop="20260904070000 -0300" channel="TVCamara.br">
-    <title lang="pt">TERÇO MISTÉRIOS GOZOSOS DAS MULHERES</title>
-  </programme>
-  <programme start="20260904060000 -0300" stop="20260904070000 -0300" channel="TVCamara.br">
-    <title lang="pt">TV SENADO</title>
-  </programme>
-  <programme start="20260904060000 -0300" stop="20260904070000 -0300" channel="TVCamara.br">
-    <title lang="pt">NOVENA NOSSA SENHORA DO PERPÉTUO SOCORRO</title>
-  </programme>
-  <programme start="20260904060000 -0300" stop="20260904070000 -0300" channel="TVCamara.br">
-    <title lang="pt">TERÇO MISTÉRIOS GLORIOSOS</title>
-  </programme>
-  <programme start="20260904060000 -0300" stop="20260904070000 -0300" channel="TVCamara.br">
-    <title lang="pt">TERÇO MISTÉRIOS LUMINOSOS</title>
-  </programme>
-  <programme start="20260904060000 -0300" stop="20260904070000 -0300" channel="TVCamara.br">
-    <title lang="pt">TERÇO MÃOS ENSAGUENTADAS DE JESUS</title>
-  </programme>
-  <programme start="20260904060000 -0300" stop="20260904070000 -0300" channel="TVCamara.br">
-    <title lang="pt">TERÇO MISTÉRIO GOZOSOS DOS HOMENS</title>
-  </programme>
-  <programme start="20260904060000 -0300" stop="20260904070000 -0300" channel="TVCamara.br">
-    <title lang="pt">PROGRAMAÇÃO LIVRE</title>
-  </programme>
-  <programme start="20260904060000 -0300" stop="20260904070000 -0300" channel="TVCamara.br">
-    <title lang="pt">SANTA MISSA</title>
-  </programme>
-  <programme start="20260904060000 -0300" stop="20260904070000 -0300" channel="TVSenado.br">
-    <title lang="pt">TERÇO MISTÉRIOS GOZOSOS DAS MULHERES</title>
-  </programme>
-  <programme start="20260904060000 -0300" stop="20260904070000 -0300" channel="TVSenado.br">
-    <title lang="pt">TV SENADO</title>
-  </programme>
-  <programme start="20260904060000 -0300" stop="20260904070000 -0300" channel="TVSenado.br">
-    <title lang="pt">NOVENA NOSSA SENHORA DO PERPÉTUO SOCORRO</title>
-  </programme>
-  <programme start="20260904060000 -0300" stop="20260904070000 -0300" channel="TVSenado.br">
-    <title lang="pt">TERÇO MISTÉRIOS GLORIOSOS</title>
-  </programme>
-  <programme start="20260904060000 -0300" stop="20260904070000 -0300" channel="TVSenado.br">
-    <title lang="pt">TERÇO MISTÉRIOS LUMINOSOS</title>
-  </programme>
-  <programme start="20260904060000 -0300" stop="20260904070000 -0300" channel="TVSenado.br">
-    <title lang="pt">TERÇO MÃOS ENSAGUENTADAS DE JESUS</title>
-  </programme>
-  <programme start="20260904060000 -0300" stop="20260904070000 -0300" channel="TVSenado.br">
-    <title lang="pt">TERÇO MISTÉRIO GOZOSOS DOS HOMENS</title>
-  </programme>
-  <programme start="20260904060000 -0300" stop="20260904070000 -0300" channel="TVSenado.br">
-    <title lang="pt">PROGRAMAÇÃO LIVRE</title>
-  </programme>
-  <programme start="20260904060000 -0300" stop="20260904070000 -0300" channel="TVSenado.br">
-    <title lang="pt">SANTA MISSA</title>
-  </programme>
-  <programme start="20260904070000 -0300" stop="20260904080000 -0300" channel="TVAssembleiaPI.br">
-    <title lang="pt">JORNAL BOM DIA ASSEMBLEIA -</title>
-  </programme>
-  <programme start="20260904070000 -0300" stop="20260904080000 -0300" channel="TVAssembleiaPI.br">
-    <title lang="pt">CINE KIDS</title>
-  </programme>
-  <programme start="20260904070000 -0300" stop="20260904080000 -0300" channel="TVAssembleiaPI.br">
-    <title lang="pt">PIAUÍ QUE PRODUZ -</title>
-  </programme>
-  <programme start="20260904070000 -0300" stop="20260904080000 -0300" channel="Globo.br">
-    <title lang="pt">JORNAL BOM DIA ASSEMBLEIA -</title>
-  </programme>
-  <programme start="20260904070000 -0300" stop="20260904080000 -0300" channel="Globo.br">
-    <title lang="pt">CINE KIDS</title>
-  </programme>
-  <programme start="20260904070000 -0300" stop="20260904080000 -0300" channel="Globo.br">
-    <title lang="pt">PIAUÍ QUE PRODUZ -</title>
-  </programme>
-  <programme start="20260904070000 -0300" stop="20260904080000 -0300" channel="SBT.br">
-    <title lang="pt">JORNAL BOM DIA ASSEMBLEIA -</title>
-  </programme>
-  <programme start="20260904070000 -0300" stop="20260904080000 -0300" channel="SBT.br">
-    <title lang="pt">CINE KIDS</title>
-  </programme>
-  <programme start="20260904070000 -0300" stop="20260904080000 -0300" channel="SBT.br">
-    <title lang="pt">PIAUÍ QUE PRODUZ -</title>
-  </programme>
-  <programme start="20260904070000 -0300" stop="20260904080000 -0300" channel="RecordTV.br">
-    <title lang="pt">JORNAL BOM DIA ASSEMBLEIA -</title>
-  </programme>
-  <programme start="20260904070000 -0300" stop="20260904080000 -0300" channel="RecordTV.br">
-    <title lang="pt">CINE KIDS</title>
-  </programme>
-  <programme start="20260904070000 -0300" stop="20260904080000 -0300" channel="RecordTV.br">
-    <title lang="pt">PIAUÍ QUE PRODUZ -</title>
-  </programme>
-  <programme start="20260904070000 -0300" stop="20260904080000 -0300" channel="Band.br">
-    <title lang="pt">JORNAL BOM DIA ASSEMBLEIA -</title>
-  </programme>
-  <programme start="20260904070000 -0300" stop="20260904080000 -0300" channel="Band.br">
-    <title lang="pt">CINE KIDS</title>
-  </programme>
-  <programme start="20260904070000 -0300" stop="20260904080000 -0300" channel="Band.br">
-    <title lang="pt">PIAUÍ QUE PRODUZ -</title>
-  </programme>
-  <programme start="20260904070000 -0300" stop="20260904080000 -0300" channel="TVBrasil.br">
-    <title lang="pt">JORNAL BOM DIA ASSEMBLEIA -</title>
-  </programme>
-  <programme start="20260904070000 -0300" stop="20260904080000 -0300" channel="TVBrasil.br">
-    <title lang="pt">CINE KIDS</title>
-  </programme>
-  <programme start="20260904070000 -0300" stop="20260904080000 -0300" channel="TVBrasil.br">
-    <title lang="pt">PIAUÍ QUE PRODUZ -</title>
-  </programme>
-  <programme start="20260904070000 -0300" stop="20260904080000 -0300" channel="TVCamara.br">
-    <title lang="pt">JORNAL BOM DIA ASSEMBLEIA -</title>
-  </programme>
-  <programme start="20260904070000 -0300" stop="20260904080000 -0300" channel="TVCamara.br">
-    <title lang="pt">CINE KIDS</title>
-  </programme>
-  <programme start="20260904070000 -0300" stop="20260904080000 -0300" channel="TVCamara.br">
-    <title lang="pt">PIAUÍ QUE PRODUZ -</title>
-  </programme>
-  <programme start="20260904070000 -0300" stop="20260904080000 -0300" channel="TVSenado.br">
-    <title lang="pt">JORNAL BOM DIA ASSEMBLEIA -</title>
-  </programme>
-  <programme start="20260904070000 -0300" stop="20260904080000 -0300" channel="TVSenado.br">
-    <title lang="pt">CINE KIDS</title>
-  </programme>
-  <programme start="20260904070000 -0300" stop="20260904080000 -0300" channel="TVSenado.br">
-    <title lang="pt">PIAUÍ QUE PRODUZ -</title>
-  </programme>
-  <programme start="20260904073000 -0300" stop="20260904083000 -0300" channel="TVAssembleiaPI.br">
-    <title lang="pt">MATUTANDO -</title>
-  </programme>
-  <programme start="20260904073000 -0300" stop="20260904083000 -0300" channel="Globo.br">
-    <title lang="pt">MATUTANDO -</title>
-  </programme>
-  <programme start="20260904073000 -0300" stop="20260904083000 -0300" channel="SBT.br">
-    <title lang="pt">MATUTANDO -</title>
-  </programme>
-  <programme start="20260904073000 -0300" stop="20260904083000 -0300" channel="RecordTV.br">
-    <title lang="pt">MATUTANDO -</title>
-  </programme>
-  <programme start="20260904073000 -0300" stop="20260904083000 -0300" channel="Band.br">
-    <title lang="pt">MATUTANDO -</title>
-  </programme>
-  <programme start="20260904073000 -0300" stop="20260904083000 -0300" channel="TVBrasil.br">
-    <title lang="pt">MATUTANDO -</title>
-  </programme>
-  <programme start="20260904073000 -0300" stop="20260904083000 -0300" channel="TVCamara.br">
-    <title lang="pt">MATUTANDO -</title>
-  </programme>
-  <programme start="20260904073000 -0300" stop="20260904083000 -0300" channel="TVSenado.br">
-    <title lang="pt">MATUTANDO -</title>
-  </programme>
-  <programme start="20260904080000 -0300" stop="20260904090000 -0300" channel="TVAssembleiaPI.br">
-    <title lang="pt">JORNAL BOM DIA ASSEMBLEIA –</title>
-  </programme>
-  <programme start="20260904080000 -0300" stop="20260904090000 -0300" channel="TVAssembleiaPI.br">
-    <title lang="pt">FEITO EM CASA -</title>
-  </programme>
-  <programme start="20260904080000 -0300" stop="20260904090000 -0300" channel="Globo.br">
-    <title lang="pt">JORNAL BOM DIA ASSEMBLEIA –</title>
-  </programme>
-  <programme start="20260904080000 -0300" stop="20260904090000 -0300" channel="Globo.br">
-    <title lang="pt">FEITO EM CASA -</title>
-  </programme>
-  <programme start="20260904080000 -0300" stop="20260904090000 -0300" channel="SBT.br">
-    <title lang="pt">JORNAL BOM DIA ASSEMBLEIA –</title>
-  </programme>
-  <programme start="20260904080000 -0300" stop="20260904090000 -0300" channel="SBT.br">
-    <title lang="pt">FEITO EM CASA -</title>
-  </programme>
-  <programme start="20260904080000 -0300" stop="20260904090000 -0300" channel="RecordTV.br">
-    <title lang="pt">JORNAL BOM DIA ASSEMBLEIA –</title>
-  </programme>
-  <programme start="20260904080000 -0300" stop="20260904090000 -0300" channel="RecordTV.br">
-    <title lang="pt">FEITO EM CASA -</title>
-  </programme>
-  <programme start="20260904080000 -0300" stop="20260904090000 -0300" channel="Band.br">
-    <title lang="pt">JORNAL BOM DIA ASSEMBLEIA –</title>
-  </programme>
-  <programme start="20260904080000 -0300" stop="20260904090000 -0300" channel="Band.br">
-    <title lang="pt">FEITO EM CASA -</title>
-  </programme>
-  <programme start="20260904080000 -0300" stop="20260904090000 -0300" channel="TVBrasil.br">
-    <title lang="pt">JORNAL BOM DIA ASSEMBLEIA –</title>
-  </programme>
-  <programme start="20260904080000 -0300" stop="20260904090000 -0300" channel="TVBrasil.br">
-    <title lang="pt">FEITO EM CASA -</title>
-  </programme>
-  <programme start="20260904080000 -0300" stop="20260904090000 -0300" channel="TVCamara.br">
-    <title lang="pt">JORNAL BOM DIA ASSEMBLEIA –</title>
-  </programme>
-  <programme start="20260904080000 -0300" stop="20260904090000 -0300" channel="TVCamara.br">
-    <title lang="pt">FEITO EM CASA -</title>
-  </programme>
-  <programme start="20260904080000 -0300" stop="20260904090000 -0300" channel="TVSenado.br">
-    <title lang="pt">JORNAL BOM DIA ASSEMBLEIA –</title>
-  </programme>
-  <programme start="20260904080000 -0300" stop="20260904090000 -0300" channel="TVSenado.br">
-    <title lang="pt">FEITO EM CASA -</title>
-  </programme>
-  <programme start="20260904090000 -0300" stop="20260904100000 -0300" channel="TVAssembleiaPI.br">
-    <title lang="pt">LENDAS E HISTÓRIAS</title>
-  </programme>
-  <programme start="20260904090000 -0300" stop="20260904100000 -0300" channel="TVAssembleiaPI.br">
-    <title lang="pt">PIAUÍ CHEIO DE GRAÇA -</title>
-  </programme>
-  <programme start="20260904090000 -0300" stop="20260904100000 -0300" channel="Globo.br">
-    <title lang="pt">LENDAS E HISTÓRIAS</title>
-  </programme>
-  <programme start="20260904090000 -0300" stop="20260904100000 -0300" channel="Globo.br">
-    <title lang="pt">PIAUÍ CHEIO DE GRAÇA -</title>
-  </programme>
-  <programme start="20260904090000 -0300" stop="20260904100000 -0300" channel="SBT.br">
-    <title lang="pt">LENDAS E HISTÓRIAS</title>
-  </programme>
-  <programme start="20260904090000 -0300" stop="20260904100000 -0300" channel="SBT.br">
-    <title lang="pt">PIAUÍ CHEIO DE GRAÇA -</title>
-  </programme>
-  <programme start="20260904090000 -0300" stop="20260904100000 -0300" channel="RecordTV.br">
-    <title lang="pt">LENDAS E HISTÓRIAS</title>
-  </programme>
-  <programme start="20260904090000 -0300" stop="20260904100000 -0300" channel="RecordTV.br">
-    <title lang="pt">PIAUÍ CHEIO DE GRAÇA -</title>
-  </programme>
-  <programme start="20260904090000 -0300" stop="20260904100000 -0300" channel="Band.br">
-    <title lang="pt">LENDAS E HISTÓRIAS</title>
-  </programme>
-  <programme start="20260904090000 -0300" stop="20260904100000 -0300" channel="Band.br">
-    <title lang="pt">PIAUÍ CHEIO DE GRAÇA -</title>
-  </programme>
-  <programme start="20260904090000 -0300" stop="20260904100000 -0300" channel="TVBrasil.br">
-    <title lang="pt">LENDAS E HISTÓRIAS</title>
-  </programme>
-  <programme start="20260904090000 -0300" stop="20260904100000 -0300" channel="TVBrasil.br">
-    <title lang="pt">PIAUÍ CHEIO DE GRAÇA -</title>
-  </programme>
-  <programme start="20260904090000 -0300" stop="20260904100000 -0300" channel="TVCamara.br">
-    <title lang="pt">LENDAS E HISTÓRIAS</title>
-  </programme>
-  <programme start="20260904090000 -0300" stop="20260904100000 -0300" channel="TVCamara.br">
-    <title lang="pt">PIAUÍ CHEIO DE GRAÇA -</title>
-  </programme>
-  <programme start="20260904090000 -0300" stop="20260904100000 -0300" channel="TVSenado.br">
-    <title lang="pt">LENDAS E HISTÓRIAS</title>
-  </programme>
-  <programme start="20260904090000 -0300" stop="20260904100000 -0300" channel="TVSenado.br">
-    <title lang="pt">PIAUÍ CHEIO DE GRAÇA -</title>
-  </programme>
-  <programme start="20260904090500 -0300" stop="20260904100500 -0300" channel="TVAssembleiaPI.br">
-    <title lang="pt">ATIVIDADES PARLAMENTARES ALEPI</title>
-  </programme>
-  <programme start="20260904090500 -0300" stop="20260904100500 -0300" channel="TVAssembleiaPI.br">
-    <title lang="pt">ATIVIDADES PARLAMENTARES - ALEPI</title>
-  </programme>
-  <programme start="20260904090500 -0300" stop="20260904100500 -0300" channel="TVAssembleiaPI.br">
-    <title lang="pt">CINE KIDS</title>
-  </programme>
-  <programme start="20260904090500 -0300" stop="20260904100500 -0300" channel="Globo.br">
-    <title lang="pt">ATIVIDADES PARLAMENTARES ALEPI</title>
-  </programme>
-  <programme start="20260904090500 -0300" stop="20260904100500 -0300" channel="Globo.br">
-    <title lang="pt">ATIVIDADES PARLAMENTARES - ALEPI</title>
-  </programme>
-  <programme start="20260904090500 -0300" stop="20260904100500 -0300" channel="Globo.br">
-    <title lang="pt">CINE KIDS</title>
-  </programme>
-  <programme start="20260904090500 -0300" stop="20260904100500 -0300" channel="SBT.br">
-    <title lang="pt">ATIVIDADES PARLAMENTARES ALEPI</title>
-  </programme>
-  <programme start="20260904090500 -0300" stop="20260904100500 -0300" channel="SBT.br">
-    <title lang="pt">ATIVIDADES PARLAMENTARES - ALEPI</title>
-  </programme>
-  <programme start="20260904090500 -0300" stop="20260904100500 -0300" channel="SBT.br">
-    <title lang="pt">CINE KIDS</title>
-  </programme>
-  <programme start="20260904090500 -0300" stop="20260904100500 -0300" channel="RecordTV.br">
-    <title lang="pt">ATIVIDADES PARLAMENTARES ALEPI</title>
-  </programme>
-  <programme start="20260904090500 -0300" stop="20260904100500 -0300" channel="RecordTV.br">
-    <title lang="pt">ATIVIDADES PARLAMENTARES - ALEPI</title>
-  </programme>
-  <programme start="20260904090500 -0300" stop="20260904100500 -0300" channel="RecordTV.br">
-    <title lang="pt">CINE KIDS</title>
-  </programme>
-  <programme start="20260904090500 -0300" stop="20260904100500 -0300" channel="Band.br">
-    <title lang="pt">ATIVIDADES PARLAMENTARES ALEPI</title>
-  </programme>
-  <programme start="20260904090500 -0300" stop="20260904100500 -0300" channel="Band.br">
-    <title lang="pt">ATIVIDADES PARLAMENTARES - ALEPI</title>
-  </programme>
-  <programme start="20260904090500 -0300" stop="20260904100500 -0300" channel="Band.br">
-    <title lang="pt">CINE KIDS</title>
-  </programme>
-  <programme start="20260904090500 -0300" stop="20260904100500 -0300" channel="TVBrasil.br">
-    <title lang="pt">ATIVIDADES PARLAMENTARES ALEPI</title>
-  </programme>
-  <programme start="20260904090500 -0300" stop="20260904100500 -0300" channel="TVBrasil.br">
-    <title lang="pt">ATIVIDADES PARLAMENTARES - ALEPI</title>
-  </programme>
-  <programme start="20260904090500 -0300" stop="20260904100500 -0300" channel="TVBrasil.br">
-    <title lang="pt">CINE KIDS</title>
-  </programme>
-  <programme start="20260904090500 -0300" stop="20260904100500 -0300" channel="TVCamara.br">
-    <title lang="pt">ATIVIDADES PARLAMENTARES ALEPI</title>
-  </programme>
-  <programme start="20260904090500 -0300" stop="20260904100500 -0300" channel="TVCamara.br">
-    <title lang="pt">ATIVIDADES PARLAMENTARES - ALEPI</title>
-  </programme>
-  <programme start="20260904090500 -0300" stop="20260904100500 -0300" channel="TVCamara.br">
-    <title lang="pt">CINE KIDS</title>
-  </programme>
-  <programme start="20260904090500 -0300" stop="20260904100500 -0300" channel="TVSenado.br">
-    <title lang="pt">ATIVIDADES PARLAMENTARES ALEPI</title>
-  </programme>
-  <programme start="20260904090500 -0300" stop="20260904100500 -0300" channel="TVSenado.br">
-    <title lang="pt">ATIVIDADES PARLAMENTARES - ALEPI</title>
-  </programme>
-  <programme start="20260904090500 -0300" stop="20260904100500 -0300" channel="TVSenado.br">
-    <title lang="pt">CINE KIDS</title>
-  </programme>
-  <programme start="20260904093000 -0300" stop="20260904103000 -0300" channel="TVAssembleiaPI.br">
-    <title lang="pt">CINE KIDS</title>
-  </programme>
-  <programme start="20260904093000 -0300" stop="20260904103000 -0300" channel="Globo.br">
-    <title lang="pt">CINE KIDS</title>
-  </programme>
-  <programme start="20260904093000 -0300" stop="20260904103000 -0300" channel="SBT.br">
-    <title lang="pt">CINE KIDS</title>
-  </programme>
-  <programme start="20260904093000 -0300" stop="20260904103000 -0300" channel="RecordTV.br">
-    <title lang="pt">CINE KIDS</title>
-  </programme>
-  <programme start="20260904093000 -0300" stop="20260904103000 -0300" channel="Band.br">
-    <title lang="pt">CINE KIDS</title>
-  </programme>
-  <programme start="20260904093000 -0300" stop="20260904103000 -0300" channel="TVBrasil.br">
-    <title lang="pt">CINE KIDS</title>
-  </programme>
-  <programme start="20260904093000 -0300" stop="20260904103000 -0300" channel="TVCamara.br">
-    <title lang="pt">CINE KIDS</title>
-  </programme>
-  <programme start="20260904093000 -0300" stop="20260904103000 -0300" channel="TVSenado.br">
-    <title lang="pt">CINE KIDS</title>
-  </programme>
-  <programme start="20260904100000 -0300" stop="20260904110000 -0300" channel="TVAssembleiaPI.br">
-    <title lang="pt">MUSICALÍSSIMA</title>
-  </programme>
-  <programme start="20260904100000 -0300" stop="20260904110000 -0300" channel="Globo.br">
-    <title lang="pt">MUSICALÍSSIMA</title>
-  </programme>
-  <programme start="20260904100000 -0300" stop="20260904110000 -0300" channel="SBT.br">
-    <title lang="pt">MUSICALÍSSIMA</title>
-  </programme>
-  <programme start="20260904100000 -0300" stop="20260904110000 -0300" channel="RecordTV.br">
-    <title lang="pt">MUSICALÍSSIMA</title>
-  </programme>
-  <programme start="20260904100000 -0300" stop="20260904110000 -0300" channel="Band.br">
-    <title lang="pt">MUSICALÍSSIMA</title>
-  </programme>
-  <programme start="20260904100000 -0300" stop="20260904110000 -0300" channel="TVBrasil.br">
-    <title lang="pt">MUSICALÍSSIMA</title>
-  </programme>
-  <programme start="20260904100000 -0300" stop="20260904110000 -0300" channel="TVCamara.br">
-    <title lang="pt">MUSICALÍSSIMA</title>
-  </programme>
-  <programme start="20260904100000 -0300" stop="20260904110000 -0300" channel="TVSenado.br">
-    <title lang="pt">MUSICALÍSSIMA</title>
-  </programme>
-  <programme start="20260904103000 -0300" stop="20260904113000 -0300" channel="TVAssembleiaPI.br">
-    <title lang="pt">VER OUVIR E SENTIR</title>
-  </programme>
-  <programme start="20260904103000 -0300" stop="20260904113000 -0300" channel="TVAssembleiaPI.br">
-    <title lang="pt">VER OUVIR E SENTIR -</title>
-  </programme>
-  <programme start="20260904103000 -0300" stop="20260904113000 -0300" channel="Globo.br">
-    <title lang="pt">VER OUVIR E SENTIR</title>
-  </programme>
-  <programme start="20260904103000 -0300" stop="20260904113000 -0300" channel="Globo.br">
-    <title lang="pt">VER OUVIR E SENTIR -</title>
-  </programme>
-  <programme start="20260904103000 -0300" stop="20260904113000 -0300" channel="SBT.br">
-    <title lang="pt">VER OUVIR E SENTIR</title>
-  </programme>
-  <programme start="20260904103000 -0300" stop="20260904113000 -0300" channel="SBT.br">
-    <title lang="pt">VER OUVIR E SENTIR -</title>
-  </programme>
-  <programme start="20260904103000 -0300" stop="20260904113000 -0300" channel="RecordTV.br">
-    <title lang="pt">VER OUVIR E SENTIR</title>
-  </programme>
-  <programme start="20260904103000 -0300" stop="20260904113000 -0300" channel="RecordTV.br">
-    <title lang="pt">VER OUVIR E SENTIR -</title>
-  </programme>
-  <programme start="20260904103000 -0300" stop="20260904113000 -0300" channel="Band.br">
-    <title lang="pt">VER OUVIR E SENTIR</title>
-  </programme>
-  <programme start="20260904103000 -0300" stop="20260904113000 -0300" channel="Band.br">
-    <title lang="pt">VER OUVIR E SENTIR -</title>
-  </programme>
-  <programme start="20260904103000 -0300" stop="20260904113000 -0300" channel="TVBrasil.br">
-    <title lang="pt">VER OUVIR E SENTIR</title>
-  </programme>
-  <programme start="20260904103000 -0300" stop="20260904113000 -0300" channel="TVBrasil.br">
-    <title lang="pt">VER OUVIR E SENTIR -</title>
-  </programme>
-  <programme start="20260904103000 -0300" stop="20260904113000 -0300" channel="TVCamara.br">
-    <title lang="pt">VER OUVIR E SENTIR</title>
-  </programme>
-  <programme start="20260904103000 -0300" stop="20260904113000 -0300" channel="TVCamara.br">
-    <title lang="pt">VER OUVIR E SENTIR -</title>
-  </programme>
-  <programme start="20260904103000 -0300" stop="20260904113000 -0300" channel="TVSenado.br">
-    <title lang="pt">VER OUVIR E SENTIR</title>
-  </programme>
-  <programme start="20260904103000 -0300" stop="20260904113000 -0300" channel="TVSenado.br">
-    <title lang="pt">VER OUVIR E SENTIR -</title>
-  </programme>
-  <programme start="20260904110000 -0300" stop="20260904120000 -0300" channel="TVAssembleiaPI.br">
-    <title lang="pt">PAUTA CULTURAL -</title>
-  </programme>
-  <programme start="20260904110000 -0300" stop="20260904120000 -0300" channel="TVAssembleiaPI.br">
-    <title lang="pt">MÚSICA PARA TODOS</title>
-  </programme>
-  <programme start="20260904110000 -0300" stop="20260904120000 -0300" channel="TVAssembleiaPI.br">
-    <title lang="pt">MÚSICA PARA TODOS -</title>
-  </programme>
-  <programme start="20260904110000 -0300" stop="20260904120000 -0300" channel="Globo.br">
-    <title lang="pt">PAUTA CULTURAL -</title>
-  </programme>
-  <programme start="20260904110000 -0300" stop="20260904120000 -0300" channel="Globo.br">
-    <title lang="pt">MÚSICA PARA TODOS</title>
-  </programme>
-  <programme start="20260904110000 -0300" stop="20260904120000 -0300" channel="Globo.br">
-    <title lang="pt">MÚSICA PARA TODOS -</title>
-  </programme>
-  <programme start="20260904110000 -0300" stop="20260904120000 -0300" channel="SBT.br">
-    <title lang="pt">PAUTA CULTURAL -</title>
-  </programme>
-  <programme start="20260904110000 -0300" stop="20260904120000 -0300" channel="SBT.br">
-    <title lang="pt">MÚSICA PARA TODOS</title>
-  </programme>
-  <programme start="20260904110000 -0300" stop="20260904120000 -0300" channel="SBT.br">
-    <title lang="pt">MÚSICA PARA TODOS -</title>
-  </programme>
-  <programme start="20260904110000 -0300" stop="20260904120000 -0300" channel="RecordTV.br">
-    <title lang="pt">PAUTA CULTURAL -</title>
-  </programme>
-  <programme start="20260904110000 -0300" stop="20260904120000 -0300" channel="RecordTV.br">
-    <title lang="pt">MÚSICA PARA TODOS</title>
-  </programme>
-  <programme start="20260904110000 -0300" stop="20260904120000 -0300" channel="RecordTV.br">
-    <title lang="pt">MÚSICA PARA TODOS -</title>
-  </programme>
-  <programme start="20260904110000 -0300" stop="20260904120000 -0300" channel="Band.br">
-    <title lang="pt">PAUTA CULTURAL -</title>
-  </programme>
-  <programme start="20260904110000 -0300" stop="20260904120000 -0300" channel="Band.br">
-    <title lang="pt">MÚSICA PARA TODOS</title>
-  </programme>
-  <programme start="20260904110000 -0300" stop="20260904120000 -0300" channel="Band.br">
-    <title lang="pt">MÚSICA PARA TODOS -</title>
-  </programme>
-  <programme start="20260904110000 -0300" stop="20260904120000 -0300" channel="TVBrasil.br">
-    <title lang="pt">PAUTA CULTURAL -</title>
-  </programme>
-  <programme start="20260904110000 -0300" stop="20260904120000 -0300" channel="TVBrasil.br">
-    <title lang="pt">MÚSICA PARA TODOS</title>
-  </programme>
-  <programme start="20260904110000 -0300" stop="20260904120000 -0300" channel="TVBrasil.br">
-    <title lang="pt">MÚSICA PARA TODOS -</title>
-  </programme>
-  <programme start="20260904110000 -0300" stop="20260904120000 -0300" channel="TVCamara.br">
-    <title lang="pt">PAUTA CULTURAL -</title>
-  </programme>
-  <programme start="20260904110000 -0300" stop="20260904120000 -0300" channel="TVCamara.br">
-    <title lang="pt">MÚSICA PARA TODOS</title>
-  </programme>
-  <programme start="20260904110000 -0300" stop="20260904120000 -0300" channel="TVCamara.br">
-    <title lang="pt">MÚSICA PARA TODOS -</title>
-  </programme>
-  <programme start="20260904110000 -0300" stop="20260904120000 -0300" channel="TVSenado.br">
-    <title lang="pt">PAUTA CULTURAL -</title>
-  </programme>
-  <programme start="20260904110000 -0300" stop="20260904120000 -0300" channel="TVSenado.br">
-    <title lang="pt">MÚSICA PARA TODOS</title>
-  </programme>
-  <programme start="20260904110000 -0300" stop="20260904120000 -0300" channel="TVSenado.br">
-    <title lang="pt">MÚSICA PARA TODOS -</title>
-  </programme>
-  <programme start="20260904120000 -0300" stop="20260904130000 -0300" channel="TVAssembleiaPI.br">
-    <title lang="pt">JORNAL ALEPI 1ª EDIÇÃO –</title>
-  </programme>
-  <programme start="20260904120000 -0300" stop="20260904130000 -0300" channel="TVAssembleiaPI.br">
-    <title lang="pt">PAUTA CULTURAL -</title>
-  </programme>
-  <programme start="20260904120000 -0300" stop="20260904130000 -0300" channel="TVAssembleiaPI.br">
-    <title lang="pt">CINE ALEPI</title>
-  </programme>
-  <programme start="20260904120000 -0300" stop="20260904130000 -0300" channel="Globo.br">
-    <title lang="pt">JORNAL ALEPI 1ª EDIÇÃO –</title>
-  </programme>
-  <programme start="20260904120000 -0300" stop="20260904130000 -0300" channel="Globo.br">
-    <title lang="pt">PAUTA CULTURAL -</title>
-  </programme>
-  <programme start="20260904120000 -0300" stop="20260904130000 -0300" channel="Globo.br">
-    <title lang="pt">CINE ALEPI</title>
-  </programme>
-  <programme start="20260904120000 -0300" stop="20260904130000 -0300" channel="SBT.br">
-    <title lang="pt">JORNAL ALEPI 1ª EDIÇÃO –</title>
-  </programme>
-  <programme start="20260904120000 -0300" stop="20260904130000 -0300" channel="SBT.br">
-    <title lang="pt">PAUTA CULTURAL -</title>
-  </programme>
-  <programme start="20260904120000 -0300" stop="20260904130000 -0300" channel="SBT.br">
-    <title lang="pt">CINE ALEPI</title>
-  </programme>
-  <programme start="20260904120000 -0300" stop="20260904130000 -0300" channel="RecordTV.br">
-    <title lang="pt">JORNAL ALEPI 1ª EDIÇÃO –</title>
-  </programme>
-  <programme start="20260904120000 -0300" stop="20260904130000 -0300" channel="RecordTV.br">
-    <title lang="pt">PAUTA CULTURAL -</title>
-  </programme>
-  <programme start="20260904120000 -0300" stop="20260904130000 -0300" channel="RecordTV.br">
-    <title lang="pt">CINE ALEPI</title>
-  </programme>
-  <programme start="20260904120000 -0300" stop="20260904130000 -0300" channel="Band.br">
-    <title lang="pt">JORNAL ALEPI 1ª EDIÇÃO –</title>
-  </programme>
-  <programme start="20260904120000 -0300" stop="20260904130000 -0300" channel="Band.br">
-    <title lang="pt">PAUTA CULTURAL -</title>
-  </programme>
-  <programme start="20260904120000 -0300" stop="20260904130000 -0300" channel="Band.br">
-    <title lang="pt">CINE ALEPI</title>
-  </programme>
-  <programme start="20260904120000 -0300" stop="20260904130000 -0300" channel="TVBrasil.br">
-    <title lang="pt">JORNAL ALEPI 1ª EDIÇÃO –</title>
-  </programme>
-  <programme start="20260904120000 -0300" stop="20260904130000 -0300" channel="TVBrasil.br">
-    <title lang="pt">PAUTA CULTURAL -</title>
-  </programme>
-  <programme start="20260904120000 -0300" stop="20260904130000 -0300" channel="TVBrasil.br">
-    <title lang="pt">CINE ALEPI</title>
-  </programme>
-  <programme start="20260904120000 -0300" stop="20260904130000 -0300" channel="TVCamara.br">
-    <title lang="pt">JORNAL ALEPI 1ª EDIÇÃO –</title>
-  </programme>
-  <programme start="20260904120000 -0300" stop="20260904130000 -0300" channel="TVCamara.br">
-    <title lang="pt">PAUTA CULTURAL -</title>
-  </programme>
-  <programme start="20260904120000 -0300" stop="20260904130000 -0300" channel="TVCamara.br">
-    <title lang="pt">CINE ALEPI</title>
-  </programme>
-  <programme start="20260904120000 -0300" stop="20260904130000 -0300" channel="TVSenado.br">
-    <title lang="pt">JORNAL ALEPI 1ª EDIÇÃO –</title>
-  </programme>
-  <programme start="20260904120000 -0300" stop="20260904130000 -0300" channel="TVSenado.br">
-    <title lang="pt">PAUTA CULTURAL -</title>
-  </programme>
-  <programme start="20260904120000 -0300" stop="20260904130000 -0300" channel="TVSenado.br">
-    <title lang="pt">CINE ALEPI</title>
-  </programme>
-  <programme start="20260904123000 -0300" stop="20260904133000 -0300" channel="TVAssembleiaPI.br">
-    <title lang="pt">BOM GOSTO</title>
-  </programme>
-  <programme start="20260904123000 -0300" stop="20260904133000 -0300" channel="Globo.br">
-    <title lang="pt">BOM GOSTO</title>
-  </programme>
-  <programme start="20260904123000 -0300" stop="20260904133000 -0300" channel="SBT.br">
-    <title lang="pt">BOM GOSTO</title>
-  </programme>
-  <programme start="20260904123000 -0300" stop="20260904133000 -0300" channel="RecordTV.br">
-    <title lang="pt">BOM GOSTO</title>
-  </programme>
-  <programme start="20260904123000 -0300" stop="20260904133000 -0300" channel="Band.br">
-    <title lang="pt">BOM GOSTO</title>
-  </programme>
-  <programme start="20260904123000 -0300" stop="20260904133000 -0300" channel="TVBrasil.br">
-    <title lang="pt">BOM GOSTO</title>
-  </programme>
-  <programme start="20260904123000 -0300" stop="20260904133000 -0300" channel="TVCamara.br">
-    <title lang="pt">BOM GOSTO</title>
-  </programme>
-  <programme start="20260904123000 -0300" stop="20260904133000 -0300" channel="TVSenado.br">
-    <title lang="pt">BOM GOSTO</title>
-  </programme>
-  <programme start="20260904130000 -0300" stop="20260904140000 -0300" channel="TVAssembleiaPI.br">
-    <title lang="pt">JORNAL ALEPI 1ª EDIÇÃO –</title>
-  </programme>
-  <programme start="20260904130000 -0300" stop="20260904140000 -0300" channel="TVAssembleiaPI.br">
-    <title lang="pt">JORNAL ALEPI 1ª EDIÇÃO -</title>
-  </programme>
-  <programme start="20260904130000 -0300" stop="20260904140000 -0300" channel="Globo.br">
-    <title lang="pt">JORNAL ALEPI 1ª EDIÇÃO –</title>
-  </programme>
-  <programme start="20260904130000 -0300" stop="20260904140000 -0300" channel="Globo.br">
-    <title lang="pt">JORNAL ALEPI 1ª EDIÇÃO -</title>
-  </programme>
-  <programme start="20260904130000 -0300" stop="20260904140000 -0300" channel="SBT.br">
-    <title lang="pt">JORNAL ALEPI 1ª EDIÇÃO –</title>
-  </programme>
-  <programme start="20260904130000 -0300" stop="20260904140000 -0300" channel="SBT.br">
-    <title lang="pt">JORNAL ALEPI 1ª EDIÇÃO -</title>
-  </programme>
-  <programme start="20260904130000 -0300" stop="20260904140000 -0300" channel="RecordTV.br">
-    <title lang="pt">JORNAL ALEPI 1ª EDIÇÃO –</title>
-  </programme>
-  <programme start="20260904130000 -0300" stop="20260904140000 -0300" channel="RecordTV.br">
-    <title lang="pt">JORNAL ALEPI 1ª EDIÇÃO -</title>
-  </programme>
-  <programme start="20260904130000 -0300" stop="20260904140000 -0300" channel="Band.br">
-    <title lang="pt">JORNAL ALEPI 1ª EDIÇÃO –</title>
-  </programme>
-  <programme start="20260904130000 -0300" stop="20260904140000 -0300" channel="Band.br">
-    <title lang="pt">JORNAL ALEPI 1ª EDIÇÃO -</title>
-  </programme>
-  <programme start="20260904130000 -0300" stop="20260904140000 -0300" channel="TVBrasil.br">
-    <title lang="pt">JORNAL ALEPI 1ª EDIÇÃO –</title>
-  </programme>
-  <programme start="20260904130000 -0300" stop="20260904140000 -0300" channel="TVBrasil.br">
-    <title lang="pt">JORNAL ALEPI 1ª EDIÇÃO -</title>
-  </programme>
-  <programme start="20260904130000 -0300" stop="20260904140000 -0300" channel="TVCamara.br">
-    <title lang="pt">JORNAL ALEPI 1ª EDIÇÃO –</title>
-  </programme>
-  <programme start="20260904130000 -0300" stop="20260904140000 -0300" channel="TVCamara.br">
-    <title lang="pt">JORNAL ALEPI 1ª EDIÇÃO -</title>
-  </programme>
-  <programme start="20260904130000 -0300" stop="20260904140000 -0300" channel="TVSenado.br">
-    <title lang="pt">JORNAL ALEPI 1ª EDIÇÃO –</title>
-  </programme>
-  <programme start="20260904130000 -0300" stop="20260904140000 -0300" channel="TVSenado.br">
-    <title lang="pt">JORNAL ALEPI 1ª EDIÇÃO -</title>
-  </programme>
-  <programme start="20260904133000 -0300" stop="20260904143000 -0300" channel="TVAssembleiaPI.br">
-    <title lang="pt">BOM GOSTO</title>
-  </programme>
-  <programme start="20260904133000 -0300" stop="20260904143000 -0300" channel="Globo.br">
-    <title lang="pt">BOM GOSTO</title>
-  </programme>
-  <programme start="20260904133000 -0300" stop="20260904143000 -0300" channel="SBT.br">
-    <title lang="pt">BOM GOSTO</title>
-  </programme>
-  <programme start="20260904133000 -0300" stop="20260904143000 -0300" channel="RecordTV.br">
-    <title lang="pt">BOM GOSTO</title>
-  </programme>
-  <programme start="20260904133000 -0300" stop="20260904143000 -0300" channel="Band.br">
-    <title lang="pt">BOM GOSTO</title>
-  </programme>
-  <programme start="20260904133000 -0300" stop="20260904143000 -0300" channel="TVBrasil.br">
-    <title lang="pt">BOM GOSTO</title>
-  </programme>
-  <programme start="20260904133000 -0300" stop="20260904143000 -0300" channel="TVCamara.br">
-    <title lang="pt">BOM GOSTO</title>
-  </programme>
-  <programme start="20260904133000 -0300" stop="20260904143000 -0300" channel="TVSenado.br">
-    <title lang="pt">BOM GOSTO</title>
-  </programme>
-  <programme start="20260904140000 -0300" stop="20260904150000 -0300" channel="TVAssembleiaPI.br">
-    <title lang="pt">PIAUÍ CHEIO DE GRAÇA -</title>
-  </programme>
-  <programme start="20260904140000 -0300" stop="20260904150000 -0300" channel="Globo.br">
-    <title lang="pt">PIAUÍ CHEIO DE GRAÇA -</title>
-  </programme>
-  <programme start="20260904140000 -0300" stop="20260904150000 -0300" channel="SBT.br">
-    <title lang="pt">PIAUÍ CHEIO DE GRAÇA -</title>
-  </programme>
-  <programme start="20260904140000 -0300" stop="20260904150000 -0300" channel="RecordTV.br">
-    <title lang="pt">PIAUÍ CHEIO DE GRAÇA -</title>
-  </programme>
-  <programme start="20260904140000 -0300" stop="20260904150000 -0300" channel="Band.br">
-    <title lang="pt">PIAUÍ CHEIO DE GRAÇA -</title>
-  </programme>
-  <programme start="20260904140000 -0300" stop="20260904150000 -0300" channel="TVBrasil.br">
-    <title lang="pt">PIAUÍ CHEIO DE GRAÇA -</title>
-  </programme>
-  <programme start="20260904140000 -0300" stop="20260904150000 -0300" channel="TVCamara.br">
-    <title lang="pt">PIAUÍ CHEIO DE GRAÇA -</title>
-  </programme>
-  <programme start="20260904140000 -0300" stop="20260904150000 -0300" channel="TVSenado.br">
-    <title lang="pt">PIAUÍ CHEIO DE GRAÇA -</title>
-  </programme>
-  <programme start="20260904143000 -0300" stop="20260904153000 -0300" channel="TVAssembleiaPI.br">
-    <title lang="pt">PALAVRA ABERTA –</title>
-  </programme>
-  <programme start="20260904143000 -0300" stop="20260904153000 -0300" channel="TVAssembleiaPI.br">
-    <title lang="pt">PALAVRA ABERTA / AJUSPI –</title>
-  </programme>
-  <programme start="20260904143000 -0300" stop="20260904153000 -0300" channel="TVAssembleiaPI.br">
-    <title lang="pt">PALAVRA ABERTA -</title>
-  </programme>
-  <programme start="20260904143000 -0300" stop="20260904153000 -0300" channel="TVAssembleiaPI.br">
-    <title lang="pt">MUSICALÍSSIMA</title>
-  </programme>
-  <programme start="20260904143000 -0300" stop="20260904153000 -0300" channel="TVAssembleiaPI.br">
-    <title lang="pt">FEITO EM CASA</title>
-  </programme>
-  <programme start="20260904143000 -0300" stop="20260904153000 -0300" channel="Globo.br">
-    <title lang="pt">PALAVRA ABERTA –</title>
-  </programme>
-  <programme start="20260904143000 -0300" stop="20260904153000 -0300" channel="Globo.br">
-    <title lang="pt">PALAVRA ABERTA / AJUSPI –</title>
-  </programme>
-  <programme start="20260904143000 -0300" stop="20260904153000 -0300" channel="Globo.br">
-    <title lang="pt">PALAVRA ABERTA -</title>
-  </programme>
-  <programme start="20260904143000 -0300" stop="20260904153000 -0300" channel="Globo.br">
-    <title lang="pt">MUSICALÍSSIMA</title>
-  </programme>
-  <programme start="20260904143000 -0300" stop="20260904153000 -0300" channel="Globo.br">
-    <title lang="pt">FEITO EM CASA</title>
-  </programme>
-  <programme start="20260904143000 -0300" stop="20260904153000 -0300" channel="SBT.br">
-    <title lang="pt">PALAVRA ABERTA –</title>
-  </programme>
-  <programme start="20260904143000 -0300" stop="20260904153000 -0300" channel="SBT.br">
-    <title lang="pt">PALAVRA ABERTA / AJUSPI –</title>
-  </programme>
-  <programme start="20260904143000 -0300" stop="20260904153000 -0300" channel="SBT.br">
-    <title lang="pt">PALAVRA ABERTA -</title>
-  </programme>
-  <programme start="20260904143000 -0300" stop="20260904153000 -0300" channel="SBT.br">
-    <title lang="pt">MUSICALÍSSIMA</title>
-  </programme>
-  <programme start="20260904143000 -0300" stop="20260904153000 -0300" channel="SBT.br">
-    <title lang="pt">FEITO EM CASA</title>
-  </programme>
-  <programme start="20260904143000 -0300" stop="20260904153000 -0300" channel="RecordTV.br">
-    <title lang="pt">PALAVRA ABERTA –</title>
-  </programme>
-  <programme start="20260904143000 -0300" stop="20260904153000 -0300" channel="RecordTV.br">
-    <title lang="pt">PALAVRA ABERTA / AJUSPI –</title>
-  </programme>
-  <programme start="20260904143000 -0300" stop="20260904153000 -0300" channel="RecordTV.br">
-    <title lang="pt">PALAVRA ABERTA -</title>
-  </programme>
-  <programme start="20260904143000 -0300" stop="20260904153000 -0300" channel="RecordTV.br">
-    <title lang="pt">MUSICALÍSSIMA</title>
-  </programme>
-  <programme start="20260904143000 -0300" stop="20260904153000 -0300" channel="RecordTV.br">
-    <title lang="pt">FEITO EM CASA</title>
-  </programme>
-  <programme start="20260904143000 -0300" stop="20260904153000 -0300" channel="Band.br">
-    <title lang="pt">PALAVRA ABERTA –</title>
-  </programme>
-  <programme start="20260904143000 -0300" stop="20260904153000 -0300" channel="Band.br">
-    <title lang="pt">PALAVRA ABERTA / AJUSPI –</title>
-  </programme>
-  <programme start="20260904143000 -0300" stop="20260904153000 -0300" channel="Band.br">
-    <title lang="pt">PALAVRA ABERTA -</title>
-  </programme>
-  <programme start="20260904143000 -0300" stop="20260904153000 -0300" channel="Band.br">
-    <title lang="pt">MUSICALÍSSIMA</title>
-  </programme>
-  <programme start="20260904143000 -0300" stop="20260904153000 -0300" channel="Band.br">
-    <title lang="pt">FEITO EM CASA</title>
-  </programme>
-  <programme start="20260904143000 -0300" stop="20260904153000 -0300" channel="TVBrasil.br">
-    <title lang="pt">PALAVRA ABERTA –</title>
-  </programme>
-  <programme start="20260904143000 -0300" stop="20260904153000 -0300" channel="TVBrasil.br">
-    <title lang="pt">PALAVRA ABERTA / AJUSPI –</title>
-  </programme>
-  <programme start="20260904143000 -0300" stop="20260904153000 -0300" channel="TVBrasil.br">
-    <title lang="pt">PALAVRA ABERTA -</title>
-  </programme>
-  <programme start="20260904143000 -0300" stop="20260904153000 -0300" channel="TVBrasil.br">
-    <title lang="pt">MUSICALÍSSIMA</title>
-  </programme>
-  <programme start="20260904143000 -0300" stop="20260904153000 -0300" channel="TVBrasil.br">
-    <title lang="pt">FEITO EM CASA</title>
-  </programme>
-  <programme start="20260904143000 -0300" stop="20260904153000 -0300" channel="TVCamara.br">
-    <title lang="pt">PALAVRA ABERTA –</title>
-  </programme>
-  <programme start="20260904143000 -0300" stop="20260904153000 -0300" channel="TVCamara.br">
-    <title lang="pt">PALAVRA ABERTA / AJUSPI –</title>
-  </programme>
-  <programme start="20260904143000 -0300" stop="20260904153000 -0300" channel="TVCamara.br">
-    <title lang="pt">PALAVRA ABERTA -</title>
-  </programme>
-  <programme start="20260904143000 -0300" stop="20260904153000 -0300" channel="TVCamara.br">
-    <title lang="pt">MUSICALÍSSIMA</title>
-  </programme>
-  <programme start="20260904143000 -0300" stop="20260904153000 -0300" channel="TVCamara.br">
-    <title lang="pt">FEITO EM CASA</title>
-  </programme>
-  <programme start="20260904143000 -0300" stop="20260904153000 -0300" channel="TVSenado.br">
-    <title lang="pt">PALAVRA ABERTA –</title>
-  </programme>
-  <programme start="20260904143000 -0300" stop="20260904153000 -0300" channel="TVSenado.br">
-    <title lang="pt">PALAVRA ABERTA / AJUSPI –</title>
-  </programme>
-  <programme start="20260904143000 -0300" stop="20260904153000 -0300" channel="TVSenado.br">
-    <title lang="pt">PALAVRA ABERTA -</title>
-  </programme>
-  <programme start="20260904143000 -0300" stop="20260904153000 -0300" channel="TVSenado.br">
-    <title lang="pt">MUSICALÍSSIMA</title>
-  </programme>
-  <programme start="20260904143000 -0300" stop="20260904153000 -0300" channel="TVSenado.br">
-    <title lang="pt">FEITO EM CASA</title>
-  </programme>
-  <programme start="20260904150000 -0300" stop="20260904160000 -0300" channel="TVAssembleiaPI.br">
-    <title lang="pt">CINE ALEPI</title>
-  </programme>
-  <programme start="20260904150000 -0300" stop="20260904160000 -0300" channel="Globo.br">
-    <title lang="pt">CINE ALEPI</title>
-  </programme>
-  <programme start="20260904150000 -0300" stop="20260904160000 -0300" channel="SBT.br">
-    <title lang="pt">CINE ALEPI</title>
-  </programme>
-  <programme start="20260904150000 -0300" stop="20260904160000 -0300" channel="RecordTV.br">
-    <title lang="pt">CINE ALEPI</title>
-  </programme>
-  <programme start="20260904150000 -0300" stop="20260904160000 -0300" channel="Band.br">
-    <title lang="pt">CINE ALEPI</title>
-  </programme>
-  <programme start="20260904150000 -0300" stop="20260904160000 -0300" channel="TVBrasil.br">
-    <title lang="pt">CINE ALEPI</title>
-  </programme>
-  <programme start="20260904150000 -0300" stop="20260904160000 -0300" channel="TVCamara.br">
-    <title lang="pt">CINE ALEPI</title>
-  </programme>
-  <programme start="20260904150000 -0300" stop="20260904160000 -0300" channel="TVSenado.br">
-    <title lang="pt">CINE ALEPI</title>
-  </programme>
-  <programme start="20260904153000 -0300" stop="20260904163000 -0300" channel="TVAssembleiaPI.br">
-    <title lang="pt">ESTÚDIO INTERATIVO –</title>
-  </programme>
-  <programme start="20260904153000 -0300" stop="20260904163000 -0300" channel="TVAssembleiaPI.br">
-    <title lang="pt">ESTÚDIO INTERATIVO -</title>
-  </programme>
-  <programme start="20260904153000 -0300" stop="20260904163000 -0300" channel="Globo.br">
-    <title lang="pt">ESTÚDIO INTERATIVO –</title>
-  </programme>
-  <programme start="20260904153000 -0300" stop="20260904163000 -0300" channel="Globo.br">
-    <title lang="pt">ESTÚDIO INTERATIVO -</title>
-  </programme>
-  <programme start="20260904153000 -0300" stop="20260904163000 -0300" channel="SBT.br">
-    <title lang="pt">ESTÚDIO INTERATIVO –</title>
-  </programme>
-  <programme start="20260904153000 -0300" stop="20260904163000 -0300" channel="SBT.br">
-    <title lang="pt">ESTÚDIO INTERATIVO -</title>
-  </programme>
-  <programme start="20260904153000 -0300" stop="20260904163000 -0300" channel="RecordTV.br">
-    <title lang="pt">ESTÚDIO INTERATIVO –</title>
-  </programme>
-  <programme start="20260904153000 -0300" stop="20260904163000 -0300" channel="RecordTV.br">
-    <title lang="pt">ESTÚDIO INTERATIVO -</title>
-  </programme>
-  <programme start="20260904153000 -0300" stop="20260904163000 -0300" channel="Band.br">
-    <title lang="pt">ESTÚDIO INTERATIVO –</title>
-  </programme>
-  <programme start="20260904153000 -0300" stop="20260904163000 -0300" channel="Band.br">
-    <title lang="pt">ESTÚDIO INTERATIVO -</title>
-  </programme>
-  <programme start="20260904153000 -0300" stop="20260904163000 -0300" channel="TVBrasil.br">
-    <title lang="pt">ESTÚDIO INTERATIVO –</title>
-  </programme>
-  <programme start="20260904153000 -0300" stop="20260904163000 -0300" channel="TVBrasil.br">
-    <title lang="pt">ESTÚDIO INTERATIVO -</title>
-  </programme>
-  <programme start="20260904153000 -0300" stop="20260904163000 -0300" channel="TVCamara.br">
-    <title lang="pt">ESTÚDIO INTERATIVO –</title>
-  </programme>
-  <programme start="20260904153000 -0300" stop="20260904163000 -0300" channel="TVCamara.br">
-    <title lang="pt">ESTÚDIO INTERATIVO -</title>
-  </programme>
-  <programme start="20260904153000 -0300" stop="20260904163000 -0300" channel="TVSenado.br">
-    <title lang="pt">ESTÚDIO INTERATIVO –</title>
-  </programme>
-  <programme start="20260904153000 -0300" stop="20260904163000 -0300" channel="TVSenado.br">
-    <title lang="pt">ESTÚDIO INTERATIVO -</title>
-  </programme>
-  <programme start="20260904160000 -0300" stop="20260904170000 -0300" channel="TVAssembleiaPI.br">
-    <title lang="pt">SOB OUTRO OLHAR –</title>
-  </programme>
-  <programme start="20260904160000 -0300" stop="20260904170000 -0300" channel="Globo.br">
-    <title lang="pt">SOB OUTRO OLHAR –</title>
-  </programme>
-  <programme start="20260904160000 -0300" stop="20260904170000 -0300" channel="SBT.br">
-    <title lang="pt">SOB OUTRO OLHAR –</title>
-  </programme>
-  <programme start="20260904160000 -0300" stop="20260904170000 -0300" channel="RecordTV.br">
-    <title lang="pt">SOB OUTRO OLHAR –</title>
-  </programme>
-  <programme start="20260904160000 -0300" stop="20260904170000 -0300" channel="Band.br">
-    <title lang="pt">SOB OUTRO OLHAR –</title>
-  </programme>
-  <programme start="20260904160000 -0300" stop="20260904170000 -0300" channel="TVBrasil.br">
-    <title lang="pt">SOB OUTRO OLHAR –</title>
-  </programme>
-  <programme start="20260904160000 -0300" stop="20260904170000 -0300" channel="TVCamara.br">
-    <title lang="pt">SOB OUTRO OLHAR –</title>
-  </programme>
-  <programme start="20260904160000 -0300" stop="20260904170000 -0300" channel="TVSenado.br">
-    <title lang="pt">SOB OUTRO OLHAR –</title>
-  </programme>
-  <programme start="20260904171000 -0300" stop="20260904181000 -0300" channel="TVAssembleiaPI.br">
-    <title lang="pt">ESPORTE NA ÁREA –</title>
-  </programme>
-  <programme start="20260904171000 -0300" stop="20260904181000 -0300" channel="Globo.br">
-    <title lang="pt">ESPORTE NA ÁREA –</title>
-  </programme>
-  <programme start="20260904171000 -0300" stop="20260904181000 -0300" channel="SBT.br">
-    <title lang="pt">ESPORTE NA ÁREA –</title>
-  </programme>
-  <programme start="20260904171000 -0300" stop="20260904181000 -0300" channel="RecordTV.br">
-    <title lang="pt">ESPORTE NA ÁREA –</title>
-  </programme>
-  <programme start="20260904171000 -0300" stop="20260904181000 -0300" channel="Band.br">
-    <title lang="pt">ESPORTE NA ÁREA –</title>
-  </programme>
-  <programme start="20260904171000 -0300" stop="20260904181000 -0300" channel="TVBrasil.br">
-    <title lang="pt">ESPORTE NA ÁREA –</title>
-  </programme>
-  <programme start="20260904171000 -0300" stop="20260904181000 -0300" channel="TVCamara.br">
-    <title lang="pt">ESPORTE NA ÁREA –</title>
-  </programme>
-  <programme start="20260904171000 -0300" stop="20260904181000 -0300" channel="TVSenado.br">
-    <title lang="pt">ESPORTE NA ÁREA –</title>
-  </programme>
-  <programme start="20260904172000 -0300" stop="20260904182000 -0300" channel="TVAssembleiaPI.br">
-    <title lang="pt">CRIATIVIDADE</title>
-  </programme>
-  <programme start="20260904172000 -0300" stop="20260904182000 -0300" channel="Globo.br">
-    <title lang="pt">CRIATIVIDADE</title>
-  </programme>
-  <programme start="20260904172000 -0300" stop="20260904182000 -0300" channel="SBT.br">
-    <title lang="pt">CRIATIVIDADE</title>
-  </programme>
-  <programme start="20260904172000 -0300" stop="20260904182000 -0300" channel="RecordTV.br">
-    <title lang="pt">CRIATIVIDADE</title>
-  </programme>
-  <programme start="20260904172000 -0300" stop="20260904182000 -0300" channel="Band.br">
-    <title lang="pt">CRIATIVIDADE</title>
-  </programme>
-  <programme start="20260904172000 -0300" stop="20260904182000 -0300" channel="TVBrasil.br">
-    <title lang="pt">CRIATIVIDADE</title>
-  </programme>
-  <programme start="20260904172000 -0300" stop="20260904182000 -0300" channel="TVCamara.br">
-    <title lang="pt">CRIATIVIDADE</title>
-  </programme>
-  <programme start="20260904172000 -0300" stop="20260904182000 -0300" channel="TVSenado.br">
-    <title lang="pt">CRIATIVIDADE</title>
-  </programme>
-  <programme start="20260904173000 -0300" stop="20260904183000 -0300" channel="TVAssembleiaPI.br">
-    <title lang="pt">DIRETO DO SITE - TARDE</title>
-  </programme>
-  <programme start="20260904173000 -0300" stop="20260904183000 -0300" channel="TVAssembleiaPI.br">
-    <title lang="pt">O DONO DA RUA</title>
-  </programme>
-  <programme start="20260904173000 -0300" stop="20260904183000 -0300" channel="Globo.br">
-    <title lang="pt">DIRETO DO SITE - TARDE</title>
-  </programme>
-  <programme start="20260904173000 -0300" stop="20260904183000 -0300" channel="Globo.br">
-    <title lang="pt">O DONO DA RUA</title>
-  </programme>
-  <programme start="20260904173000 -0300" stop="20260904183000 -0300" channel="SBT.br">
-    <title lang="pt">DIRETO DO SITE - TARDE</title>
-  </programme>
-  <programme start="20260904173000 -0300" stop="20260904183000 -0300" channel="SBT.br">
-    <title lang="pt">O DONO DA RUA</title>
-  </programme>
-  <programme start="20260904173000 -0300" stop="20260904183000 -0300" channel="RecordTV.br">
-    <title lang="pt">DIRETO DO SITE - TARDE</title>
-  </programme>
-  <programme start="20260904173000 -0300" stop="20260904183000 -0300" channel="RecordTV.br">
-    <title lang="pt">O DONO DA RUA</title>
-  </programme>
-  <programme start="20260904173000 -0300" stop="20260904183000 -0300" channel="Band.br">
-    <title lang="pt">DIRETO DO SITE - TARDE</title>
-  </programme>
-  <programme start="20260904173000 -0300" stop="20260904183000 -0300" channel="Band.br">
-    <title lang="pt">O DONO DA RUA</title>
-  </programme>
-  <programme start="20260904173000 -0300" stop="20260904183000 -0300" channel="TVBrasil.br">
-    <title lang="pt">DIRETO DO SITE - TARDE</title>
-  </programme>
-  <programme start="20260904173000 -0300" stop="20260904183000 -0300" channel="TVBrasil.br">
-    <title lang="pt">O DONO DA RUA</title>
-  </programme>
-  <programme start="20260904173000 -0300" stop="20260904183000 -0300" channel="TVCamara.br">
-    <title lang="pt">DIRETO DO SITE - TARDE</title>
-  </programme>
-  <programme start="20260904173000 -0300" stop="20260904183000 -0300" channel="TVCamara.br">
-    <title lang="pt">O DONO DA RUA</title>
-  </programme>
-  <programme start="20260904173000 -0300" stop="20260904183000 -0300" channel="TVSenado.br">
-    <title lang="pt">DIRETO DO SITE - TARDE</title>
-  </programme>
-  <programme start="20260904173000 -0300" stop="20260904183000 -0300" channel="TVSenado.br">
-    <title lang="pt">O DONO DA RUA</title>
-  </programme>
-  <programme start="20260904173100 -0300" stop="20260904183100 -0300" channel="TVAssembleiaPI.br">
-    <title lang="pt">O DONO DA RUA</title>
-  </programme>
-  <programme start="20260904173100 -0300" stop="20260904183100 -0300" channel="Globo.br">
-    <title lang="pt">O DONO DA RUA</title>
-  </programme>
-  <programme start="20260904173100 -0300" stop="20260904183100 -0300" channel="SBT.br">
-    <title lang="pt">O DONO DA RUA</title>
-  </programme>
-  <programme start="20260904173100 -0300" stop="20260904183100 -0300" channel="RecordTV.br">
-    <title lang="pt">O DONO DA RUA</title>
-  </programme>
-  <programme start="20260904173100 -0300" stop="20260904183100 -0300" channel="Band.br">
-    <title lang="pt">O DONO DA RUA</title>
-  </programme>
-  <programme start="20260904173100 -0300" stop="20260904183100 -0300" channel="TVBrasil.br">
-    <title lang="pt">O DONO DA RUA</title>
-  </programme>
-  <programme start="20260904173100 -0300" stop="20260904183100 -0300" channel="TVCamara.br">
-    <title lang="pt">O DONO DA RUA</title>
-  </programme>
-  <programme start="20260904173100 -0300" stop="20260904183100 -0300" channel="TVSenado.br">
-    <title lang="pt">O DONO DA RUA</title>
-  </programme>
-  <programme start="20260904174000 -0300" stop="20260904184000 -0300" channel="TVAssembleiaPI.br">
-    <title lang="pt">MPTV</title>
-  </programme>
-  <programme start="20260904174000 -0300" stop="20260904184000 -0300" channel="Globo.br">
-    <title lang="pt">MPTV</title>
-  </programme>
-  <programme start="20260904174000 -0300" stop="20260904184000 -0300" channel="SBT.br">
-    <title lang="pt">MPTV</title>
-  </programme>
-  <programme start="20260904174000 -0300" stop="20260904184000 -0300" channel="RecordTV.br">
-    <title lang="pt">MPTV</title>
-  </programme>
-  <programme start="20260904174000 -0300" stop="20260904184000 -0300" channel="Band.br">
-    <title lang="pt">MPTV</title>
-  </programme>
-  <programme start="20260904174000 -0300" stop="20260904184000 -0300" channel="TVBrasil.br">
-    <title lang="pt">MPTV</title>
-  </programme>
-  <programme start="20260904174000 -0300" stop="20260904184000 -0300" channel="TVCamara.br">
-    <title lang="pt">MPTV</title>
-  </programme>
-  <programme start="20260904174000 -0300" stop="20260904184000 -0300" channel="TVSenado.br">
-    <title lang="pt">MPTV</title>
-  </programme>
-  <programme start="20260904174500 -0300" stop="20260904184500 -0300" channel="TVAssembleiaPI.br">
-    <title lang="pt">CENA ABERTA –</title>
-  </programme>
-  <programme start="20260904174500 -0300" stop="20260904184500 -0300" channel="Globo.br">
-    <title lang="pt">CENA ABERTA –</title>
-  </programme>
-  <programme start="20260904174500 -0300" stop="20260904184500 -0300" channel="SBT.br">
-    <title lang="pt">CENA ABERTA –</title>
-  </programme>
-  <programme start="20260904174500 -0300" stop="20260904184500 -0300" channel="RecordTV.br">
-    <title lang="pt">CENA ABERTA –</title>
-  </programme>
-  <programme start="20260904174500 -0300" stop="20260904184500 -0300" channel="Band.br">
-    <title lang="pt">CENA ABERTA –</title>
-  </programme>
-  <programme start="20260904174500 -0300" stop="20260904184500 -0300" channel="TVBrasil.br">
-    <title lang="pt">CENA ABERTA –</title>
-  </programme>
-  <programme start="20260904174500 -0300" stop="20260904184500 -0300" channel="TVCamara.br">
-    <title lang="pt">CENA ABERTA –</title>
-  </programme>
-  <programme start="20260904174500 -0300" stop="20260904184500 -0300" channel="TVSenado.br">
-    <title lang="pt">CENA ABERTA –</title>
-  </programme>
-  <programme start="20260904175000 -0300" stop="20260904185000 -0300" channel="TVAssembleiaPI.br">
-    <title lang="pt">RAZÕES DA FÉ</title>
-  </programme>
-  <programme start="20260904175000 -0300" stop="20260904185000 -0300" channel="Globo.br">
-    <title lang="pt">RAZÕES DA FÉ</title>
-  </programme>
-  <programme start="20260904175000 -0300" stop="20260904185000 -0300" channel="SBT.br">
-    <title lang="pt">RAZÕES DA FÉ</title>
-  </programme>
-  <programme start="20260904175000 -0300" stop="20260904185000 -0300" channel="RecordTV.br">
-    <title lang="pt">RAZÕES DA FÉ</title>
-  </programme>
-  <programme start="20260904175000 -0300" stop="20260904185000 -0300" channel="Band.br">
-    <title lang="pt">RAZÕES DA FÉ</title>
-  </programme>
-  <programme start="20260904175000 -0300" stop="20260904185000 -0300" channel="TVBrasil.br">
-    <title lang="pt">RAZÕES DA FÉ</title>
-  </programme>
-  <programme start="20260904175000 -0300" stop="20260904185000 -0300" channel="TVCamara.br">
-    <title lang="pt">RAZÕES DA FÉ</title>
-  </programme>
-  <programme start="20260904175000 -0300" stop="20260904185000 -0300" channel="TVSenado.br">
-    <title lang="pt">RAZÕES DA FÉ</title>
-  </programme>
-  <programme start="20260904180000 -0300" stop="20260904190000 -0300" channel="TVAssembleiaPI.br">
-    <title lang="pt">JORNAL ALEPI 2ª EDIÇÃO -</title>
-  </programme>
-  <programme start="20260904180000 -0300" stop="20260904190000 -0300" channel="Globo.br">
-    <title lang="pt">JORNAL ALEPI 2ª EDIÇÃO -</title>
-  </programme>
-  <programme start="20260904180000 -0300" stop="20260904190000 -0300" channel="SBT.br">
-    <title lang="pt">JORNAL ALEPI 2ª EDIÇÃO -</title>
-  </programme>
-  <programme start="20260904180000 -0300" stop="20260904190000 -0300" channel="RecordTV.br">
-    <title lang="pt">JORNAL ALEPI 2ª EDIÇÃO -</title>
-  </programme>
-  <programme start="20260904180000 -0300" stop="20260904190000 -0300" channel="Band.br">
-    <title lang="pt">JORNAL ALEPI 2ª EDIÇÃO -</title>
-  </programme>
-  <programme start="20260904180000 -0300" stop="20260904190000 -0300" channel="TVBrasil.br">
-    <title lang="pt">JORNAL ALEPI 2ª EDIÇÃO -</title>
-  </programme>
-  <programme start="20260904180000 -0300" stop="20260904190000 -0300" channel="TVCamara.br">
-    <title lang="pt">JORNAL ALEPI 2ª EDIÇÃO -</title>
-  </programme>
-  <programme start="20260904180000 -0300" stop="20260904190000 -0300" channel="TVSenado.br">
-    <title lang="pt">JORNAL ALEPI 2ª EDIÇÃO -</title>
-  </programme>
-  <programme start="20260904183000 -0300" stop="20260904193000 -0300" channel="TVAssembleiaPI.br">
-    <title lang="pt">ESPORTE NA ÁREA -</title>
-  </programme>
-  <programme start="20260904183000 -0300" stop="20260904193000 -0300" channel="TVAssembleiaPI.br">
-    <title lang="pt">MUSICALÍSSIMA</title>
-  </programme>
-  <programme start="20260904183000 -0300" stop="20260904193000 -0300" channel="Globo.br">
-    <title lang="pt">ESPORTE NA ÁREA -</title>
-  </programme>
-  <programme start="20260904183000 -0300" stop="20260904193000 -0300" channel="Globo.br">
-    <title lang="pt">MUSICALÍSSIMA</title>
-  </programme>
-  <programme start="20260904183000 -0300" stop="20260904193000 -0300" channel="SBT.br">
-    <title lang="pt">ESPORTE NA ÁREA -</title>
-  </programme>
-  <programme start="20260904183000 -0300" stop="20260904193000 -0300" channel="SBT.br">
-    <title lang="pt">MUSICALÍSSIMA</title>
-  </programme>
-  <programme start="20260904183000 -0300" stop="20260904193000 -0300" channel="RecordTV.br">
-    <title lang="pt">ESPORTE NA ÁREA -</title>
-  </programme>
-  <programme start="20260904183000 -0300" stop="20260904193000 -0300" channel="RecordTV.br">
-    <title lang="pt">MUSICALÍSSIMA</title>
-  </programme>
-  <programme start="20260904183000 -0300" stop="20260904193000 -0300" channel="Band.br">
-    <title lang="pt">ESPORTE NA ÁREA -</title>
-  </programme>
-  <programme start="20260904183000 -0300" stop="20260904193000 -0300" channel="Band.br">
-    <title lang="pt">MUSICALÍSSIMA</title>
-  </programme>
-  <programme start="20260904183000 -0300" stop="20260904193000 -0300" channel="TVBrasil.br">
-    <title lang="pt">ESPORTE NA ÁREA -</title>
-  </programme>
-  <programme start="20260904183000 -0300" stop="20260904193000 -0300" channel="TVBrasil.br">
-    <title lang="pt">MUSICALÍSSIMA</title>
-  </programme>
-  <programme start="20260904183000 -0300" stop="20260904193000 -0300" channel="TVCamara.br">
-    <title lang="pt">ESPORTE NA ÁREA -</title>
-  </programme>
-  <programme start="20260904183000 -0300" stop="20260904193000 -0300" channel="TVCamara.br">
-    <title lang="pt">MUSICALÍSSIMA</title>
-  </programme>
-  <programme start="20260904183000 -0300" stop="20260904193000 -0300" channel="TVSenado.br">
-    <title lang="pt">ESPORTE NA ÁREA -</title>
-  </programme>
-  <programme start="20260904183000 -0300" stop="20260904193000 -0300" channel="TVSenado.br">
-    <title lang="pt">MUSICALÍSSIMA</title>
-  </programme>
-  <programme start="20260904190000 -0300" stop="20260904200000 -0300" channel="TVAssembleiaPI.br">
-    <title lang="pt">JORNAL ALEPI 2ª EDIÇÃO-</title>
-  </programme>
-  <programme start="20260904190000 -0300" stop="20260904200000 -0300" channel="TVAssembleiaPI.br">
-    <title lang="pt">JORNAL ALEPI 2ª EDIÇÃO -</title>
-  </programme>
-  <programme start="20260904190000 -0300" stop="20260904200000 -0300" channel="TVAssembleiaPI.br">
-    <title lang="pt">SARAU 17.1 -</title>
-  </programme>
-  <programme start="20260904190000 -0300" stop="20260904200000 -0300" channel="Globo.br">
-    <title lang="pt">JORNAL ALEPI 2ª EDIÇÃO-</title>
-  </programme>
-  <programme start="20260904190000 -0300" stop="20260904200000 -0300" channel="Globo.br">
-    <title lang="pt">JORNAL ALEPI 2ª EDIÇÃO -</title>
-  </programme>
-  <programme start="20260904190000 -0300" stop="20260904200000 -0300" channel="Globo.br">
-    <title lang="pt">SARAU 17.1 -</title>
-  </programme>
-  <programme start="20260904190000 -0300" stop="20260904200000 -0300" channel="SBT.br">
-    <title lang="pt">JORNAL ALEPI 2ª EDIÇÃO-</title>
-  </programme>
-  <programme start="20260904190000 -0300" stop="20260904200000 -0300" channel="SBT.br">
-    <title lang="pt">JORNAL ALEPI 2ª EDIÇÃO -</title>
-  </programme>
-  <programme start="20260904190000 -0300" stop="20260904200000 -0300" channel="SBT.br">
-    <title lang="pt">SARAU 17.1 -</title>
-  </programme>
-  <programme start="20260904190000 -0300" stop="20260904200000 -0300" channel="RecordTV.br">
-    <title lang="pt">JORNAL ALEPI 2ª EDIÇÃO-</title>
-  </programme>
-  <programme start="20260904190000 -0300" stop="20260904200000 -0300" channel="RecordTV.br">
-    <title lang="pt">JORNAL ALEPI 2ª EDIÇÃO -</title>
-  </programme>
-  <programme start="20260904190000 -0300" stop="20260904200000 -0300" channel="RecordTV.br">
-    <title lang="pt">SARAU 17.1 -</title>
-  </programme>
-  <programme start="20260904190000 -0300" stop="20260904200000 -0300" channel="Band.br">
-    <title lang="pt">JORNAL ALEPI 2ª EDIÇÃO-</title>
-  </programme>
-  <programme start="20260904190000 -0300" stop="20260904200000 -0300" channel="Band.br">
-    <title lang="pt">JORNAL ALEPI 2ª EDIÇÃO -</title>
-  </programme>
-  <programme start="20260904190000 -0300" stop="20260904200000 -0300" channel="Band.br">
-    <title lang="pt">SARAU 17.1 -</title>
-  </programme>
-  <programme start="20260904190000 -0300" stop="20260904200000 -0300" channel="TVBrasil.br">
-    <title lang="pt">JORNAL ALEPI 2ª EDIÇÃO-</title>
-  </programme>
-  <programme start="20260904190000 -0300" stop="20260904200000 -0300" channel="TVBrasil.br">
-    <title lang="pt">JORNAL ALEPI 2ª EDIÇÃO -</title>
-  </programme>
-  <programme start="20260904190000 -0300" stop="20260904200000 -0300" channel="TVBrasil.br">
-    <title lang="pt">SARAU 17.1 -</title>
-  </programme>
-  <programme start="20260904190000 -0300" stop="20260904200000 -0300" channel="TVCamara.br">
-    <title lang="pt">JORNAL ALEPI 2ª EDIÇÃO-</title>
-  </programme>
-  <programme start="20260904190000 -0300" stop="20260904200000 -0300" channel="TVCamara.br">
-    <title lang="pt">JORNAL ALEPI 2ª EDIÇÃO -</title>
-  </programme>
-  <programme start="20260904190000 -0300" stop="20260904200000 -0300" channel="TVCamara.br">
-    <title lang="pt">SARAU 17.1 -</title>
-  </programme>
-  <programme start="20260904190000 -0300" stop="20260904200000 -0300" channel="TVSenado.br">
-    <title lang="pt">JORNAL ALEPI 2ª EDIÇÃO-</title>
-  </programme>
-  <programme start="20260904190000 -0300" stop="20260904200000 -0300" channel="TVSenado.br">
-    <title lang="pt">JORNAL ALEPI 2ª EDIÇÃO -</title>
-  </programme>
-  <programme start="20260904190000 -0300" stop="20260904200000 -0300" channel="TVSenado.br">
-    <title lang="pt">SARAU 17.1 -</title>
-  </programme>
-  <programme start="20260904193000 -0300" stop="20260904203000 -0300" channel="TVAssembleiaPI.br">
-    <title lang="pt">CINE ALEPI – FAROESTE</title>
-  </programme>
-  <programme start="20260904193000 -0300" stop="20260904203000 -0300" channel="TVAssembleiaPI.br">
-    <title lang="pt">CINE ALEPI - FAROESTE</title>
-  </programme>
-  <programme start="20260904193000 -0300" stop="20260904203000 -0300" channel="Globo.br">
-    <title lang="pt">CINE ALEPI – FAROESTE</title>
-  </programme>
-  <programme start="20260904193000 -0300" stop="20260904203000 -0300" channel="Globo.br">
-    <title lang="pt">CINE ALEPI - FAROESTE</title>
-  </programme>
-  <programme start="20260904193000 -0300" stop="20260904203000 -0300" channel="SBT.br">
-    <title lang="pt">CINE ALEPI – FAROESTE</title>
-  </programme>
-  <programme start="20260904193000 -0300" stop="20260904203000 -0300" channel="SBT.br">
-    <title lang="pt">CINE ALEPI - FAROESTE</title>
-  </programme>
-  <programme start="20260904193000 -0300" stop="20260904203000 -0300" channel="RecordTV.br">
-    <title lang="pt">CINE ALEPI – FAROESTE</title>
-  </programme>
-  <programme start="20260904193000 -0300" stop="20260904203000 -0300" channel="RecordTV.br">
-    <title lang="pt">CINE ALEPI - FAROESTE</title>
-  </programme>
-  <programme start="20260904193000 -0300" stop="20260904203000 -0300" channel="Band.br">
-    <title lang="pt">CINE ALEPI – FAROESTE</title>
-  </programme>
-  <programme start="20260904193000 -0300" stop="20260904203000 -0300" channel="Band.br">
-    <title lang="pt">CINE ALEPI - FAROESTE</title>
-  </programme>
-  <programme start="20260904193000 -0300" stop="20260904203000 -0300" channel="TVBrasil.br">
-    <title lang="pt">CINE ALEPI – FAROESTE</title>
-  </programme>
-  <programme start="20260904193000 -0300" stop="20260904203000 -0300" channel="TVBrasil.br">
-    <title lang="pt">CINE ALEPI - FAROESTE</title>
-  </programme>
-  <programme start="20260904193000 -0300" stop="20260904203000 -0300" channel="TVCamara.br">
-    <title lang="pt">CINE ALEPI – FAROESTE</title>
-  </programme>
-  <programme start="20260904193000 -0300" stop="20260904203000 -0300" channel="TVCamara.br">
-    <title lang="pt">CINE ALEPI - FAROESTE</title>
-  </programme>
-  <programme start="20260904193000 -0300" stop="20260904203000 -0300" channel="TVSenado.br">
-    <title lang="pt">CINE ALEPI – FAROESTE</title>
-  </programme>
-  <programme start="20260904193000 -0300" stop="20260904203000 -0300" channel="TVSenado.br">
-    <title lang="pt">CINE ALEPI - FAROESTE</title>
-  </programme>
-  <programme start="20260904200000 -0300" stop="20260904210000 -0300" channel="TVAssembleiaPI.br">
-    <title lang="pt">CINE ALEPI</title>
-  </programme>
-  <programme start="20260904200000 -0300" stop="20260904210000 -0300" channel="Globo.br">
-    <title lang="pt">CINE ALEPI</title>
-  </programme>
-  <programme start="20260904200000 -0300" stop="20260904210000 -0300" channel="SBT.br">
-    <title lang="pt">CINE ALEPI</title>
-  </programme>
-  <programme start="20260904200000 -0300" stop="20260904210000 -0300" channel="RecordTV.br">
-    <title lang="pt">CINE ALEPI</title>
-  </programme>
-  <programme start="20260904200000 -0300" stop="20260904210000 -0300" channel="Band.br">
-    <title lang="pt">CINE ALEPI</title>
-  </programme>
-  <programme start="20260904200000 -0300" stop="20260904210000 -0300" channel="TVBrasil.br">
-    <title lang="pt">CINE ALEPI</title>
-  </programme>
-  <programme start="20260904200000 -0300" stop="20260904210000 -0300" channel="TVCamara.br">
-    <title lang="pt">CINE ALEPI</title>
-  </programme>
-  <programme start="20260904200000 -0300" stop="20260904210000 -0300" channel="TVSenado.br">
-    <title lang="pt">CINE ALEPI</title>
-  </programme>
-  <programme start="20260904210000 -0300" stop="20260904220000 -0300" channel="TVAssembleiaPI.br">
-    <title lang="pt">MATUTANDO</title>
-  </programme>
-  <programme start="20260904210000 -0300" stop="20260904220000 -0300" channel="TVAssembleiaPI.br">
-    <title lang="pt">SARAU 17.1</title>
-  </programme>
-  <programme start="20260904210000 -0300" stop="20260904220000 -0300" channel="TVAssembleiaPI.br">
-    <title lang="pt">APAE</title>
-  </programme>
-  <programme start="20260904210000 -0300" stop="20260904220000 -0300" channel="Globo.br">
-    <title lang="pt">MATUTANDO</title>
-  </programme>
-  <programme start="20260904210000 -0300" stop="20260904220000 -0300" channel="Globo.br">
-    <title lang="pt">SARAU 17.1</title>
-  </programme>
-  <programme start="20260904210000 -0300" stop="20260904220000 -0300" channel="Globo.br">
-    <title lang="pt">APAE</title>
-  </programme>
-  <programme start="20260904210000 -0300" stop="20260904220000 -0300" channel="SBT.br">
-    <title lang="pt">MATUTANDO</title>
-  </programme>
-  <programme start="20260904210000 -0300" stop="20260904220000 -0300" channel="SBT.br">
-    <title lang="pt">SARAU 17.1</title>
-  </programme>
-  <programme start="20260904210000 -0300" stop="20260904220000 -0300" channel="SBT.br">
-    <title lang="pt">APAE</title>
-  </programme>
-  <programme start="20260904210000 -0300" stop="20260904220000 -0300" channel="RecordTV.br">
-    <title lang="pt">MATUTANDO</title>
-  </programme>
-  <programme start="20260904210000 -0300" stop="20260904220000 -0300" channel="RecordTV.br">
-    <title lang="pt">SARAU 17.1</title>
-  </programme>
-  <programme start="20260904210000 -0300" stop="20260904220000 -0300" channel="RecordTV.br">
-    <title lang="pt">APAE</title>
-  </programme>
-  <programme start="20260904210000 -0300" stop="20260904220000 -0300" channel="Band.br">
-    <title lang="pt">MATUTANDO</title>
-  </programme>
-  <programme start="20260904210000 -0300" stop="20260904220000 -0300" channel="Band.br">
-    <title lang="pt">SARAU 17.1</title>
-  </programme>
-  <programme start="20260904210000 -0300" stop="20260904220000 -0300" channel="Band.br">
-    <title lang="pt">APAE</title>
-  </programme>
-  <programme start="20260904210000 -0300" stop="20260904220000 -0300" channel="TVBrasil.br">
-    <title lang="pt">MATUTANDO</title>
-  </programme>
-  <programme start="20260904210000 -0300" stop="20260904220000 -0300" channel="TVBrasil.br">
-    <title lang="pt">SARAU 17.1</title>
-  </programme>
-  <programme start="20260904210000 -0300" stop="20260904220000 -0300" channel="TVBrasil.br">
-    <title lang="pt">APAE</title>
-  </programme>
-  <programme start="20260904210000 -0300" stop="20260904220000 -0300" channel="TVCamara.br">
-    <title lang="pt">MATUTANDO</title>
-  </programme>
-  <programme start="20260904210000 -0300" stop="20260904220000 -0300" channel="TVCamara.br">
-    <title lang="pt">SARAU 17.1</title>
-  </programme>
-  <programme start="20260904210000 -0300" stop="20260904220000 -0300" channel="TVCamara.br">
-    <title lang="pt">APAE</title>
-  </programme>
-  <programme start="20260904210000 -0300" stop="20260904220000 -0300" channel="TVSenado.br">
-    <title lang="pt">MATUTANDO</title>
-  </programme>
-  <programme start="20260904210000 -0300" stop="20260904220000 -0300" channel="TVSenado.br">
-    <title lang="pt">SARAU 17.1</title>
-  </programme>
-  <programme start="20260904210000 -0300" stop="20260904220000 -0300" channel="TVSenado.br">
-    <title lang="pt">APAE</title>
-  </programme>
-  <programme start="20260904213000 -0300" stop="20260904223000 -0300" channel="TVAssembleiaPI.br">
-    <title lang="pt">PIAUÍ QUE PRODUZ -</title>
-  </programme>
-  <programme start="20260904213000 -0300" stop="20260904223000 -0300" channel="TVAssembleiaPI.br">
-    <title lang="pt">SOB OUTRO OLHAR</title>
-  </programme>
-  <programme start="20260904213000 -0300" stop="20260904223000 -0300" channel="TVAssembleiaPI.br">
-    <title lang="pt">PIAUI CHEIO DE GRAÇA</title>
-  </programme>
-  <programme start="20260904213000 -0300" stop="20260904223000 -0300" channel="TVAssembleiaPI.br">
-    <title lang="pt">CENA ABERTA</title>
-  </programme>
-  <programme start="20260904213000 -0300" stop="20260904223000 -0300" channel="Globo.br">
-    <title lang="pt">PIAUÍ QUE PRODUZ -</title>
-  </programme>
-  <programme start="20260904213000 -0300" stop="20260904223000 -0300" channel="Globo.br">
-    <title lang="pt">SOB OUTRO OLHAR</title>
-  </programme>
-  <programme start="20260904213000 -0300" stop="20260904223000 -0300" channel="Globo.br">
-    <title lang="pt">PIAUI CHEIO DE GRAÇA</title>
-  </programme>
-  <programme start="20260904213000 -0300" stop="20260904223000 -0300" channel="Globo.br">
-    <title lang="pt">CENA ABERTA</title>
-  </programme>
-  <programme start="20260904213000 -0300" stop="20260904223000 -0300" channel="SBT.br">
-    <title lang="pt">PIAUÍ QUE PRODUZ -</title>
-  </programme>
-  <programme start="20260904213000 -0300" stop="20260904223000 -0300" channel="SBT.br">
-    <title lang="pt">SOB OUTRO OLHAR</title>
-  </programme>
-  <programme start="20260904213000 -0300" stop="20260904223000 -0300" channel="SBT.br">
-    <title lang="pt">PIAUI CHEIO DE GRAÇA</title>
-  </programme>
-  <programme start="20260904213000 -0300" stop="20260904223000 -0300" channel="SBT.br">
-    <title lang="pt">CENA ABERTA</title>
-  </programme>
-  <programme start="20260904213000 -0300" stop="20260904223000 -0300" channel="RecordTV.br">
-    <title lang="pt">PIAUÍ QUE PRODUZ -</title>
-  </programme>
-  <programme start="20260904213000 -0300" stop="20260904223000 -0300" channel="RecordTV.br">
-    <title lang="pt">SOB OUTRO OLHAR</title>
-  </programme>
-  <programme start="20260904213000 -0300" stop="20260904223000 -0300" channel="RecordTV.br">
-    <title lang="pt">PIAUI CHEIO DE GRAÇA</title>
-  </programme>
-  <programme start="20260904213000 -0300" stop="20260904223000 -0300" channel="RecordTV.br">
-    <title lang="pt">CENA ABERTA</title>
-  </programme>
-  <programme start="20260904213000 -0300" stop="20260904223000 -0300" channel="Band.br">
-    <title lang="pt">PIAUÍ QUE PRODUZ -</title>
-  </programme>
-  <programme start="20260904213000 -0300" stop="20260904223000 -0300" channel="Band.br">
-    <title lang="pt">SOB OUTRO OLHAR</title>
-  </programme>
-  <programme start="20260904213000 -0300" stop="20260904223000 -0300" channel="Band.br">
-    <title lang="pt">PIAUI CHEIO DE GRAÇA</title>
-  </programme>
-  <programme start="20260904213000 -0300" stop="20260904223000 -0300" channel="Band.br">
-    <title lang="pt">CENA ABERTA</title>
-  </programme>
-  <programme start="20260904213000 -0300" stop="20260904223000 -0300" channel="TVBrasil.br">
-    <title lang="pt">PIAUÍ QUE PRODUZ -</title>
-  </programme>
-  <programme start="20260904213000 -0300" stop="20260904223000 -0300" channel="TVBrasil.br">
-    <title lang="pt">SOB OUTRO OLHAR</title>
-  </programme>
-  <programme start="20260904213000 -0300" stop="20260904223000 -0300" channel="TVBrasil.br">
-    <title lang="pt">PIAUI CHEIO DE GRAÇA</title>
-  </programme>
-  <programme start="20260904213000 -0300" stop="20260904223000 -0300" channel="TVBrasil.br">
-    <title lang="pt">CENA ABERTA</title>
-  </programme>
-  <programme start="20260904213000 -0300" stop="20260904223000 -0300" channel="TVCamara.br">
-    <title lang="pt">PIAUÍ QUE PRODUZ -</title>
-  </programme>
-  <programme start="20260904213000 -0300" stop="20260904223000 -0300" channel="TVCamara.br">
-    <title lang="pt">SOB OUTRO OLHAR</title>
-  </programme>
-  <programme start="20260904213000 -0300" stop="20260904223000 -0300" channel="TVCamara.br">
-    <title lang="pt">PIAUI CHEIO DE GRAÇA</title>
-  </programme>
-  <programme start="20260904213000 -0300" stop="20260904223000 -0300" channel="TVCamara.br">
-    <title lang="pt">CENA ABERTA</title>
-  </programme>
-  <programme start="20260904213000 -0300" stop="20260904223000 -0300" channel="TVSenado.br">
-    <title lang="pt">PIAUÍ QUE PRODUZ -</title>
-  </programme>
-  <programme start="20260904213000 -0300" stop="20260904223000 -0300" channel="TVSenado.br">
-    <title lang="pt">SOB OUTRO OLHAR</title>
-  </programme>
-  <programme start="20260904213000 -0300" stop="20260904223000 -0300" channel="TVSenado.br">
-    <title lang="pt">PIAUI CHEIO DE GRAÇA</title>
-  </programme>
-  <programme start="20260904213000 -0300" stop="20260904223000 -0300" channel="TVSenado.br">
-    <title lang="pt">CENA ABERTA</title>
-  </programme>
-  <programme start="20260904220000 -0300" stop="20260904230000 -0300" channel="TVAssembleiaPI.br">
-    <title lang="pt">SESSÃO PLENÁRIA -</title>
-  </programme>
-  <programme start="20260904220000 -0300" stop="20260904230000 -0300" channel="TVAssembleiaPI.br">
-    <title lang="pt">SESSÃO PLENÁRIA –</title>
-  </programme>
-  <programme start="20260904220000 -0300" stop="20260904230000 -0300" channel="TVAssembleiaPI.br">
-    <title lang="pt">APAE -</title>
-  </programme>
-  <programme start="20260904220000 -0300" stop="20260904230000 -0300" channel="Globo.br">
-    <title lang="pt">SESSÃO PLENÁRIA -</title>
-  </programme>
-  <programme start="20260904220000 -0300" stop="20260904230000 -0300" channel="Globo.br">
-    <title lang="pt">SESSÃO PLENÁRIA –</title>
-  </programme>
-  <programme start="20260904220000 -0300" stop="20260904230000 -0300" channel="Globo.br">
-    <title lang="pt">APAE -</title>
-  </programme>
-  <programme start="20260904220000 -0300" stop="20260904230000 -0300" channel="SBT.br">
-    <title lang="pt">SESSÃO PLENÁRIA -</title>
-  </programme>
-  <programme start="20260904220000 -0300" stop="20260904230000 -0300" channel="SBT.br">
-    <title lang="pt">SESSÃO PLENÁRIA –</title>
-  </programme>
-  <programme start="20260904220000 -0300" stop="20260904230000 -0300" channel="SBT.br">
-    <title lang="pt">APAE -</title>
-  </programme>
-  <programme start="20260904220000 -0300" stop="20260904230000 -0300" channel="RecordTV.br">
-    <title lang="pt">SESSÃO PLENÁRIA -</title>
-  </programme>
-  <programme start="20260904220000 -0300" stop="20260904230000 -0300" channel="RecordTV.br">
-    <title lang="pt">SESSÃO PLENÁRIA –</title>
-  </programme>
-  <programme start="20260904220000 -0300" stop="20260904230000 -0300" channel="RecordTV.br">
-    <title lang="pt">APAE -</title>
-  </programme>
-  <programme start="20260904220000 -0300" stop="20260904230000 -0300" channel="Band.br">
-    <title lang="pt">SESSÃO PLENÁRIA -</title>
-  </programme>
-  <programme start="20260904220000 -0300" stop="20260904230000 -0300" channel="Band.br">
-    <title lang="pt">SESSÃO PLENÁRIA –</title>
-  </programme>
-  <programme start="20260904220000 -0300" stop="20260904230000 -0300" channel="Band.br">
-    <title lang="pt">APAE -</title>
-  </programme>
-  <programme start="20260904220000 -0300" stop="20260904230000 -0300" channel="TVBrasil.br">
-    <title lang="pt">SESSÃO PLENÁRIA -</title>
-  </programme>
-  <programme start="20260904220000 -0300" stop="20260904230000 -0300" channel="TVBrasil.br">
-    <title lang="pt">SESSÃO PLENÁRIA –</title>
-  </programme>
-  <programme start="20260904220000 -0300" stop="20260904230000 -0300" channel="TVBrasil.br">
-    <title lang="pt">APAE -</title>
-  </programme>
-  <programme start="20260904220000 -0300" stop="20260904230000 -0300" channel="TVCamara.br">
-    <title lang="pt">SESSÃO PLENÁRIA -</title>
-  </programme>
-  <programme start="20260904220000 -0300" stop="20260904230000 -0300" channel="TVCamara.br">
-    <title lang="pt">SESSÃO PLENÁRIA –</title>
-  </programme>
-  <programme start="20260904220000 -0300" stop="20260904230000 -0300" channel="TVCamara.br">
-    <title lang="pt">APAE -</title>
-  </programme>
-  <programme start="20260904220000 -0300" stop="20260904230000 -0300" channel="TVSenado.br">
-    <title lang="pt">SESSÃO PLENÁRIA -</title>
-  </programme>
-  <programme start="20260904220000 -0300" stop="20260904230000 -0300" channel="TVSenado.br">
-    <title lang="pt">SESSÃO PLENÁRIA –</title>
-  </programme>
-  <programme start="20260904220000 -0300" stop="20260904230000 -0300" channel="TVSenado.br">
-    <title lang="pt">APAE -</title>
-  </programme>
   <programme start="20260905060000 -0300" stop="20260905070000 -0300" channel="TVAssembleiaPI.br">
     <title lang="pt">TERÇO MISTÉRIOS GOZOSOS DAS MULHERES</title>
   </programme>
@@ -5134,6 +3430,1710 @@
     <title lang="pt">SESSÃO PLENÁRIA –</title>
   </programme>
   <programme start="20260906220000 -0300" stop="20260906230000 -0300" channel="TVSenado.br">
+    <title lang="pt">APAE -</title>
+  </programme>
+  <programme start="20260907060000 -0300" stop="20260907070000 -0300" channel="TVAssembleiaPI.br">
+    <title lang="pt">TERÇO MISTÉRIOS GOZOSOS DAS MULHERES</title>
+  </programme>
+  <programme start="20260907060000 -0300" stop="20260907070000 -0300" channel="TVAssembleiaPI.br">
+    <title lang="pt">TV SENADO</title>
+  </programme>
+  <programme start="20260907060000 -0300" stop="20260907070000 -0300" channel="TVAssembleiaPI.br">
+    <title lang="pt">NOVENA NOSSA SENHORA DO PERPÉTUO SOCORRO</title>
+  </programme>
+  <programme start="20260907060000 -0300" stop="20260907070000 -0300" channel="TVAssembleiaPI.br">
+    <title lang="pt">TERÇO MISTÉRIOS GLORIOSOS</title>
+  </programme>
+  <programme start="20260907060000 -0300" stop="20260907070000 -0300" channel="TVAssembleiaPI.br">
+    <title lang="pt">TERÇO MISTÉRIOS LUMINOSOS</title>
+  </programme>
+  <programme start="20260907060000 -0300" stop="20260907070000 -0300" channel="TVAssembleiaPI.br">
+    <title lang="pt">TERÇO MÃOS ENSAGUENTADAS DE JESUS</title>
+  </programme>
+  <programme start="20260907060000 -0300" stop="20260907070000 -0300" channel="TVAssembleiaPI.br">
+    <title lang="pt">TERÇO MISTÉRIO GOZOSOS DOS HOMENS</title>
+  </programme>
+  <programme start="20260907060000 -0300" stop="20260907070000 -0300" channel="TVAssembleiaPI.br">
+    <title lang="pt">PROGRAMAÇÃO LIVRE</title>
+  </programme>
+  <programme start="20260907060000 -0300" stop="20260907070000 -0300" channel="TVAssembleiaPI.br">
+    <title lang="pt">SANTA MISSA</title>
+  </programme>
+  <programme start="20260907060000 -0300" stop="20260907070000 -0300" channel="Globo.br">
+    <title lang="pt">TERÇO MISTÉRIOS GOZOSOS DAS MULHERES</title>
+  </programme>
+  <programme start="20260907060000 -0300" stop="20260907070000 -0300" channel="Globo.br">
+    <title lang="pt">TV SENADO</title>
+  </programme>
+  <programme start="20260907060000 -0300" stop="20260907070000 -0300" channel="Globo.br">
+    <title lang="pt">NOVENA NOSSA SENHORA DO PERPÉTUO SOCORRO</title>
+  </programme>
+  <programme start="20260907060000 -0300" stop="20260907070000 -0300" channel="Globo.br">
+    <title lang="pt">TERÇO MISTÉRIOS GLORIOSOS</title>
+  </programme>
+  <programme start="20260907060000 -0300" stop="20260907070000 -0300" channel="Globo.br">
+    <title lang="pt">TERÇO MISTÉRIOS LUMINOSOS</title>
+  </programme>
+  <programme start="20260907060000 -0300" stop="20260907070000 -0300" channel="Globo.br">
+    <title lang="pt">TERÇO MÃOS ENSAGUENTADAS DE JESUS</title>
+  </programme>
+  <programme start="20260907060000 -0300" stop="20260907070000 -0300" channel="Globo.br">
+    <title lang="pt">TERÇO MISTÉRIO GOZOSOS DOS HOMENS</title>
+  </programme>
+  <programme start="20260907060000 -0300" stop="20260907070000 -0300" channel="Globo.br">
+    <title lang="pt">PROGRAMAÇÃO LIVRE</title>
+  </programme>
+  <programme start="20260907060000 -0300" stop="20260907070000 -0300" channel="Globo.br">
+    <title lang="pt">SANTA MISSA</title>
+  </programme>
+  <programme start="20260907060000 -0300" stop="20260907070000 -0300" channel="SBT.br">
+    <title lang="pt">TERÇO MISTÉRIOS GOZOSOS DAS MULHERES</title>
+  </programme>
+  <programme start="20260907060000 -0300" stop="20260907070000 -0300" channel="SBT.br">
+    <title lang="pt">TV SENADO</title>
+  </programme>
+  <programme start="20260907060000 -0300" stop="20260907070000 -0300" channel="SBT.br">
+    <title lang="pt">NOVENA NOSSA SENHORA DO PERPÉTUO SOCORRO</title>
+  </programme>
+  <programme start="20260907060000 -0300" stop="20260907070000 -0300" channel="SBT.br">
+    <title lang="pt">TERÇO MISTÉRIOS GLORIOSOS</title>
+  </programme>
+  <programme start="20260907060000 -0300" stop="20260907070000 -0300" channel="SBT.br">
+    <title lang="pt">TERÇO MISTÉRIOS LUMINOSOS</title>
+  </programme>
+  <programme start="20260907060000 -0300" stop="20260907070000 -0300" channel="SBT.br">
+    <title lang="pt">TERÇO MÃOS ENSAGUENTADAS DE JESUS</title>
+  </programme>
+  <programme start="20260907060000 -0300" stop="20260907070000 -0300" channel="SBT.br">
+    <title lang="pt">TERÇO MISTÉRIO GOZOSOS DOS HOMENS</title>
+  </programme>
+  <programme start="20260907060000 -0300" stop="20260907070000 -0300" channel="SBT.br">
+    <title lang="pt">PROGRAMAÇÃO LIVRE</title>
+  </programme>
+  <programme start="20260907060000 -0300" stop="20260907070000 -0300" channel="SBT.br">
+    <title lang="pt">SANTA MISSA</title>
+  </programme>
+  <programme start="20260907060000 -0300" stop="20260907070000 -0300" channel="RecordTV.br">
+    <title lang="pt">TERÇO MISTÉRIOS GOZOSOS DAS MULHERES</title>
+  </programme>
+  <programme start="20260907060000 -0300" stop="20260907070000 -0300" channel="RecordTV.br">
+    <title lang="pt">TV SENADO</title>
+  </programme>
+  <programme start="20260907060000 -0300" stop="20260907070000 -0300" channel="RecordTV.br">
+    <title lang="pt">NOVENA NOSSA SENHORA DO PERPÉTUO SOCORRO</title>
+  </programme>
+  <programme start="20260907060000 -0300" stop="20260907070000 -0300" channel="RecordTV.br">
+    <title lang="pt">TERÇO MISTÉRIOS GLORIOSOS</title>
+  </programme>
+  <programme start="20260907060000 -0300" stop="20260907070000 -0300" channel="RecordTV.br">
+    <title lang="pt">TERÇO MISTÉRIOS LUMINOSOS</title>
+  </programme>
+  <programme start="20260907060000 -0300" stop="20260907070000 -0300" channel="RecordTV.br">
+    <title lang="pt">TERÇO MÃOS ENSAGUENTADAS DE JESUS</title>
+  </programme>
+  <programme start="20260907060000 -0300" stop="20260907070000 -0300" channel="RecordTV.br">
+    <title lang="pt">TERÇO MISTÉRIO GOZOSOS DOS HOMENS</title>
+  </programme>
+  <programme start="20260907060000 -0300" stop="20260907070000 -0300" channel="RecordTV.br">
+    <title lang="pt">PROGRAMAÇÃO LIVRE</title>
+  </programme>
+  <programme start="20260907060000 -0300" stop="20260907070000 -0300" channel="RecordTV.br">
+    <title lang="pt">SANTA MISSA</title>
+  </programme>
+  <programme start="20260907060000 -0300" stop="20260907070000 -0300" channel="Band.br">
+    <title lang="pt">TERÇO MISTÉRIOS GOZOSOS DAS MULHERES</title>
+  </programme>
+  <programme start="20260907060000 -0300" stop="20260907070000 -0300" channel="Band.br">
+    <title lang="pt">TV SENADO</title>
+  </programme>
+  <programme start="20260907060000 -0300" stop="20260907070000 -0300" channel="Band.br">
+    <title lang="pt">NOVENA NOSSA SENHORA DO PERPÉTUO SOCORRO</title>
+  </programme>
+  <programme start="20260907060000 -0300" stop="20260907070000 -0300" channel="Band.br">
+    <title lang="pt">TERÇO MISTÉRIOS GLORIOSOS</title>
+  </programme>
+  <programme start="20260907060000 -0300" stop="20260907070000 -0300" channel="Band.br">
+    <title lang="pt">TERÇO MISTÉRIOS LUMINOSOS</title>
+  </programme>
+  <programme start="20260907060000 -0300" stop="20260907070000 -0300" channel="Band.br">
+    <title lang="pt">TERÇO MÃOS ENSAGUENTADAS DE JESUS</title>
+  </programme>
+  <programme start="20260907060000 -0300" stop="20260907070000 -0300" channel="Band.br">
+    <title lang="pt">TERÇO MISTÉRIO GOZOSOS DOS HOMENS</title>
+  </programme>
+  <programme start="20260907060000 -0300" stop="20260907070000 -0300" channel="Band.br">
+    <title lang="pt">PROGRAMAÇÃO LIVRE</title>
+  </programme>
+  <programme start="20260907060000 -0300" stop="20260907070000 -0300" channel="Band.br">
+    <title lang="pt">SANTA MISSA</title>
+  </programme>
+  <programme start="20260907060000 -0300" stop="20260907070000 -0300" channel="TVBrasil.br">
+    <title lang="pt">TERÇO MISTÉRIOS GOZOSOS DAS MULHERES</title>
+  </programme>
+  <programme start="20260907060000 -0300" stop="20260907070000 -0300" channel="TVBrasil.br">
+    <title lang="pt">TV SENADO</title>
+  </programme>
+  <programme start="20260907060000 -0300" stop="20260907070000 -0300" channel="TVBrasil.br">
+    <title lang="pt">NOVENA NOSSA SENHORA DO PERPÉTUO SOCORRO</title>
+  </programme>
+  <programme start="20260907060000 -0300" stop="20260907070000 -0300" channel="TVBrasil.br">
+    <title lang="pt">TERÇO MISTÉRIOS GLORIOSOS</title>
+  </programme>
+  <programme start="20260907060000 -0300" stop="20260907070000 -0300" channel="TVBrasil.br">
+    <title lang="pt">TERÇO MISTÉRIOS LUMINOSOS</title>
+  </programme>
+  <programme start="20260907060000 -0300" stop="20260907070000 -0300" channel="TVBrasil.br">
+    <title lang="pt">TERÇO MÃOS ENSAGUENTADAS DE JESUS</title>
+  </programme>
+  <programme start="20260907060000 -0300" stop="20260907070000 -0300" channel="TVBrasil.br">
+    <title lang="pt">TERÇO MISTÉRIO GOZOSOS DOS HOMENS</title>
+  </programme>
+  <programme start="20260907060000 -0300" stop="20260907070000 -0300" channel="TVBrasil.br">
+    <title lang="pt">PROGRAMAÇÃO LIVRE</title>
+  </programme>
+  <programme start="20260907060000 -0300" stop="20260907070000 -0300" channel="TVBrasil.br">
+    <title lang="pt">SANTA MISSA</title>
+  </programme>
+  <programme start="20260907060000 -0300" stop="20260907070000 -0300" channel="TVCamara.br">
+    <title lang="pt">TERÇO MISTÉRIOS GOZOSOS DAS MULHERES</title>
+  </programme>
+  <programme start="20260907060000 -0300" stop="20260907070000 -0300" channel="TVCamara.br">
+    <title lang="pt">TV SENADO</title>
+  </programme>
+  <programme start="20260907060000 -0300" stop="20260907070000 -0300" channel="TVCamara.br">
+    <title lang="pt">NOVENA NOSSA SENHORA DO PERPÉTUO SOCORRO</title>
+  </programme>
+  <programme start="20260907060000 -0300" stop="20260907070000 -0300" channel="TVCamara.br">
+    <title lang="pt">TERÇO MISTÉRIOS GLORIOSOS</title>
+  </programme>
+  <programme start="20260907060000 -0300" stop="20260907070000 -0300" channel="TVCamara.br">
+    <title lang="pt">TERÇO MISTÉRIOS LUMINOSOS</title>
+  </programme>
+  <programme start="20260907060000 -0300" stop="20260907070000 -0300" channel="TVCamara.br">
+    <title lang="pt">TERÇO MÃOS ENSAGUENTADAS DE JESUS</title>
+  </programme>
+  <programme start="20260907060000 -0300" stop="20260907070000 -0300" channel="TVCamara.br">
+    <title lang="pt">TERÇO MISTÉRIO GOZOSOS DOS HOMENS</title>
+  </programme>
+  <programme start="20260907060000 -0300" stop="20260907070000 -0300" channel="TVCamara.br">
+    <title lang="pt">PROGRAMAÇÃO LIVRE</title>
+  </programme>
+  <programme start="20260907060000 -0300" stop="20260907070000 -0300" channel="TVCamara.br">
+    <title lang="pt">SANTA MISSA</title>
+  </programme>
+  <programme start="20260907060000 -0300" stop="20260907070000 -0300" channel="TVSenado.br">
+    <title lang="pt">TERÇO MISTÉRIOS GOZOSOS DAS MULHERES</title>
+  </programme>
+  <programme start="20260907060000 -0300" stop="20260907070000 -0300" channel="TVSenado.br">
+    <title lang="pt">TV SENADO</title>
+  </programme>
+  <programme start="20260907060000 -0300" stop="20260907070000 -0300" channel="TVSenado.br">
+    <title lang="pt">NOVENA NOSSA SENHORA DO PERPÉTUO SOCORRO</title>
+  </programme>
+  <programme start="20260907060000 -0300" stop="20260907070000 -0300" channel="TVSenado.br">
+    <title lang="pt">TERÇO MISTÉRIOS GLORIOSOS</title>
+  </programme>
+  <programme start="20260907060000 -0300" stop="20260907070000 -0300" channel="TVSenado.br">
+    <title lang="pt">TERÇO MISTÉRIOS LUMINOSOS</title>
+  </programme>
+  <programme start="20260907060000 -0300" stop="20260907070000 -0300" channel="TVSenado.br">
+    <title lang="pt">TERÇO MÃOS ENSAGUENTADAS DE JESUS</title>
+  </programme>
+  <programme start="20260907060000 -0300" stop="20260907070000 -0300" channel="TVSenado.br">
+    <title lang="pt">TERÇO MISTÉRIO GOZOSOS DOS HOMENS</title>
+  </programme>
+  <programme start="20260907060000 -0300" stop="20260907070000 -0300" channel="TVSenado.br">
+    <title lang="pt">PROGRAMAÇÃO LIVRE</title>
+  </programme>
+  <programme start="20260907060000 -0300" stop="20260907070000 -0300" channel="TVSenado.br">
+    <title lang="pt">SANTA MISSA</title>
+  </programme>
+  <programme start="20260907070000 -0300" stop="20260907080000 -0300" channel="TVAssembleiaPI.br">
+    <title lang="pt">JORNAL BOM DIA ASSEMBLEIA -</title>
+  </programme>
+  <programme start="20260907070000 -0300" stop="20260907080000 -0300" channel="TVAssembleiaPI.br">
+    <title lang="pt">CINE KIDS</title>
+  </programme>
+  <programme start="20260907070000 -0300" stop="20260907080000 -0300" channel="TVAssembleiaPI.br">
+    <title lang="pt">PIAUÍ QUE PRODUZ -</title>
+  </programme>
+  <programme start="20260907070000 -0300" stop="20260907080000 -0300" channel="Globo.br">
+    <title lang="pt">JORNAL BOM DIA ASSEMBLEIA -</title>
+  </programme>
+  <programme start="20260907070000 -0300" stop="20260907080000 -0300" channel="Globo.br">
+    <title lang="pt">CINE KIDS</title>
+  </programme>
+  <programme start="20260907070000 -0300" stop="20260907080000 -0300" channel="Globo.br">
+    <title lang="pt">PIAUÍ QUE PRODUZ -</title>
+  </programme>
+  <programme start="20260907070000 -0300" stop="20260907080000 -0300" channel="SBT.br">
+    <title lang="pt">JORNAL BOM DIA ASSEMBLEIA -</title>
+  </programme>
+  <programme start="20260907070000 -0300" stop="20260907080000 -0300" channel="SBT.br">
+    <title lang="pt">CINE KIDS</title>
+  </programme>
+  <programme start="20260907070000 -0300" stop="20260907080000 -0300" channel="SBT.br">
+    <title lang="pt">PIAUÍ QUE PRODUZ -</title>
+  </programme>
+  <programme start="20260907070000 -0300" stop="20260907080000 -0300" channel="RecordTV.br">
+    <title lang="pt">JORNAL BOM DIA ASSEMBLEIA -</title>
+  </programme>
+  <programme start="20260907070000 -0300" stop="20260907080000 -0300" channel="RecordTV.br">
+    <title lang="pt">CINE KIDS</title>
+  </programme>
+  <programme start="20260907070000 -0300" stop="20260907080000 -0300" channel="RecordTV.br">
+    <title lang="pt">PIAUÍ QUE PRODUZ -</title>
+  </programme>
+  <programme start="20260907070000 -0300" stop="20260907080000 -0300" channel="Band.br">
+    <title lang="pt">JORNAL BOM DIA ASSEMBLEIA -</title>
+  </programme>
+  <programme start="20260907070000 -0300" stop="20260907080000 -0300" channel="Band.br">
+    <title lang="pt">CINE KIDS</title>
+  </programme>
+  <programme start="20260907070000 -0300" stop="20260907080000 -0300" channel="Band.br">
+    <title lang="pt">PIAUÍ QUE PRODUZ -</title>
+  </programme>
+  <programme start="20260907070000 -0300" stop="20260907080000 -0300" channel="TVBrasil.br">
+    <title lang="pt">JORNAL BOM DIA ASSEMBLEIA -</title>
+  </programme>
+  <programme start="20260907070000 -0300" stop="20260907080000 -0300" channel="TVBrasil.br">
+    <title lang="pt">CINE KIDS</title>
+  </programme>
+  <programme start="20260907070000 -0300" stop="20260907080000 -0300" channel="TVBrasil.br">
+    <title lang="pt">PIAUÍ QUE PRODUZ -</title>
+  </programme>
+  <programme start="20260907070000 -0300" stop="20260907080000 -0300" channel="TVCamara.br">
+    <title lang="pt">JORNAL BOM DIA ASSEMBLEIA -</title>
+  </programme>
+  <programme start="20260907070000 -0300" stop="20260907080000 -0300" channel="TVCamara.br">
+    <title lang="pt">CINE KIDS</title>
+  </programme>
+  <programme start="20260907070000 -0300" stop="20260907080000 -0300" channel="TVCamara.br">
+    <title lang="pt">PIAUÍ QUE PRODUZ -</title>
+  </programme>
+  <programme start="20260907070000 -0300" stop="20260907080000 -0300" channel="TVSenado.br">
+    <title lang="pt">JORNAL BOM DIA ASSEMBLEIA -</title>
+  </programme>
+  <programme start="20260907070000 -0300" stop="20260907080000 -0300" channel="TVSenado.br">
+    <title lang="pt">CINE KIDS</title>
+  </programme>
+  <programme start="20260907070000 -0300" stop="20260907080000 -0300" channel="TVSenado.br">
+    <title lang="pt">PIAUÍ QUE PRODUZ -</title>
+  </programme>
+  <programme start="20260907073000 -0300" stop="20260907083000 -0300" channel="TVAssembleiaPI.br">
+    <title lang="pt">MATUTANDO -</title>
+  </programme>
+  <programme start="20260907073000 -0300" stop="20260907083000 -0300" channel="Globo.br">
+    <title lang="pt">MATUTANDO -</title>
+  </programme>
+  <programme start="20260907073000 -0300" stop="20260907083000 -0300" channel="SBT.br">
+    <title lang="pt">MATUTANDO -</title>
+  </programme>
+  <programme start="20260907073000 -0300" stop="20260907083000 -0300" channel="RecordTV.br">
+    <title lang="pt">MATUTANDO -</title>
+  </programme>
+  <programme start="20260907073000 -0300" stop="20260907083000 -0300" channel="Band.br">
+    <title lang="pt">MATUTANDO -</title>
+  </programme>
+  <programme start="20260907073000 -0300" stop="20260907083000 -0300" channel="TVBrasil.br">
+    <title lang="pt">MATUTANDO -</title>
+  </programme>
+  <programme start="20260907073000 -0300" stop="20260907083000 -0300" channel="TVCamara.br">
+    <title lang="pt">MATUTANDO -</title>
+  </programme>
+  <programme start="20260907073000 -0300" stop="20260907083000 -0300" channel="TVSenado.br">
+    <title lang="pt">MATUTANDO -</title>
+  </programme>
+  <programme start="20260907080000 -0300" stop="20260907090000 -0300" channel="TVAssembleiaPI.br">
+    <title lang="pt">JORNAL BOM DIA ASSEMBLEIA –</title>
+  </programme>
+  <programme start="20260907080000 -0300" stop="20260907090000 -0300" channel="TVAssembleiaPI.br">
+    <title lang="pt">FEITO EM CASA -</title>
+  </programme>
+  <programme start="20260907080000 -0300" stop="20260907090000 -0300" channel="Globo.br">
+    <title lang="pt">JORNAL BOM DIA ASSEMBLEIA –</title>
+  </programme>
+  <programme start="20260907080000 -0300" stop="20260907090000 -0300" channel="Globo.br">
+    <title lang="pt">FEITO EM CASA -</title>
+  </programme>
+  <programme start="20260907080000 -0300" stop="20260907090000 -0300" channel="SBT.br">
+    <title lang="pt">JORNAL BOM DIA ASSEMBLEIA –</title>
+  </programme>
+  <programme start="20260907080000 -0300" stop="20260907090000 -0300" channel="SBT.br">
+    <title lang="pt">FEITO EM CASA -</title>
+  </programme>
+  <programme start="20260907080000 -0300" stop="20260907090000 -0300" channel="RecordTV.br">
+    <title lang="pt">JORNAL BOM DIA ASSEMBLEIA –</title>
+  </programme>
+  <programme start="20260907080000 -0300" stop="20260907090000 -0300" channel="RecordTV.br">
+    <title lang="pt">FEITO EM CASA -</title>
+  </programme>
+  <programme start="20260907080000 -0300" stop="20260907090000 -0300" channel="Band.br">
+    <title lang="pt">JORNAL BOM DIA ASSEMBLEIA –</title>
+  </programme>
+  <programme start="20260907080000 -0300" stop="20260907090000 -0300" channel="Band.br">
+    <title lang="pt">FEITO EM CASA -</title>
+  </programme>
+  <programme start="20260907080000 -0300" stop="20260907090000 -0300" channel="TVBrasil.br">
+    <title lang="pt">JORNAL BOM DIA ASSEMBLEIA –</title>
+  </programme>
+  <programme start="20260907080000 -0300" stop="20260907090000 -0300" channel="TVBrasil.br">
+    <title lang="pt">FEITO EM CASA -</title>
+  </programme>
+  <programme start="20260907080000 -0300" stop="20260907090000 -0300" channel="TVCamara.br">
+    <title lang="pt">JORNAL BOM DIA ASSEMBLEIA –</title>
+  </programme>
+  <programme start="20260907080000 -0300" stop="20260907090000 -0300" channel="TVCamara.br">
+    <title lang="pt">FEITO EM CASA -</title>
+  </programme>
+  <programme start="20260907080000 -0300" stop="20260907090000 -0300" channel="TVSenado.br">
+    <title lang="pt">JORNAL BOM DIA ASSEMBLEIA –</title>
+  </programme>
+  <programme start="20260907080000 -0300" stop="20260907090000 -0300" channel="TVSenado.br">
+    <title lang="pt">FEITO EM CASA -</title>
+  </programme>
+  <programme start="20260907090000 -0300" stop="20260907100000 -0300" channel="TVAssembleiaPI.br">
+    <title lang="pt">LENDAS E HISTÓRIAS</title>
+  </programme>
+  <programme start="20260907090000 -0300" stop="20260907100000 -0300" channel="TVAssembleiaPI.br">
+    <title lang="pt">PIAUÍ CHEIO DE GRAÇA -</title>
+  </programme>
+  <programme start="20260907090000 -0300" stop="20260907100000 -0300" channel="Globo.br">
+    <title lang="pt">LENDAS E HISTÓRIAS</title>
+  </programme>
+  <programme start="20260907090000 -0300" stop="20260907100000 -0300" channel="Globo.br">
+    <title lang="pt">PIAUÍ CHEIO DE GRAÇA -</title>
+  </programme>
+  <programme start="20260907090000 -0300" stop="20260907100000 -0300" channel="SBT.br">
+    <title lang="pt">LENDAS E HISTÓRIAS</title>
+  </programme>
+  <programme start="20260907090000 -0300" stop="20260907100000 -0300" channel="SBT.br">
+    <title lang="pt">PIAUÍ CHEIO DE GRAÇA -</title>
+  </programme>
+  <programme start="20260907090000 -0300" stop="20260907100000 -0300" channel="RecordTV.br">
+    <title lang="pt">LENDAS E HISTÓRIAS</title>
+  </programme>
+  <programme start="20260907090000 -0300" stop="20260907100000 -0300" channel="RecordTV.br">
+    <title lang="pt">PIAUÍ CHEIO DE GRAÇA -</title>
+  </programme>
+  <programme start="20260907090000 -0300" stop="20260907100000 -0300" channel="Band.br">
+    <title lang="pt">LENDAS E HISTÓRIAS</title>
+  </programme>
+  <programme start="20260907090000 -0300" stop="20260907100000 -0300" channel="Band.br">
+    <title lang="pt">PIAUÍ CHEIO DE GRAÇA -</title>
+  </programme>
+  <programme start="20260907090000 -0300" stop="20260907100000 -0300" channel="TVBrasil.br">
+    <title lang="pt">LENDAS E HISTÓRIAS</title>
+  </programme>
+  <programme start="20260907090000 -0300" stop="20260907100000 -0300" channel="TVBrasil.br">
+    <title lang="pt">PIAUÍ CHEIO DE GRAÇA -</title>
+  </programme>
+  <programme start="20260907090000 -0300" stop="20260907100000 -0300" channel="TVCamara.br">
+    <title lang="pt">LENDAS E HISTÓRIAS</title>
+  </programme>
+  <programme start="20260907090000 -0300" stop="20260907100000 -0300" channel="TVCamara.br">
+    <title lang="pt">PIAUÍ CHEIO DE GRAÇA -</title>
+  </programme>
+  <programme start="20260907090000 -0300" stop="20260907100000 -0300" channel="TVSenado.br">
+    <title lang="pt">LENDAS E HISTÓRIAS</title>
+  </programme>
+  <programme start="20260907090000 -0300" stop="20260907100000 -0300" channel="TVSenado.br">
+    <title lang="pt">PIAUÍ CHEIO DE GRAÇA -</title>
+  </programme>
+  <programme start="20260907090500 -0300" stop="20260907100500 -0300" channel="TVAssembleiaPI.br">
+    <title lang="pt">ATIVIDADES PARLAMENTARES ALEPI</title>
+  </programme>
+  <programme start="20260907090500 -0300" stop="20260907100500 -0300" channel="TVAssembleiaPI.br">
+    <title lang="pt">ATIVIDADES PARLAMENTARES - ALEPI</title>
+  </programme>
+  <programme start="20260907090500 -0300" stop="20260907100500 -0300" channel="TVAssembleiaPI.br">
+    <title lang="pt">CINE KIDS</title>
+  </programme>
+  <programme start="20260907090500 -0300" stop="20260907100500 -0300" channel="Globo.br">
+    <title lang="pt">ATIVIDADES PARLAMENTARES ALEPI</title>
+  </programme>
+  <programme start="20260907090500 -0300" stop="20260907100500 -0300" channel="Globo.br">
+    <title lang="pt">ATIVIDADES PARLAMENTARES - ALEPI</title>
+  </programme>
+  <programme start="20260907090500 -0300" stop="20260907100500 -0300" channel="Globo.br">
+    <title lang="pt">CINE KIDS</title>
+  </programme>
+  <programme start="20260907090500 -0300" stop="20260907100500 -0300" channel="SBT.br">
+    <title lang="pt">ATIVIDADES PARLAMENTARES ALEPI</title>
+  </programme>
+  <programme start="20260907090500 -0300" stop="20260907100500 -0300" channel="SBT.br">
+    <title lang="pt">ATIVIDADES PARLAMENTARES - ALEPI</title>
+  </programme>
+  <programme start="20260907090500 -0300" stop="20260907100500 -0300" channel="SBT.br">
+    <title lang="pt">CINE KIDS</title>
+  </programme>
+  <programme start="20260907090500 -0300" stop="20260907100500 -0300" channel="RecordTV.br">
+    <title lang="pt">ATIVIDADES PARLAMENTARES ALEPI</title>
+  </programme>
+  <programme start="20260907090500 -0300" stop="20260907100500 -0300" channel="RecordTV.br">
+    <title lang="pt">ATIVIDADES PARLAMENTARES - ALEPI</title>
+  </programme>
+  <programme start="20260907090500 -0300" stop="20260907100500 -0300" channel="RecordTV.br">
+    <title lang="pt">CINE KIDS</title>
+  </programme>
+  <programme start="20260907090500 -0300" stop="20260907100500 -0300" channel="Band.br">
+    <title lang="pt">ATIVIDADES PARLAMENTARES ALEPI</title>
+  </programme>
+  <programme start="20260907090500 -0300" stop="20260907100500 -0300" channel="Band.br">
+    <title lang="pt">ATIVIDADES PARLAMENTARES - ALEPI</title>
+  </programme>
+  <programme start="20260907090500 -0300" stop="20260907100500 -0300" channel="Band.br">
+    <title lang="pt">CINE KIDS</title>
+  </programme>
+  <programme start="20260907090500 -0300" stop="20260907100500 -0300" channel="TVBrasil.br">
+    <title lang="pt">ATIVIDADES PARLAMENTARES ALEPI</title>
+  </programme>
+  <programme start="20260907090500 -0300" stop="20260907100500 -0300" channel="TVBrasil.br">
+    <title lang="pt">ATIVIDADES PARLAMENTARES - ALEPI</title>
+  </programme>
+  <programme start="20260907090500 -0300" stop="20260907100500 -0300" channel="TVBrasil.br">
+    <title lang="pt">CINE KIDS</title>
+  </programme>
+  <programme start="20260907090500 -0300" stop="20260907100500 -0300" channel="TVCamara.br">
+    <title lang="pt">ATIVIDADES PARLAMENTARES ALEPI</title>
+  </programme>
+  <programme start="20260907090500 -0300" stop="20260907100500 -0300" channel="TVCamara.br">
+    <title lang="pt">ATIVIDADES PARLAMENTARES - ALEPI</title>
+  </programme>
+  <programme start="20260907090500 -0300" stop="20260907100500 -0300" channel="TVCamara.br">
+    <title lang="pt">CINE KIDS</title>
+  </programme>
+  <programme start="20260907090500 -0300" stop="20260907100500 -0300" channel="TVSenado.br">
+    <title lang="pt">ATIVIDADES PARLAMENTARES ALEPI</title>
+  </programme>
+  <programme start="20260907090500 -0300" stop="20260907100500 -0300" channel="TVSenado.br">
+    <title lang="pt">ATIVIDADES PARLAMENTARES - ALEPI</title>
+  </programme>
+  <programme start="20260907090500 -0300" stop="20260907100500 -0300" channel="TVSenado.br">
+    <title lang="pt">CINE KIDS</title>
+  </programme>
+  <programme start="20260907093000 -0300" stop="20260907103000 -0300" channel="TVAssembleiaPI.br">
+    <title lang="pt">CINE KIDS</title>
+  </programme>
+  <programme start="20260907093000 -0300" stop="20260907103000 -0300" channel="Globo.br">
+    <title lang="pt">CINE KIDS</title>
+  </programme>
+  <programme start="20260907093000 -0300" stop="20260907103000 -0300" channel="SBT.br">
+    <title lang="pt">CINE KIDS</title>
+  </programme>
+  <programme start="20260907093000 -0300" stop="20260907103000 -0300" channel="RecordTV.br">
+    <title lang="pt">CINE KIDS</title>
+  </programme>
+  <programme start="20260907093000 -0300" stop="20260907103000 -0300" channel="Band.br">
+    <title lang="pt">CINE KIDS</title>
+  </programme>
+  <programme start="20260907093000 -0300" stop="20260907103000 -0300" channel="TVBrasil.br">
+    <title lang="pt">CINE KIDS</title>
+  </programme>
+  <programme start="20260907093000 -0300" stop="20260907103000 -0300" channel="TVCamara.br">
+    <title lang="pt">CINE KIDS</title>
+  </programme>
+  <programme start="20260907093000 -0300" stop="20260907103000 -0300" channel="TVSenado.br">
+    <title lang="pt">CINE KIDS</title>
+  </programme>
+  <programme start="20260907100000 -0300" stop="20260907110000 -0300" channel="TVAssembleiaPI.br">
+    <title lang="pt">MUSICALÍSSIMA</title>
+  </programme>
+  <programme start="20260907100000 -0300" stop="20260907110000 -0300" channel="Globo.br">
+    <title lang="pt">MUSICALÍSSIMA</title>
+  </programme>
+  <programme start="20260907100000 -0300" stop="20260907110000 -0300" channel="SBT.br">
+    <title lang="pt">MUSICALÍSSIMA</title>
+  </programme>
+  <programme start="20260907100000 -0300" stop="20260907110000 -0300" channel="RecordTV.br">
+    <title lang="pt">MUSICALÍSSIMA</title>
+  </programme>
+  <programme start="20260907100000 -0300" stop="20260907110000 -0300" channel="Band.br">
+    <title lang="pt">MUSICALÍSSIMA</title>
+  </programme>
+  <programme start="20260907100000 -0300" stop="20260907110000 -0300" channel="TVBrasil.br">
+    <title lang="pt">MUSICALÍSSIMA</title>
+  </programme>
+  <programme start="20260907100000 -0300" stop="20260907110000 -0300" channel="TVCamara.br">
+    <title lang="pt">MUSICALÍSSIMA</title>
+  </programme>
+  <programme start="20260907100000 -0300" stop="20260907110000 -0300" channel="TVSenado.br">
+    <title lang="pt">MUSICALÍSSIMA</title>
+  </programme>
+  <programme start="20260907103000 -0300" stop="20260907113000 -0300" channel="TVAssembleiaPI.br">
+    <title lang="pt">VER OUVIR E SENTIR</title>
+  </programme>
+  <programme start="20260907103000 -0300" stop="20260907113000 -0300" channel="TVAssembleiaPI.br">
+    <title lang="pt">VER OUVIR E SENTIR -</title>
+  </programme>
+  <programme start="20260907103000 -0300" stop="20260907113000 -0300" channel="Globo.br">
+    <title lang="pt">VER OUVIR E SENTIR</title>
+  </programme>
+  <programme start="20260907103000 -0300" stop="20260907113000 -0300" channel="Globo.br">
+    <title lang="pt">VER OUVIR E SENTIR -</title>
+  </programme>
+  <programme start="20260907103000 -0300" stop="20260907113000 -0300" channel="SBT.br">
+    <title lang="pt">VER OUVIR E SENTIR</title>
+  </programme>
+  <programme start="20260907103000 -0300" stop="20260907113000 -0300" channel="SBT.br">
+    <title lang="pt">VER OUVIR E SENTIR -</title>
+  </programme>
+  <programme start="20260907103000 -0300" stop="20260907113000 -0300" channel="RecordTV.br">
+    <title lang="pt">VER OUVIR E SENTIR</title>
+  </programme>
+  <programme start="20260907103000 -0300" stop="20260907113000 -0300" channel="RecordTV.br">
+    <title lang="pt">VER OUVIR E SENTIR -</title>
+  </programme>
+  <programme start="20260907103000 -0300" stop="20260907113000 -0300" channel="Band.br">
+    <title lang="pt">VER OUVIR E SENTIR</title>
+  </programme>
+  <programme start="20260907103000 -0300" stop="20260907113000 -0300" channel="Band.br">
+    <title lang="pt">VER OUVIR E SENTIR -</title>
+  </programme>
+  <programme start="20260907103000 -0300" stop="20260907113000 -0300" channel="TVBrasil.br">
+    <title lang="pt">VER OUVIR E SENTIR</title>
+  </programme>
+  <programme start="20260907103000 -0300" stop="20260907113000 -0300" channel="TVBrasil.br">
+    <title lang="pt">VER OUVIR E SENTIR -</title>
+  </programme>
+  <programme start="20260907103000 -0300" stop="20260907113000 -0300" channel="TVCamara.br">
+    <title lang="pt">VER OUVIR E SENTIR</title>
+  </programme>
+  <programme start="20260907103000 -0300" stop="20260907113000 -0300" channel="TVCamara.br">
+    <title lang="pt">VER OUVIR E SENTIR -</title>
+  </programme>
+  <programme start="20260907103000 -0300" stop="20260907113000 -0300" channel="TVSenado.br">
+    <title lang="pt">VER OUVIR E SENTIR</title>
+  </programme>
+  <programme start="20260907103000 -0300" stop="20260907113000 -0300" channel="TVSenado.br">
+    <title lang="pt">VER OUVIR E SENTIR -</title>
+  </programme>
+  <programme start="20260907110000 -0300" stop="20260907120000 -0300" channel="TVAssembleiaPI.br">
+    <title lang="pt">PAUTA CULTURAL -</title>
+  </programme>
+  <programme start="20260907110000 -0300" stop="20260907120000 -0300" channel="TVAssembleiaPI.br">
+    <title lang="pt">MÚSICA PARA TODOS</title>
+  </programme>
+  <programme start="20260907110000 -0300" stop="20260907120000 -0300" channel="TVAssembleiaPI.br">
+    <title lang="pt">MÚSICA PARA TODOS -</title>
+  </programme>
+  <programme start="20260907110000 -0300" stop="20260907120000 -0300" channel="Globo.br">
+    <title lang="pt">PAUTA CULTURAL -</title>
+  </programme>
+  <programme start="20260907110000 -0300" stop="20260907120000 -0300" channel="Globo.br">
+    <title lang="pt">MÚSICA PARA TODOS</title>
+  </programme>
+  <programme start="20260907110000 -0300" stop="20260907120000 -0300" channel="Globo.br">
+    <title lang="pt">MÚSICA PARA TODOS -</title>
+  </programme>
+  <programme start="20260907110000 -0300" stop="20260907120000 -0300" channel="SBT.br">
+    <title lang="pt">PAUTA CULTURAL -</title>
+  </programme>
+  <programme start="20260907110000 -0300" stop="20260907120000 -0300" channel="SBT.br">
+    <title lang="pt">MÚSICA PARA TODOS</title>
+  </programme>
+  <programme start="20260907110000 -0300" stop="20260907120000 -0300" channel="SBT.br">
+    <title lang="pt">MÚSICA PARA TODOS -</title>
+  </programme>
+  <programme start="20260907110000 -0300" stop="20260907120000 -0300" channel="RecordTV.br">
+    <title lang="pt">PAUTA CULTURAL -</title>
+  </programme>
+  <programme start="20260907110000 -0300" stop="20260907120000 -0300" channel="RecordTV.br">
+    <title lang="pt">MÚSICA PARA TODOS</title>
+  </programme>
+  <programme start="20260907110000 -0300" stop="20260907120000 -0300" channel="RecordTV.br">
+    <title lang="pt">MÚSICA PARA TODOS -</title>
+  </programme>
+  <programme start="20260907110000 -0300" stop="20260907120000 -0300" channel="Band.br">
+    <title lang="pt">PAUTA CULTURAL -</title>
+  </programme>
+  <programme start="20260907110000 -0300" stop="20260907120000 -0300" channel="Band.br">
+    <title lang="pt">MÚSICA PARA TODOS</title>
+  </programme>
+  <programme start="20260907110000 -0300" stop="20260907120000 -0300" channel="Band.br">
+    <title lang="pt">MÚSICA PARA TODOS -</title>
+  </programme>
+  <programme start="20260907110000 -0300" stop="20260907120000 -0300" channel="TVBrasil.br">
+    <title lang="pt">PAUTA CULTURAL -</title>
+  </programme>
+  <programme start="20260907110000 -0300" stop="20260907120000 -0300" channel="TVBrasil.br">
+    <title lang="pt">MÚSICA PARA TODOS</title>
+  </programme>
+  <programme start="20260907110000 -0300" stop="20260907120000 -0300" channel="TVBrasil.br">
+    <title lang="pt">MÚSICA PARA TODOS -</title>
+  </programme>
+  <programme start="20260907110000 -0300" stop="20260907120000 -0300" channel="TVCamara.br">
+    <title lang="pt">PAUTA CULTURAL -</title>
+  </programme>
+  <programme start="20260907110000 -0300" stop="20260907120000 -0300" channel="TVCamara.br">
+    <title lang="pt">MÚSICA PARA TODOS</title>
+  </programme>
+  <programme start="20260907110000 -0300" stop="20260907120000 -0300" channel="TVCamara.br">
+    <title lang="pt">MÚSICA PARA TODOS -</title>
+  </programme>
+  <programme start="20260907110000 -0300" stop="20260907120000 -0300" channel="TVSenado.br">
+    <title lang="pt">PAUTA CULTURAL -</title>
+  </programme>
+  <programme start="20260907110000 -0300" stop="20260907120000 -0300" channel="TVSenado.br">
+    <title lang="pt">MÚSICA PARA TODOS</title>
+  </programme>
+  <programme start="20260907110000 -0300" stop="20260907120000 -0300" channel="TVSenado.br">
+    <title lang="pt">MÚSICA PARA TODOS -</title>
+  </programme>
+  <programme start="20260907120000 -0300" stop="20260907130000 -0300" channel="TVAssembleiaPI.br">
+    <title lang="pt">JORNAL ALEPI 1ª EDIÇÃO –</title>
+  </programme>
+  <programme start="20260907120000 -0300" stop="20260907130000 -0300" channel="TVAssembleiaPI.br">
+    <title lang="pt">PAUTA CULTURAL -</title>
+  </programme>
+  <programme start="20260907120000 -0300" stop="20260907130000 -0300" channel="TVAssembleiaPI.br">
+    <title lang="pt">CINE ALEPI</title>
+  </programme>
+  <programme start="20260907120000 -0300" stop="20260907130000 -0300" channel="Globo.br">
+    <title lang="pt">JORNAL ALEPI 1ª EDIÇÃO –</title>
+  </programme>
+  <programme start="20260907120000 -0300" stop="20260907130000 -0300" channel="Globo.br">
+    <title lang="pt">PAUTA CULTURAL -</title>
+  </programme>
+  <programme start="20260907120000 -0300" stop="20260907130000 -0300" channel="Globo.br">
+    <title lang="pt">CINE ALEPI</title>
+  </programme>
+  <programme start="20260907120000 -0300" stop="20260907130000 -0300" channel="SBT.br">
+    <title lang="pt">JORNAL ALEPI 1ª EDIÇÃO –</title>
+  </programme>
+  <programme start="20260907120000 -0300" stop="20260907130000 -0300" channel="SBT.br">
+    <title lang="pt">PAUTA CULTURAL -</title>
+  </programme>
+  <programme start="20260907120000 -0300" stop="20260907130000 -0300" channel="SBT.br">
+    <title lang="pt">CINE ALEPI</title>
+  </programme>
+  <programme start="20260907120000 -0300" stop="20260907130000 -0300" channel="RecordTV.br">
+    <title lang="pt">JORNAL ALEPI 1ª EDIÇÃO –</title>
+  </programme>
+  <programme start="20260907120000 -0300" stop="20260907130000 -0300" channel="RecordTV.br">
+    <title lang="pt">PAUTA CULTURAL -</title>
+  </programme>
+  <programme start="20260907120000 -0300" stop="20260907130000 -0300" channel="RecordTV.br">
+    <title lang="pt">CINE ALEPI</title>
+  </programme>
+  <programme start="20260907120000 -0300" stop="20260907130000 -0300" channel="Band.br">
+    <title lang="pt">JORNAL ALEPI 1ª EDIÇÃO –</title>
+  </programme>
+  <programme start="20260907120000 -0300" stop="20260907130000 -0300" channel="Band.br">
+    <title lang="pt">PAUTA CULTURAL -</title>
+  </programme>
+  <programme start="20260907120000 -0300" stop="20260907130000 -0300" channel="Band.br">
+    <title lang="pt">CINE ALEPI</title>
+  </programme>
+  <programme start="20260907120000 -0300" stop="20260907130000 -0300" channel="TVBrasil.br">
+    <title lang="pt">JORNAL ALEPI 1ª EDIÇÃO –</title>
+  </programme>
+  <programme start="20260907120000 -0300" stop="20260907130000 -0300" channel="TVBrasil.br">
+    <title lang="pt">PAUTA CULTURAL -</title>
+  </programme>
+  <programme start="20260907120000 -0300" stop="20260907130000 -0300" channel="TVBrasil.br">
+    <title lang="pt">CINE ALEPI</title>
+  </programme>
+  <programme start="20260907120000 -0300" stop="20260907130000 -0300" channel="TVCamara.br">
+    <title lang="pt">JORNAL ALEPI 1ª EDIÇÃO –</title>
+  </programme>
+  <programme start="20260907120000 -0300" stop="20260907130000 -0300" channel="TVCamara.br">
+    <title lang="pt">PAUTA CULTURAL -</title>
+  </programme>
+  <programme start="20260907120000 -0300" stop="20260907130000 -0300" channel="TVCamara.br">
+    <title lang="pt">CINE ALEPI</title>
+  </programme>
+  <programme start="20260907120000 -0300" stop="20260907130000 -0300" channel="TVSenado.br">
+    <title lang="pt">JORNAL ALEPI 1ª EDIÇÃO –</title>
+  </programme>
+  <programme start="20260907120000 -0300" stop="20260907130000 -0300" channel="TVSenado.br">
+    <title lang="pt">PAUTA CULTURAL -</title>
+  </programme>
+  <programme start="20260907120000 -0300" stop="20260907130000 -0300" channel="TVSenado.br">
+    <title lang="pt">CINE ALEPI</title>
+  </programme>
+  <programme start="20260907123000 -0300" stop="20260907133000 -0300" channel="TVAssembleiaPI.br">
+    <title lang="pt">BOM GOSTO</title>
+  </programme>
+  <programme start="20260907123000 -0300" stop="20260907133000 -0300" channel="Globo.br">
+    <title lang="pt">BOM GOSTO</title>
+  </programme>
+  <programme start="20260907123000 -0300" stop="20260907133000 -0300" channel="SBT.br">
+    <title lang="pt">BOM GOSTO</title>
+  </programme>
+  <programme start="20260907123000 -0300" stop="20260907133000 -0300" channel="RecordTV.br">
+    <title lang="pt">BOM GOSTO</title>
+  </programme>
+  <programme start="20260907123000 -0300" stop="20260907133000 -0300" channel="Band.br">
+    <title lang="pt">BOM GOSTO</title>
+  </programme>
+  <programme start="20260907123000 -0300" stop="20260907133000 -0300" channel="TVBrasil.br">
+    <title lang="pt">BOM GOSTO</title>
+  </programme>
+  <programme start="20260907123000 -0300" stop="20260907133000 -0300" channel="TVCamara.br">
+    <title lang="pt">BOM GOSTO</title>
+  </programme>
+  <programme start="20260907123000 -0300" stop="20260907133000 -0300" channel="TVSenado.br">
+    <title lang="pt">BOM GOSTO</title>
+  </programme>
+  <programme start="20260907130000 -0300" stop="20260907140000 -0300" channel="TVAssembleiaPI.br">
+    <title lang="pt">JORNAL ALEPI 1ª EDIÇÃO –</title>
+  </programme>
+  <programme start="20260907130000 -0300" stop="20260907140000 -0300" channel="TVAssembleiaPI.br">
+    <title lang="pt">JORNAL ALEPI 1ª EDIÇÃO -</title>
+  </programme>
+  <programme start="20260907130000 -0300" stop="20260907140000 -0300" channel="Globo.br">
+    <title lang="pt">JORNAL ALEPI 1ª EDIÇÃO –</title>
+  </programme>
+  <programme start="20260907130000 -0300" stop="20260907140000 -0300" channel="Globo.br">
+    <title lang="pt">JORNAL ALEPI 1ª EDIÇÃO -</title>
+  </programme>
+  <programme start="20260907130000 -0300" stop="20260907140000 -0300" channel="SBT.br">
+    <title lang="pt">JORNAL ALEPI 1ª EDIÇÃO –</title>
+  </programme>
+  <programme start="20260907130000 -0300" stop="20260907140000 -0300" channel="SBT.br">
+    <title lang="pt">JORNAL ALEPI 1ª EDIÇÃO -</title>
+  </programme>
+  <programme start="20260907130000 -0300" stop="20260907140000 -0300" channel="RecordTV.br">
+    <title lang="pt">JORNAL ALEPI 1ª EDIÇÃO –</title>
+  </programme>
+  <programme start="20260907130000 -0300" stop="20260907140000 -0300" channel="RecordTV.br">
+    <title lang="pt">JORNAL ALEPI 1ª EDIÇÃO -</title>
+  </programme>
+  <programme start="20260907130000 -0300" stop="20260907140000 -0300" channel="Band.br">
+    <title lang="pt">JORNAL ALEPI 1ª EDIÇÃO –</title>
+  </programme>
+  <programme start="20260907130000 -0300" stop="20260907140000 -0300" channel="Band.br">
+    <title lang="pt">JORNAL ALEPI 1ª EDIÇÃO -</title>
+  </programme>
+  <programme start="20260907130000 -0300" stop="20260907140000 -0300" channel="TVBrasil.br">
+    <title lang="pt">JORNAL ALEPI 1ª EDIÇÃO –</title>
+  </programme>
+  <programme start="20260907130000 -0300" stop="20260907140000 -0300" channel="TVBrasil.br">
+    <title lang="pt">JORNAL ALEPI 1ª EDIÇÃO -</title>
+  </programme>
+  <programme start="20260907130000 -0300" stop="20260907140000 -0300" channel="TVCamara.br">
+    <title lang="pt">JORNAL ALEPI 1ª EDIÇÃO –</title>
+  </programme>
+  <programme start="20260907130000 -0300" stop="20260907140000 -0300" channel="TVCamara.br">
+    <title lang="pt">JORNAL ALEPI 1ª EDIÇÃO -</title>
+  </programme>
+  <programme start="20260907130000 -0300" stop="20260907140000 -0300" channel="TVSenado.br">
+    <title lang="pt">JORNAL ALEPI 1ª EDIÇÃO –</title>
+  </programme>
+  <programme start="20260907130000 -0300" stop="20260907140000 -0300" channel="TVSenado.br">
+    <title lang="pt">JORNAL ALEPI 1ª EDIÇÃO -</title>
+  </programme>
+  <programme start="20260907133000 -0300" stop="20260907143000 -0300" channel="TVAssembleiaPI.br">
+    <title lang="pt">BOM GOSTO</title>
+  </programme>
+  <programme start="20260907133000 -0300" stop="20260907143000 -0300" channel="Globo.br">
+    <title lang="pt">BOM GOSTO</title>
+  </programme>
+  <programme start="20260907133000 -0300" stop="20260907143000 -0300" channel="SBT.br">
+    <title lang="pt">BOM GOSTO</title>
+  </programme>
+  <programme start="20260907133000 -0300" stop="20260907143000 -0300" channel="RecordTV.br">
+    <title lang="pt">BOM GOSTO</title>
+  </programme>
+  <programme start="20260907133000 -0300" stop="20260907143000 -0300" channel="Band.br">
+    <title lang="pt">BOM GOSTO</title>
+  </programme>
+  <programme start="20260907133000 -0300" stop="20260907143000 -0300" channel="TVBrasil.br">
+    <title lang="pt">BOM GOSTO</title>
+  </programme>
+  <programme start="20260907133000 -0300" stop="20260907143000 -0300" channel="TVCamara.br">
+    <title lang="pt">BOM GOSTO</title>
+  </programme>
+  <programme start="20260907133000 -0300" stop="20260907143000 -0300" channel="TVSenado.br">
+    <title lang="pt">BOM GOSTO</title>
+  </programme>
+  <programme start="20260907140000 -0300" stop="20260907150000 -0300" channel="TVAssembleiaPI.br">
+    <title lang="pt">PIAUÍ CHEIO DE GRAÇA -</title>
+  </programme>
+  <programme start="20260907140000 -0300" stop="20260907150000 -0300" channel="Globo.br">
+    <title lang="pt">PIAUÍ CHEIO DE GRAÇA -</title>
+  </programme>
+  <programme start="20260907140000 -0300" stop="20260907150000 -0300" channel="SBT.br">
+    <title lang="pt">PIAUÍ CHEIO DE GRAÇA -</title>
+  </programme>
+  <programme start="20260907140000 -0300" stop="20260907150000 -0300" channel="RecordTV.br">
+    <title lang="pt">PIAUÍ CHEIO DE GRAÇA -</title>
+  </programme>
+  <programme start="20260907140000 -0300" stop="20260907150000 -0300" channel="Band.br">
+    <title lang="pt">PIAUÍ CHEIO DE GRAÇA -</title>
+  </programme>
+  <programme start="20260907140000 -0300" stop="20260907150000 -0300" channel="TVBrasil.br">
+    <title lang="pt">PIAUÍ CHEIO DE GRAÇA -</title>
+  </programme>
+  <programme start="20260907140000 -0300" stop="20260907150000 -0300" channel="TVCamara.br">
+    <title lang="pt">PIAUÍ CHEIO DE GRAÇA -</title>
+  </programme>
+  <programme start="20260907140000 -0300" stop="20260907150000 -0300" channel="TVSenado.br">
+    <title lang="pt">PIAUÍ CHEIO DE GRAÇA -</title>
+  </programme>
+  <programme start="20260907143000 -0300" stop="20260907153000 -0300" channel="TVAssembleiaPI.br">
+    <title lang="pt">PALAVRA ABERTA –</title>
+  </programme>
+  <programme start="20260907143000 -0300" stop="20260907153000 -0300" channel="TVAssembleiaPI.br">
+    <title lang="pt">PALAVRA ABERTA / AJUSPI –</title>
+  </programme>
+  <programme start="20260907143000 -0300" stop="20260907153000 -0300" channel="TVAssembleiaPI.br">
+    <title lang="pt">PALAVRA ABERTA -</title>
+  </programme>
+  <programme start="20260907143000 -0300" stop="20260907153000 -0300" channel="TVAssembleiaPI.br">
+    <title lang="pt">MUSICALÍSSIMA</title>
+  </programme>
+  <programme start="20260907143000 -0300" stop="20260907153000 -0300" channel="TVAssembleiaPI.br">
+    <title lang="pt">FEITO EM CASA</title>
+  </programme>
+  <programme start="20260907143000 -0300" stop="20260907153000 -0300" channel="Globo.br">
+    <title lang="pt">PALAVRA ABERTA –</title>
+  </programme>
+  <programme start="20260907143000 -0300" stop="20260907153000 -0300" channel="Globo.br">
+    <title lang="pt">PALAVRA ABERTA / AJUSPI –</title>
+  </programme>
+  <programme start="20260907143000 -0300" stop="20260907153000 -0300" channel="Globo.br">
+    <title lang="pt">PALAVRA ABERTA -</title>
+  </programme>
+  <programme start="20260907143000 -0300" stop="20260907153000 -0300" channel="Globo.br">
+    <title lang="pt">MUSICALÍSSIMA</title>
+  </programme>
+  <programme start="20260907143000 -0300" stop="20260907153000 -0300" channel="Globo.br">
+    <title lang="pt">FEITO EM CASA</title>
+  </programme>
+  <programme start="20260907143000 -0300" stop="20260907153000 -0300" channel="SBT.br">
+    <title lang="pt">PALAVRA ABERTA –</title>
+  </programme>
+  <programme start="20260907143000 -0300" stop="20260907153000 -0300" channel="SBT.br">
+    <title lang="pt">PALAVRA ABERTA / AJUSPI –</title>
+  </programme>
+  <programme start="20260907143000 -0300" stop="20260907153000 -0300" channel="SBT.br">
+    <title lang="pt">PALAVRA ABERTA -</title>
+  </programme>
+  <programme start="20260907143000 -0300" stop="20260907153000 -0300" channel="SBT.br">
+    <title lang="pt">MUSICALÍSSIMA</title>
+  </programme>
+  <programme start="20260907143000 -0300" stop="20260907153000 -0300" channel="SBT.br">
+    <title lang="pt">FEITO EM CASA</title>
+  </programme>
+  <programme start="20260907143000 -0300" stop="20260907153000 -0300" channel="RecordTV.br">
+    <title lang="pt">PALAVRA ABERTA –</title>
+  </programme>
+  <programme start="20260907143000 -0300" stop="20260907153000 -0300" channel="RecordTV.br">
+    <title lang="pt">PALAVRA ABERTA / AJUSPI –</title>
+  </programme>
+  <programme start="20260907143000 -0300" stop="20260907153000 -0300" channel="RecordTV.br">
+    <title lang="pt">PALAVRA ABERTA -</title>
+  </programme>
+  <programme start="20260907143000 -0300" stop="20260907153000 -0300" channel="RecordTV.br">
+    <title lang="pt">MUSICALÍSSIMA</title>
+  </programme>
+  <programme start="20260907143000 -0300" stop="20260907153000 -0300" channel="RecordTV.br">
+    <title lang="pt">FEITO EM CASA</title>
+  </programme>
+  <programme start="20260907143000 -0300" stop="20260907153000 -0300" channel="Band.br">
+    <title lang="pt">PALAVRA ABERTA –</title>
+  </programme>
+  <programme start="20260907143000 -0300" stop="20260907153000 -0300" channel="Band.br">
+    <title lang="pt">PALAVRA ABERTA / AJUSPI –</title>
+  </programme>
+  <programme start="20260907143000 -0300" stop="20260907153000 -0300" channel="Band.br">
+    <title lang="pt">PALAVRA ABERTA -</title>
+  </programme>
+  <programme start="20260907143000 -0300" stop="20260907153000 -0300" channel="Band.br">
+    <title lang="pt">MUSICALÍSSIMA</title>
+  </programme>
+  <programme start="20260907143000 -0300" stop="20260907153000 -0300" channel="Band.br">
+    <title lang="pt">FEITO EM CASA</title>
+  </programme>
+  <programme start="20260907143000 -0300" stop="20260907153000 -0300" channel="TVBrasil.br">
+    <title lang="pt">PALAVRA ABERTA –</title>
+  </programme>
+  <programme start="20260907143000 -0300" stop="20260907153000 -0300" channel="TVBrasil.br">
+    <title lang="pt">PALAVRA ABERTA / AJUSPI –</title>
+  </programme>
+  <programme start="20260907143000 -0300" stop="20260907153000 -0300" channel="TVBrasil.br">
+    <title lang="pt">PALAVRA ABERTA -</title>
+  </programme>
+  <programme start="20260907143000 -0300" stop="20260907153000 -0300" channel="TVBrasil.br">
+    <title lang="pt">MUSICALÍSSIMA</title>
+  </programme>
+  <programme start="20260907143000 -0300" stop="20260907153000 -0300" channel="TVBrasil.br">
+    <title lang="pt">FEITO EM CASA</title>
+  </programme>
+  <programme start="20260907143000 -0300" stop="20260907153000 -0300" channel="TVCamara.br">
+    <title lang="pt">PALAVRA ABERTA –</title>
+  </programme>
+  <programme start="20260907143000 -0300" stop="20260907153000 -0300" channel="TVCamara.br">
+    <title lang="pt">PALAVRA ABERTA / AJUSPI –</title>
+  </programme>
+  <programme start="20260907143000 -0300" stop="20260907153000 -0300" channel="TVCamara.br">
+    <title lang="pt">PALAVRA ABERTA -</title>
+  </programme>
+  <programme start="20260907143000 -0300" stop="20260907153000 -0300" channel="TVCamara.br">
+    <title lang="pt">MUSICALÍSSIMA</title>
+  </programme>
+  <programme start="20260907143000 -0300" stop="20260907153000 -0300" channel="TVCamara.br">
+    <title lang="pt">FEITO EM CASA</title>
+  </programme>
+  <programme start="20260907143000 -0300" stop="20260907153000 -0300" channel="TVSenado.br">
+    <title lang="pt">PALAVRA ABERTA –</title>
+  </programme>
+  <programme start="20260907143000 -0300" stop="20260907153000 -0300" channel="TVSenado.br">
+    <title lang="pt">PALAVRA ABERTA / AJUSPI –</title>
+  </programme>
+  <programme start="20260907143000 -0300" stop="20260907153000 -0300" channel="TVSenado.br">
+    <title lang="pt">PALAVRA ABERTA -</title>
+  </programme>
+  <programme start="20260907143000 -0300" stop="20260907153000 -0300" channel="TVSenado.br">
+    <title lang="pt">MUSICALÍSSIMA</title>
+  </programme>
+  <programme start="20260907143000 -0300" stop="20260907153000 -0300" channel="TVSenado.br">
+    <title lang="pt">FEITO EM CASA</title>
+  </programme>
+  <programme start="20260907150000 -0300" stop="20260907160000 -0300" channel="TVAssembleiaPI.br">
+    <title lang="pt">CINE ALEPI</title>
+  </programme>
+  <programme start="20260907150000 -0300" stop="20260907160000 -0300" channel="Globo.br">
+    <title lang="pt">CINE ALEPI</title>
+  </programme>
+  <programme start="20260907150000 -0300" stop="20260907160000 -0300" channel="SBT.br">
+    <title lang="pt">CINE ALEPI</title>
+  </programme>
+  <programme start="20260907150000 -0300" stop="20260907160000 -0300" channel="RecordTV.br">
+    <title lang="pt">CINE ALEPI</title>
+  </programme>
+  <programme start="20260907150000 -0300" stop="20260907160000 -0300" channel="Band.br">
+    <title lang="pt">CINE ALEPI</title>
+  </programme>
+  <programme start="20260907150000 -0300" stop="20260907160000 -0300" channel="TVBrasil.br">
+    <title lang="pt">CINE ALEPI</title>
+  </programme>
+  <programme start="20260907150000 -0300" stop="20260907160000 -0300" channel="TVCamara.br">
+    <title lang="pt">CINE ALEPI</title>
+  </programme>
+  <programme start="20260907150000 -0300" stop="20260907160000 -0300" channel="TVSenado.br">
+    <title lang="pt">CINE ALEPI</title>
+  </programme>
+  <programme start="20260907153000 -0300" stop="20260907163000 -0300" channel="TVAssembleiaPI.br">
+    <title lang="pt">ESTÚDIO INTERATIVO –</title>
+  </programme>
+  <programme start="20260907153000 -0300" stop="20260907163000 -0300" channel="TVAssembleiaPI.br">
+    <title lang="pt">ESTÚDIO INTERATIVO -</title>
+  </programme>
+  <programme start="20260907153000 -0300" stop="20260907163000 -0300" channel="Globo.br">
+    <title lang="pt">ESTÚDIO INTERATIVO –</title>
+  </programme>
+  <programme start="20260907153000 -0300" stop="20260907163000 -0300" channel="Globo.br">
+    <title lang="pt">ESTÚDIO INTERATIVO -</title>
+  </programme>
+  <programme start="20260907153000 -0300" stop="20260907163000 -0300" channel="SBT.br">
+    <title lang="pt">ESTÚDIO INTERATIVO –</title>
+  </programme>
+  <programme start="20260907153000 -0300" stop="20260907163000 -0300" channel="SBT.br">
+    <title lang="pt">ESTÚDIO INTERATIVO -</title>
+  </programme>
+  <programme start="20260907153000 -0300" stop="20260907163000 -0300" channel="RecordTV.br">
+    <title lang="pt">ESTÚDIO INTERATIVO –</title>
+  </programme>
+  <programme start="20260907153000 -0300" stop="20260907163000 -0300" channel="RecordTV.br">
+    <title lang="pt">ESTÚDIO INTERATIVO -</title>
+  </programme>
+  <programme start="20260907153000 -0300" stop="20260907163000 -0300" channel="Band.br">
+    <title lang="pt">ESTÚDIO INTERATIVO –</title>
+  </programme>
+  <programme start="20260907153000 -0300" stop="20260907163000 -0300" channel="Band.br">
+    <title lang="pt">ESTÚDIO INTERATIVO -</title>
+  </programme>
+  <programme start="20260907153000 -0300" stop="20260907163000 -0300" channel="TVBrasil.br">
+    <title lang="pt">ESTÚDIO INTERATIVO –</title>
+  </programme>
+  <programme start="20260907153000 -0300" stop="20260907163000 -0300" channel="TVBrasil.br">
+    <title lang="pt">ESTÚDIO INTERATIVO -</title>
+  </programme>
+  <programme start="20260907153000 -0300" stop="20260907163000 -0300" channel="TVCamara.br">
+    <title lang="pt">ESTÚDIO INTERATIVO –</title>
+  </programme>
+  <programme start="20260907153000 -0300" stop="20260907163000 -0300" channel="TVCamara.br">
+    <title lang="pt">ESTÚDIO INTERATIVO -</title>
+  </programme>
+  <programme start="20260907153000 -0300" stop="20260907163000 -0300" channel="TVSenado.br">
+    <title lang="pt">ESTÚDIO INTERATIVO –</title>
+  </programme>
+  <programme start="20260907153000 -0300" stop="20260907163000 -0300" channel="TVSenado.br">
+    <title lang="pt">ESTÚDIO INTERATIVO -</title>
+  </programme>
+  <programme start="20260907160000 -0300" stop="20260907170000 -0300" channel="TVAssembleiaPI.br">
+    <title lang="pt">SOB OUTRO OLHAR –</title>
+  </programme>
+  <programme start="20260907160000 -0300" stop="20260907170000 -0300" channel="Globo.br">
+    <title lang="pt">SOB OUTRO OLHAR –</title>
+  </programme>
+  <programme start="20260907160000 -0300" stop="20260907170000 -0300" channel="SBT.br">
+    <title lang="pt">SOB OUTRO OLHAR –</title>
+  </programme>
+  <programme start="20260907160000 -0300" stop="20260907170000 -0300" channel="RecordTV.br">
+    <title lang="pt">SOB OUTRO OLHAR –</title>
+  </programme>
+  <programme start="20260907160000 -0300" stop="20260907170000 -0300" channel="Band.br">
+    <title lang="pt">SOB OUTRO OLHAR –</title>
+  </programme>
+  <programme start="20260907160000 -0300" stop="20260907170000 -0300" channel="TVBrasil.br">
+    <title lang="pt">SOB OUTRO OLHAR –</title>
+  </programme>
+  <programme start="20260907160000 -0300" stop="20260907170000 -0300" channel="TVCamara.br">
+    <title lang="pt">SOB OUTRO OLHAR –</title>
+  </programme>
+  <programme start="20260907160000 -0300" stop="20260907170000 -0300" channel="TVSenado.br">
+    <title lang="pt">SOB OUTRO OLHAR –</title>
+  </programme>
+  <programme start="20260907171000 -0300" stop="20260907181000 -0300" channel="TVAssembleiaPI.br">
+    <title lang="pt">ESPORTE NA ÁREA –</title>
+  </programme>
+  <programme start="20260907171000 -0300" stop="20260907181000 -0300" channel="Globo.br">
+    <title lang="pt">ESPORTE NA ÁREA –</title>
+  </programme>
+  <programme start="20260907171000 -0300" stop="20260907181000 -0300" channel="SBT.br">
+    <title lang="pt">ESPORTE NA ÁREA –</title>
+  </programme>
+  <programme start="20260907171000 -0300" stop="20260907181000 -0300" channel="RecordTV.br">
+    <title lang="pt">ESPORTE NA ÁREA –</title>
+  </programme>
+  <programme start="20260907171000 -0300" stop="20260907181000 -0300" channel="Band.br">
+    <title lang="pt">ESPORTE NA ÁREA –</title>
+  </programme>
+  <programme start="20260907171000 -0300" stop="20260907181000 -0300" channel="TVBrasil.br">
+    <title lang="pt">ESPORTE NA ÁREA –</title>
+  </programme>
+  <programme start="20260907171000 -0300" stop="20260907181000 -0300" channel="TVCamara.br">
+    <title lang="pt">ESPORTE NA ÁREA –</title>
+  </programme>
+  <programme start="20260907171000 -0300" stop="20260907181000 -0300" channel="TVSenado.br">
+    <title lang="pt">ESPORTE NA ÁREA –</title>
+  </programme>
+  <programme start="20260907172000 -0300" stop="20260907182000 -0300" channel="TVAssembleiaPI.br">
+    <title lang="pt">CRIATIVIDADE</title>
+  </programme>
+  <programme start="20260907172000 -0300" stop="20260907182000 -0300" channel="Globo.br">
+    <title lang="pt">CRIATIVIDADE</title>
+  </programme>
+  <programme start="20260907172000 -0300" stop="20260907182000 -0300" channel="SBT.br">
+    <title lang="pt">CRIATIVIDADE</title>
+  </programme>
+  <programme start="20260907172000 -0300" stop="20260907182000 -0300" channel="RecordTV.br">
+    <title lang="pt">CRIATIVIDADE</title>
+  </programme>
+  <programme start="20260907172000 -0300" stop="20260907182000 -0300" channel="Band.br">
+    <title lang="pt">CRIATIVIDADE</title>
+  </programme>
+  <programme start="20260907172000 -0300" stop="20260907182000 -0300" channel="TVBrasil.br">
+    <title lang="pt">CRIATIVIDADE</title>
+  </programme>
+  <programme start="20260907172000 -0300" stop="20260907182000 -0300" channel="TVCamara.br">
+    <title lang="pt">CRIATIVIDADE</title>
+  </programme>
+  <programme start="20260907172000 -0300" stop="20260907182000 -0300" channel="TVSenado.br">
+    <title lang="pt">CRIATIVIDADE</title>
+  </programme>
+  <programme start="20260907173000 -0300" stop="20260907183000 -0300" channel="TVAssembleiaPI.br">
+    <title lang="pt">DIRETO DO SITE - TARDE</title>
+  </programme>
+  <programme start="20260907173000 -0300" stop="20260907183000 -0300" channel="TVAssembleiaPI.br">
+    <title lang="pt">O DONO DA RUA</title>
+  </programme>
+  <programme start="20260907173000 -0300" stop="20260907183000 -0300" channel="Globo.br">
+    <title lang="pt">DIRETO DO SITE - TARDE</title>
+  </programme>
+  <programme start="20260907173000 -0300" stop="20260907183000 -0300" channel="Globo.br">
+    <title lang="pt">O DONO DA RUA</title>
+  </programme>
+  <programme start="20260907173000 -0300" stop="20260907183000 -0300" channel="SBT.br">
+    <title lang="pt">DIRETO DO SITE - TARDE</title>
+  </programme>
+  <programme start="20260907173000 -0300" stop="20260907183000 -0300" channel="SBT.br">
+    <title lang="pt">O DONO DA RUA</title>
+  </programme>
+  <programme start="20260907173000 -0300" stop="20260907183000 -0300" channel="RecordTV.br">
+    <title lang="pt">DIRETO DO SITE - TARDE</title>
+  </programme>
+  <programme start="20260907173000 -0300" stop="20260907183000 -0300" channel="RecordTV.br">
+    <title lang="pt">O DONO DA RUA</title>
+  </programme>
+  <programme start="20260907173000 -0300" stop="20260907183000 -0300" channel="Band.br">
+    <title lang="pt">DIRETO DO SITE - TARDE</title>
+  </programme>
+  <programme start="20260907173000 -0300" stop="20260907183000 -0300" channel="Band.br">
+    <title lang="pt">O DONO DA RUA</title>
+  </programme>
+  <programme start="20260907173000 -0300" stop="20260907183000 -0300" channel="TVBrasil.br">
+    <title lang="pt">DIRETO DO SITE - TARDE</title>
+  </programme>
+  <programme start="20260907173000 -0300" stop="20260907183000 -0300" channel="TVBrasil.br">
+    <title lang="pt">O DONO DA RUA</title>
+  </programme>
+  <programme start="20260907173000 -0300" stop="20260907183000 -0300" channel="TVCamara.br">
+    <title lang="pt">DIRETO DO SITE - TARDE</title>
+  </programme>
+  <programme start="20260907173000 -0300" stop="20260907183000 -0300" channel="TVCamara.br">
+    <title lang="pt">O DONO DA RUA</title>
+  </programme>
+  <programme start="20260907173000 -0300" stop="20260907183000 -0300" channel="TVSenado.br">
+    <title lang="pt">DIRETO DO SITE - TARDE</title>
+  </programme>
+  <programme start="20260907173000 -0300" stop="20260907183000 -0300" channel="TVSenado.br">
+    <title lang="pt">O DONO DA RUA</title>
+  </programme>
+  <programme start="20260907173100 -0300" stop="20260907183100 -0300" channel="TVAssembleiaPI.br">
+    <title lang="pt">O DONO DA RUA</title>
+  </programme>
+  <programme start="20260907173100 -0300" stop="20260907183100 -0300" channel="Globo.br">
+    <title lang="pt">O DONO DA RUA</title>
+  </programme>
+  <programme start="20260907173100 -0300" stop="20260907183100 -0300" channel="SBT.br">
+    <title lang="pt">O DONO DA RUA</title>
+  </programme>
+  <programme start="20260907173100 -0300" stop="20260907183100 -0300" channel="RecordTV.br">
+    <title lang="pt">O DONO DA RUA</title>
+  </programme>
+  <programme start="20260907173100 -0300" stop="20260907183100 -0300" channel="Band.br">
+    <title lang="pt">O DONO DA RUA</title>
+  </programme>
+  <programme start="20260907173100 -0300" stop="20260907183100 -0300" channel="TVBrasil.br">
+    <title lang="pt">O DONO DA RUA</title>
+  </programme>
+  <programme start="20260907173100 -0300" stop="20260907183100 -0300" channel="TVCamara.br">
+    <title lang="pt">O DONO DA RUA</title>
+  </programme>
+  <programme start="20260907173100 -0300" stop="20260907183100 -0300" channel="TVSenado.br">
+    <title lang="pt">O DONO DA RUA</title>
+  </programme>
+  <programme start="20260907174000 -0300" stop="20260907184000 -0300" channel="TVAssembleiaPI.br">
+    <title lang="pt">MPTV</title>
+  </programme>
+  <programme start="20260907174000 -0300" stop="20260907184000 -0300" channel="Globo.br">
+    <title lang="pt">MPTV</title>
+  </programme>
+  <programme start="20260907174000 -0300" stop="20260907184000 -0300" channel="SBT.br">
+    <title lang="pt">MPTV</title>
+  </programme>
+  <programme start="20260907174000 -0300" stop="20260907184000 -0300" channel="RecordTV.br">
+    <title lang="pt">MPTV</title>
+  </programme>
+  <programme start="20260907174000 -0300" stop="20260907184000 -0300" channel="Band.br">
+    <title lang="pt">MPTV</title>
+  </programme>
+  <programme start="20260907174000 -0300" stop="20260907184000 -0300" channel="TVBrasil.br">
+    <title lang="pt">MPTV</title>
+  </programme>
+  <programme start="20260907174000 -0300" stop="20260907184000 -0300" channel="TVCamara.br">
+    <title lang="pt">MPTV</title>
+  </programme>
+  <programme start="20260907174000 -0300" stop="20260907184000 -0300" channel="TVSenado.br">
+    <title lang="pt">MPTV</title>
+  </programme>
+  <programme start="20260907174500 -0300" stop="20260907184500 -0300" channel="TVAssembleiaPI.br">
+    <title lang="pt">CENA ABERTA –</title>
+  </programme>
+  <programme start="20260907174500 -0300" stop="20260907184500 -0300" channel="Globo.br">
+    <title lang="pt">CENA ABERTA –</title>
+  </programme>
+  <programme start="20260907174500 -0300" stop="20260907184500 -0300" channel="SBT.br">
+    <title lang="pt">CENA ABERTA –</title>
+  </programme>
+  <programme start="20260907174500 -0300" stop="20260907184500 -0300" channel="RecordTV.br">
+    <title lang="pt">CENA ABERTA –</title>
+  </programme>
+  <programme start="20260907174500 -0300" stop="20260907184500 -0300" channel="Band.br">
+    <title lang="pt">CENA ABERTA –</title>
+  </programme>
+  <programme start="20260907174500 -0300" stop="20260907184500 -0300" channel="TVBrasil.br">
+    <title lang="pt">CENA ABERTA –</title>
+  </programme>
+  <programme start="20260907174500 -0300" stop="20260907184500 -0300" channel="TVCamara.br">
+    <title lang="pt">CENA ABERTA –</title>
+  </programme>
+  <programme start="20260907174500 -0300" stop="20260907184500 -0300" channel="TVSenado.br">
+    <title lang="pt">CENA ABERTA –</title>
+  </programme>
+  <programme start="20260907175000 -0300" stop="20260907185000 -0300" channel="TVAssembleiaPI.br">
+    <title lang="pt">RAZÕES DA FÉ</title>
+  </programme>
+  <programme start="20260907175000 -0300" stop="20260907185000 -0300" channel="Globo.br">
+    <title lang="pt">RAZÕES DA FÉ</title>
+  </programme>
+  <programme start="20260907175000 -0300" stop="20260907185000 -0300" channel="SBT.br">
+    <title lang="pt">RAZÕES DA FÉ</title>
+  </programme>
+  <programme start="20260907175000 -0300" stop="20260907185000 -0300" channel="RecordTV.br">
+    <title lang="pt">RAZÕES DA FÉ</title>
+  </programme>
+  <programme start="20260907175000 -0300" stop="20260907185000 -0300" channel="Band.br">
+    <title lang="pt">RAZÕES DA FÉ</title>
+  </programme>
+  <programme start="20260907175000 -0300" stop="20260907185000 -0300" channel="TVBrasil.br">
+    <title lang="pt">RAZÕES DA FÉ</title>
+  </programme>
+  <programme start="20260907175000 -0300" stop="20260907185000 -0300" channel="TVCamara.br">
+    <title lang="pt">RAZÕES DA FÉ</title>
+  </programme>
+  <programme start="20260907175000 -0300" stop="20260907185000 -0300" channel="TVSenado.br">
+    <title lang="pt">RAZÕES DA FÉ</title>
+  </programme>
+  <programme start="20260907180000 -0300" stop="20260907190000 -0300" channel="TVAssembleiaPI.br">
+    <title lang="pt">JORNAL ALEPI 2ª EDIÇÃO -</title>
+  </programme>
+  <programme start="20260907180000 -0300" stop="20260907190000 -0300" channel="Globo.br">
+    <title lang="pt">JORNAL ALEPI 2ª EDIÇÃO -</title>
+  </programme>
+  <programme start="20260907180000 -0300" stop="20260907190000 -0300" channel="SBT.br">
+    <title lang="pt">JORNAL ALEPI 2ª EDIÇÃO -</title>
+  </programme>
+  <programme start="20260907180000 -0300" stop="20260907190000 -0300" channel="RecordTV.br">
+    <title lang="pt">JORNAL ALEPI 2ª EDIÇÃO -</title>
+  </programme>
+  <programme start="20260907180000 -0300" stop="20260907190000 -0300" channel="Band.br">
+    <title lang="pt">JORNAL ALEPI 2ª EDIÇÃO -</title>
+  </programme>
+  <programme start="20260907180000 -0300" stop="20260907190000 -0300" channel="TVBrasil.br">
+    <title lang="pt">JORNAL ALEPI 2ª EDIÇÃO -</title>
+  </programme>
+  <programme start="20260907180000 -0300" stop="20260907190000 -0300" channel="TVCamara.br">
+    <title lang="pt">JORNAL ALEPI 2ª EDIÇÃO -</title>
+  </programme>
+  <programme start="20260907180000 -0300" stop="20260907190000 -0300" channel="TVSenado.br">
+    <title lang="pt">JORNAL ALEPI 2ª EDIÇÃO -</title>
+  </programme>
+  <programme start="20260907183000 -0300" stop="20260907193000 -0300" channel="TVAssembleiaPI.br">
+    <title lang="pt">ESPORTE NA ÁREA -</title>
+  </programme>
+  <programme start="20260907183000 -0300" stop="20260907193000 -0300" channel="TVAssembleiaPI.br">
+    <title lang="pt">MUSICALÍSSIMA</title>
+  </programme>
+  <programme start="20260907183000 -0300" stop="20260907193000 -0300" channel="Globo.br">
+    <title lang="pt">ESPORTE NA ÁREA -</title>
+  </programme>
+  <programme start="20260907183000 -0300" stop="20260907193000 -0300" channel="Globo.br">
+    <title lang="pt">MUSICALÍSSIMA</title>
+  </programme>
+  <programme start="20260907183000 -0300" stop="20260907193000 -0300" channel="SBT.br">
+    <title lang="pt">ESPORTE NA ÁREA -</title>
+  </programme>
+  <programme start="20260907183000 -0300" stop="20260907193000 -0300" channel="SBT.br">
+    <title lang="pt">MUSICALÍSSIMA</title>
+  </programme>
+  <programme start="20260907183000 -0300" stop="20260907193000 -0300" channel="RecordTV.br">
+    <title lang="pt">ESPORTE NA ÁREA -</title>
+  </programme>
+  <programme start="20260907183000 -0300" stop="20260907193000 -0300" channel="RecordTV.br">
+    <title lang="pt">MUSICALÍSSIMA</title>
+  </programme>
+  <programme start="20260907183000 -0300" stop="20260907193000 -0300" channel="Band.br">
+    <title lang="pt">ESPORTE NA ÁREA -</title>
+  </programme>
+  <programme start="20260907183000 -0300" stop="20260907193000 -0300" channel="Band.br">
+    <title lang="pt">MUSICALÍSSIMA</title>
+  </programme>
+  <programme start="20260907183000 -0300" stop="20260907193000 -0300" channel="TVBrasil.br">
+    <title lang="pt">ESPORTE NA ÁREA -</title>
+  </programme>
+  <programme start="20260907183000 -0300" stop="20260907193000 -0300" channel="TVBrasil.br">
+    <title lang="pt">MUSICALÍSSIMA</title>
+  </programme>
+  <programme start="20260907183000 -0300" stop="20260907193000 -0300" channel="TVCamara.br">
+    <title lang="pt">ESPORTE NA ÁREA -</title>
+  </programme>
+  <programme start="20260907183000 -0300" stop="20260907193000 -0300" channel="TVCamara.br">
+    <title lang="pt">MUSICALÍSSIMA</title>
+  </programme>
+  <programme start="20260907183000 -0300" stop="20260907193000 -0300" channel="TVSenado.br">
+    <title lang="pt">ESPORTE NA ÁREA -</title>
+  </programme>
+  <programme start="20260907183000 -0300" stop="20260907193000 -0300" channel="TVSenado.br">
+    <title lang="pt">MUSICALÍSSIMA</title>
+  </programme>
+  <programme start="20260907190000 -0300" stop="20260907200000 -0300" channel="TVAssembleiaPI.br">
+    <title lang="pt">JORNAL ALEPI 2ª EDIÇÃO-</title>
+  </programme>
+  <programme start="20260907190000 -0300" stop="20260907200000 -0300" channel="TVAssembleiaPI.br">
+    <title lang="pt">JORNAL ALEPI 2ª EDIÇÃO -</title>
+  </programme>
+  <programme start="20260907190000 -0300" stop="20260907200000 -0300" channel="TVAssembleiaPI.br">
+    <title lang="pt">SARAU 17.1 -</title>
+  </programme>
+  <programme start="20260907190000 -0300" stop="20260907200000 -0300" channel="Globo.br">
+    <title lang="pt">JORNAL ALEPI 2ª EDIÇÃO-</title>
+  </programme>
+  <programme start="20260907190000 -0300" stop="20260907200000 -0300" channel="Globo.br">
+    <title lang="pt">JORNAL ALEPI 2ª EDIÇÃO -</title>
+  </programme>
+  <programme start="20260907190000 -0300" stop="20260907200000 -0300" channel="Globo.br">
+    <title lang="pt">SARAU 17.1 -</title>
+  </programme>
+  <programme start="20260907190000 -0300" stop="20260907200000 -0300" channel="SBT.br">
+    <title lang="pt">JORNAL ALEPI 2ª EDIÇÃO-</title>
+  </programme>
+  <programme start="20260907190000 -0300" stop="20260907200000 -0300" channel="SBT.br">
+    <title lang="pt">JORNAL ALEPI 2ª EDIÇÃO -</title>
+  </programme>
+  <programme start="20260907190000 -0300" stop="20260907200000 -0300" channel="SBT.br">
+    <title lang="pt">SARAU 17.1 -</title>
+  </programme>
+  <programme start="20260907190000 -0300" stop="20260907200000 -0300" channel="RecordTV.br">
+    <title lang="pt">JORNAL ALEPI 2ª EDIÇÃO-</title>
+  </programme>
+  <programme start="20260907190000 -0300" stop="20260907200000 -0300" channel="RecordTV.br">
+    <title lang="pt">JORNAL ALEPI 2ª EDIÇÃO -</title>
+  </programme>
+  <programme start="20260907190000 -0300" stop="20260907200000 -0300" channel="RecordTV.br">
+    <title lang="pt">SARAU 17.1 -</title>
+  </programme>
+  <programme start="20260907190000 -0300" stop="20260907200000 -0300" channel="Band.br">
+    <title lang="pt">JORNAL ALEPI 2ª EDIÇÃO-</title>
+  </programme>
+  <programme start="20260907190000 -0300" stop="20260907200000 -0300" channel="Band.br">
+    <title lang="pt">JORNAL ALEPI 2ª EDIÇÃO -</title>
+  </programme>
+  <programme start="20260907190000 -0300" stop="20260907200000 -0300" channel="Band.br">
+    <title lang="pt">SARAU 17.1 -</title>
+  </programme>
+  <programme start="20260907190000 -0300" stop="20260907200000 -0300" channel="TVBrasil.br">
+    <title lang="pt">JORNAL ALEPI 2ª EDIÇÃO-</title>
+  </programme>
+  <programme start="20260907190000 -0300" stop="20260907200000 -0300" channel="TVBrasil.br">
+    <title lang="pt">JORNAL ALEPI 2ª EDIÇÃO -</title>
+  </programme>
+  <programme start="20260907190000 -0300" stop="20260907200000 -0300" channel="TVBrasil.br">
+    <title lang="pt">SARAU 17.1 -</title>
+  </programme>
+  <programme start="20260907190000 -0300" stop="20260907200000 -0300" channel="TVCamara.br">
+    <title lang="pt">JORNAL ALEPI 2ª EDIÇÃO-</title>
+  </programme>
+  <programme start="20260907190000 -0300" stop="20260907200000 -0300" channel="TVCamara.br">
+    <title lang="pt">JORNAL ALEPI 2ª EDIÇÃO -</title>
+  </programme>
+  <programme start="20260907190000 -0300" stop="20260907200000 -0300" channel="TVCamara.br">
+    <title lang="pt">SARAU 17.1 -</title>
+  </programme>
+  <programme start="20260907190000 -0300" stop="20260907200000 -0300" channel="TVSenado.br">
+    <title lang="pt">JORNAL ALEPI 2ª EDIÇÃO-</title>
+  </programme>
+  <programme start="20260907190000 -0300" stop="20260907200000 -0300" channel="TVSenado.br">
+    <title lang="pt">JORNAL ALEPI 2ª EDIÇÃO -</title>
+  </programme>
+  <programme start="20260907190000 -0300" stop="20260907200000 -0300" channel="TVSenado.br">
+    <title lang="pt">SARAU 17.1 -</title>
+  </programme>
+  <programme start="20260907193000 -0300" stop="20260907203000 -0300" channel="TVAssembleiaPI.br">
+    <title lang="pt">CINE ALEPI – FAROESTE</title>
+  </programme>
+  <programme start="20260907193000 -0300" stop="20260907203000 -0300" channel="TVAssembleiaPI.br">
+    <title lang="pt">CINE ALEPI - FAROESTE</title>
+  </programme>
+  <programme start="20260907193000 -0300" stop="20260907203000 -0300" channel="Globo.br">
+    <title lang="pt">CINE ALEPI – FAROESTE</title>
+  </programme>
+  <programme start="20260907193000 -0300" stop="20260907203000 -0300" channel="Globo.br">
+    <title lang="pt">CINE ALEPI - FAROESTE</title>
+  </programme>
+  <programme start="20260907193000 -0300" stop="20260907203000 -0300" channel="SBT.br">
+    <title lang="pt">CINE ALEPI – FAROESTE</title>
+  </programme>
+  <programme start="20260907193000 -0300" stop="20260907203000 -0300" channel="SBT.br">
+    <title lang="pt">CINE ALEPI - FAROESTE</title>
+  </programme>
+  <programme start="20260907193000 -0300" stop="20260907203000 -0300" channel="RecordTV.br">
+    <title lang="pt">CINE ALEPI – FAROESTE</title>
+  </programme>
+  <programme start="20260907193000 -0300" stop="20260907203000 -0300" channel="RecordTV.br">
+    <title lang="pt">CINE ALEPI - FAROESTE</title>
+  </programme>
+  <programme start="20260907193000 -0300" stop="20260907203000 -0300" channel="Band.br">
+    <title lang="pt">CINE ALEPI – FAROESTE</title>
+  </programme>
+  <programme start="20260907193000 -0300" stop="20260907203000 -0300" channel="Band.br">
+    <title lang="pt">CINE ALEPI - FAROESTE</title>
+  </programme>
+  <programme start="20260907193000 -0300" stop="20260907203000 -0300" channel="TVBrasil.br">
+    <title lang="pt">CINE ALEPI – FAROESTE</title>
+  </programme>
+  <programme start="20260907193000 -0300" stop="20260907203000 -0300" channel="TVBrasil.br">
+    <title lang="pt">CINE ALEPI - FAROESTE</title>
+  </programme>
+  <programme start="20260907193000 -0300" stop="20260907203000 -0300" channel="TVCamara.br">
+    <title lang="pt">CINE ALEPI – FAROESTE</title>
+  </programme>
+  <programme start="20260907193000 -0300" stop="20260907203000 -0300" channel="TVCamara.br">
+    <title lang="pt">CINE ALEPI - FAROESTE</title>
+  </programme>
+  <programme start="20260907193000 -0300" stop="20260907203000 -0300" channel="TVSenado.br">
+    <title lang="pt">CINE ALEPI – FAROESTE</title>
+  </programme>
+  <programme start="20260907193000 -0300" stop="20260907203000 -0300" channel="TVSenado.br">
+    <title lang="pt">CINE ALEPI - FAROESTE</title>
+  </programme>
+  <programme start="20260907200000 -0300" stop="20260907210000 -0300" channel="TVAssembleiaPI.br">
+    <title lang="pt">CINE ALEPI</title>
+  </programme>
+  <programme start="20260907200000 -0300" stop="20260907210000 -0300" channel="Globo.br">
+    <title lang="pt">CINE ALEPI</title>
+  </programme>
+  <programme start="20260907200000 -0300" stop="20260907210000 -0300" channel="SBT.br">
+    <title lang="pt">CINE ALEPI</title>
+  </programme>
+  <programme start="20260907200000 -0300" stop="20260907210000 -0300" channel="RecordTV.br">
+    <title lang="pt">CINE ALEPI</title>
+  </programme>
+  <programme start="20260907200000 -0300" stop="20260907210000 -0300" channel="Band.br">
+    <title lang="pt">CINE ALEPI</title>
+  </programme>
+  <programme start="20260907200000 -0300" stop="20260907210000 -0300" channel="TVBrasil.br">
+    <title lang="pt">CINE ALEPI</title>
+  </programme>
+  <programme start="20260907200000 -0300" stop="20260907210000 -0300" channel="TVCamara.br">
+    <title lang="pt">CINE ALEPI</title>
+  </programme>
+  <programme start="20260907200000 -0300" stop="20260907210000 -0300" channel="TVSenado.br">
+    <title lang="pt">CINE ALEPI</title>
+  </programme>
+  <programme start="20260907210000 -0300" stop="20260907220000 -0300" channel="TVAssembleiaPI.br">
+    <title lang="pt">MATUTANDO</title>
+  </programme>
+  <programme start="20260907210000 -0300" stop="20260907220000 -0300" channel="TVAssembleiaPI.br">
+    <title lang="pt">SARAU 17.1</title>
+  </programme>
+  <programme start="20260907210000 -0300" stop="20260907220000 -0300" channel="TVAssembleiaPI.br">
+    <title lang="pt">APAE</title>
+  </programme>
+  <programme start="20260907210000 -0300" stop="20260907220000 -0300" channel="Globo.br">
+    <title lang="pt">MATUTANDO</title>
+  </programme>
+  <programme start="20260907210000 -0300" stop="20260907220000 -0300" channel="Globo.br">
+    <title lang="pt">SARAU 17.1</title>
+  </programme>
+  <programme start="20260907210000 -0300" stop="20260907220000 -0300" channel="Globo.br">
+    <title lang="pt">APAE</title>
+  </programme>
+  <programme start="20260907210000 -0300" stop="20260907220000 -0300" channel="SBT.br">
+    <title lang="pt">MATUTANDO</title>
+  </programme>
+  <programme start="20260907210000 -0300" stop="20260907220000 -0300" channel="SBT.br">
+    <title lang="pt">SARAU 17.1</title>
+  </programme>
+  <programme start="20260907210000 -0300" stop="20260907220000 -0300" channel="SBT.br">
+    <title lang="pt">APAE</title>
+  </programme>
+  <programme start="20260907210000 -0300" stop="20260907220000 -0300" channel="RecordTV.br">
+    <title lang="pt">MATUTANDO</title>
+  </programme>
+  <programme start="20260907210000 -0300" stop="20260907220000 -0300" channel="RecordTV.br">
+    <title lang="pt">SARAU 17.1</title>
+  </programme>
+  <programme start="20260907210000 -0300" stop="20260907220000 -0300" channel="RecordTV.br">
+    <title lang="pt">APAE</title>
+  </programme>
+  <programme start="20260907210000 -0300" stop="20260907220000 -0300" channel="Band.br">
+    <title lang="pt">MATUTANDO</title>
+  </programme>
+  <programme start="20260907210000 -0300" stop="20260907220000 -0300" channel="Band.br">
+    <title lang="pt">SARAU 17.1</title>
+  </programme>
+  <programme start="20260907210000 -0300" stop="20260907220000 -0300" channel="Band.br">
+    <title lang="pt">APAE</title>
+  </programme>
+  <programme start="20260907210000 -0300" stop="20260907220000 -0300" channel="TVBrasil.br">
+    <title lang="pt">MATUTANDO</title>
+  </programme>
+  <programme start="20260907210000 -0300" stop="20260907220000 -0300" channel="TVBrasil.br">
+    <title lang="pt">SARAU 17.1</title>
+  </programme>
+  <programme start="20260907210000 -0300" stop="20260907220000 -0300" channel="TVBrasil.br">
+    <title lang="pt">APAE</title>
+  </programme>
+  <programme start="20260907210000 -0300" stop="20260907220000 -0300" channel="TVCamara.br">
+    <title lang="pt">MATUTANDO</title>
+  </programme>
+  <programme start="20260907210000 -0300" stop="20260907220000 -0300" channel="TVCamara.br">
+    <title lang="pt">SARAU 17.1</title>
+  </programme>
+  <programme start="20260907210000 -0300" stop="20260907220000 -0300" channel="TVCamara.br">
+    <title lang="pt">APAE</title>
+  </programme>
+  <programme start="20260907210000 -0300" stop="20260907220000 -0300" channel="TVSenado.br">
+    <title lang="pt">MATUTANDO</title>
+  </programme>
+  <programme start="20260907210000 -0300" stop="20260907220000 -0300" channel="TVSenado.br">
+    <title lang="pt">SARAU 17.1</title>
+  </programme>
+  <programme start="20260907210000 -0300" stop="20260907220000 -0300" channel="TVSenado.br">
+    <title lang="pt">APAE</title>
+  </programme>
+  <programme start="20260907213000 -0300" stop="20260907223000 -0300" channel="TVAssembleiaPI.br">
+    <title lang="pt">PIAUÍ QUE PRODUZ -</title>
+  </programme>
+  <programme start="20260907213000 -0300" stop="20260907223000 -0300" channel="TVAssembleiaPI.br">
+    <title lang="pt">SOB OUTRO OLHAR</title>
+  </programme>
+  <programme start="20260907213000 -0300" stop="20260907223000 -0300" channel="TVAssembleiaPI.br">
+    <title lang="pt">PIAUI CHEIO DE GRAÇA</title>
+  </programme>
+  <programme start="20260907213000 -0300" stop="20260907223000 -0300" channel="TVAssembleiaPI.br">
+    <title lang="pt">CENA ABERTA</title>
+  </programme>
+  <programme start="20260907213000 -0300" stop="20260907223000 -0300" channel="Globo.br">
+    <title lang="pt">PIAUÍ QUE PRODUZ -</title>
+  </programme>
+  <programme start="20260907213000 -0300" stop="20260907223000 -0300" channel="Globo.br">
+    <title lang="pt">SOB OUTRO OLHAR</title>
+  </programme>
+  <programme start="20260907213000 -0300" stop="20260907223000 -0300" channel="Globo.br">
+    <title lang="pt">PIAUI CHEIO DE GRAÇA</title>
+  </programme>
+  <programme start="20260907213000 -0300" stop="20260907223000 -0300" channel="Globo.br">
+    <title lang="pt">CENA ABERTA</title>
+  </programme>
+  <programme start="20260907213000 -0300" stop="20260907223000 -0300" channel="SBT.br">
+    <title lang="pt">PIAUÍ QUE PRODUZ -</title>
+  </programme>
+  <programme start="20260907213000 -0300" stop="20260907223000 -0300" channel="SBT.br">
+    <title lang="pt">SOB OUTRO OLHAR</title>
+  </programme>
+  <programme start="20260907213000 -0300" stop="20260907223000 -0300" channel="SBT.br">
+    <title lang="pt">PIAUI CHEIO DE GRAÇA</title>
+  </programme>
+  <programme start="20260907213000 -0300" stop="20260907223000 -0300" channel="SBT.br">
+    <title lang="pt">CENA ABERTA</title>
+  </programme>
+  <programme start="20260907213000 -0300" stop="20260907223000 -0300" channel="RecordTV.br">
+    <title lang="pt">PIAUÍ QUE PRODUZ -</title>
+  </programme>
+  <programme start="20260907213000 -0300" stop="20260907223000 -0300" channel="RecordTV.br">
+    <title lang="pt">SOB OUTRO OLHAR</title>
+  </programme>
+  <programme start="20260907213000 -0300" stop="20260907223000 -0300" channel="RecordTV.br">
+    <title lang="pt">PIAUI CHEIO DE GRAÇA</title>
+  </programme>
+  <programme start="20260907213000 -0300" stop="20260907223000 -0300" channel="RecordTV.br">
+    <title lang="pt">CENA ABERTA</title>
+  </programme>
+  <programme start="20260907213000 -0300" stop="20260907223000 -0300" channel="Band.br">
+    <title lang="pt">PIAUÍ QUE PRODUZ -</title>
+  </programme>
+  <programme start="20260907213000 -0300" stop="20260907223000 -0300" channel="Band.br">
+    <title lang="pt">SOB OUTRO OLHAR</title>
+  </programme>
+  <programme start="20260907213000 -0300" stop="20260907223000 -0300" channel="Band.br">
+    <title lang="pt">PIAUI CHEIO DE GRAÇA</title>
+  </programme>
+  <programme start="20260907213000 -0300" stop="20260907223000 -0300" channel="Band.br">
+    <title lang="pt">CENA ABERTA</title>
+  </programme>
+  <programme start="20260907213000 -0300" stop="20260907223000 -0300" channel="TVBrasil.br">
+    <title lang="pt">PIAUÍ QUE PRODUZ -</title>
+  </programme>
+  <programme start="20260907213000 -0300" stop="20260907223000 -0300" channel="TVBrasil.br">
+    <title lang="pt">SOB OUTRO OLHAR</title>
+  </programme>
+  <programme start="20260907213000 -0300" stop="20260907223000 -0300" channel="TVBrasil.br">
+    <title lang="pt">PIAUI CHEIO DE GRAÇA</title>
+  </programme>
+  <programme start="20260907213000 -0300" stop="20260907223000 -0300" channel="TVBrasil.br">
+    <title lang="pt">CENA ABERTA</title>
+  </programme>
+  <programme start="20260907213000 -0300" stop="20260907223000 -0300" channel="TVCamara.br">
+    <title lang="pt">PIAUÍ QUE PRODUZ -</title>
+  </programme>
+  <programme start="20260907213000 -0300" stop="20260907223000 -0300" channel="TVCamara.br">
+    <title lang="pt">SOB OUTRO OLHAR</title>
+  </programme>
+  <programme start="20260907213000 -0300" stop="20260907223000 -0300" channel="TVCamara.br">
+    <title lang="pt">PIAUI CHEIO DE GRAÇA</title>
+  </programme>
+  <programme start="20260907213000 -0300" stop="20260907223000 -0300" channel="TVCamara.br">
+    <title lang="pt">CENA ABERTA</title>
+  </programme>
+  <programme start="20260907213000 -0300" stop="20260907223000 -0300" channel="TVSenado.br">
+    <title lang="pt">PIAUÍ QUE PRODUZ -</title>
+  </programme>
+  <programme start="20260907213000 -0300" stop="20260907223000 -0300" channel="TVSenado.br">
+    <title lang="pt">SOB OUTRO OLHAR</title>
+  </programme>
+  <programme start="20260907213000 -0300" stop="20260907223000 -0300" channel="TVSenado.br">
+    <title lang="pt">PIAUI CHEIO DE GRAÇA</title>
+  </programme>
+  <programme start="20260907213000 -0300" stop="20260907223000 -0300" channel="TVSenado.br">
+    <title lang="pt">CENA ABERTA</title>
+  </programme>
+  <programme start="20260907220000 -0300" stop="20260907230000 -0300" channel="TVAssembleiaPI.br">
+    <title lang="pt">SESSÃO PLENÁRIA -</title>
+  </programme>
+  <programme start="20260907220000 -0300" stop="20260907230000 -0300" channel="TVAssembleiaPI.br">
+    <title lang="pt">SESSÃO PLENÁRIA –</title>
+  </programme>
+  <programme start="20260907220000 -0300" stop="20260907230000 -0300" channel="TVAssembleiaPI.br">
+    <title lang="pt">APAE -</title>
+  </programme>
+  <programme start="20260907220000 -0300" stop="20260907230000 -0300" channel="Globo.br">
+    <title lang="pt">SESSÃO PLENÁRIA -</title>
+  </programme>
+  <programme start="20260907220000 -0300" stop="20260907230000 -0300" channel="Globo.br">
+    <title lang="pt">SESSÃO PLENÁRIA –</title>
+  </programme>
+  <programme start="20260907220000 -0300" stop="20260907230000 -0300" channel="Globo.br">
+    <title lang="pt">APAE -</title>
+  </programme>
+  <programme start="20260907220000 -0300" stop="20260907230000 -0300" channel="SBT.br">
+    <title lang="pt">SESSÃO PLENÁRIA -</title>
+  </programme>
+  <programme start="20260907220000 -0300" stop="20260907230000 -0300" channel="SBT.br">
+    <title lang="pt">SESSÃO PLENÁRIA –</title>
+  </programme>
+  <programme start="20260907220000 -0300" stop="20260907230000 -0300" channel="SBT.br">
+    <title lang="pt">APAE -</title>
+  </programme>
+  <programme start="20260907220000 -0300" stop="20260907230000 -0300" channel="RecordTV.br">
+    <title lang="pt">SESSÃO PLENÁRIA -</title>
+  </programme>
+  <programme start="20260907220000 -0300" stop="20260907230000 -0300" channel="RecordTV.br">
+    <title lang="pt">SESSÃO PLENÁRIA –</title>
+  </programme>
+  <programme start="20260907220000 -0300" stop="20260907230000 -0300" channel="RecordTV.br">
+    <title lang="pt">APAE -</title>
+  </programme>
+  <programme start="20260907220000 -0300" stop="20260907230000 -0300" channel="Band.br">
+    <title lang="pt">SESSÃO PLENÁRIA -</title>
+  </programme>
+  <programme start="20260907220000 -0300" stop="20260907230000 -0300" channel="Band.br">
+    <title lang="pt">SESSÃO PLENÁRIA –</title>
+  </programme>
+  <programme start="20260907220000 -0300" stop="20260907230000 -0300" channel="Band.br">
+    <title lang="pt">APAE -</title>
+  </programme>
+  <programme start="20260907220000 -0300" stop="20260907230000 -0300" channel="TVBrasil.br">
+    <title lang="pt">SESSÃO PLENÁRIA -</title>
+  </programme>
+  <programme start="20260907220000 -0300" stop="20260907230000 -0300" channel="TVBrasil.br">
+    <title lang="pt">SESSÃO PLENÁRIA –</title>
+  </programme>
+  <programme start="20260907220000 -0300" stop="20260907230000 -0300" channel="TVBrasil.br">
+    <title lang="pt">APAE -</title>
+  </programme>
+  <programme start="20260907220000 -0300" stop="20260907230000 -0300" channel="TVCamara.br">
+    <title lang="pt">SESSÃO PLENÁRIA -</title>
+  </programme>
+  <programme start="20260907220000 -0300" stop="20260907230000 -0300" channel="TVCamara.br">
+    <title lang="pt">SESSÃO PLENÁRIA –</title>
+  </programme>
+  <programme start="20260907220000 -0300" stop="20260907230000 -0300" channel="TVCamara.br">
+    <title lang="pt">APAE -</title>
+  </programme>
+  <programme start="20260907220000 -0300" stop="20260907230000 -0300" channel="TVSenado.br">
+    <title lang="pt">SESSÃO PLENÁRIA -</title>
+  </programme>
+  <programme start="20260907220000 -0300" stop="20260907230000 -0300" channel="TVSenado.br">
+    <title lang="pt">SESSÃO PLENÁRIA –</title>
+  </programme>
+  <programme start="20260907220000 -0300" stop="20260907230000 -0300" channel="TVSenado.br">
     <title lang="pt">APAE -</title>
   </programme>
 </tv>
